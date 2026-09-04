@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO 自然搜索增长"
+  short_description: "先向用户获取或代取搜索数据，再结合项目分析并优化自然流量"
+  default_prompt: "使用 $grow-seo-traffic 先列出所需数据，并询问是否允许代取 GSC、Bing、Semrush、Trends 和 X 信号；数据足够后再分析和优化。"
