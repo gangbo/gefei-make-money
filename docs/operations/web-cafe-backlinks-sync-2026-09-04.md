@@ -7,8 +7,8 @@
 > 本文为归纳；价格、审核时长、流量、DR、链接属性及订单效果均来自社区发言，未在目标网站独立核验。不把帖子中的个人经验写成平台保证。
 
 - [601 条完整清单与逐项理由](web-cafe-backlinks-catalog-2026-09-04.md)
-- [结构化来源 JSON](raw/web-cafe/backlinks-2026-09-04.json)
-- [原榜单文字快照 TXT](raw/web-cafe/backlinks-2026-09-04-source.txt)
+- [结构化来源 JSON](../01-sources/web-cafe/backlinks-2026-09-04.json)
+- [原榜单文字快照 TXT](../01-sources/web-cafe/backlinks-2026-09-04-source.txt)
 
 ## 一、这页最有用的内容
 
@@ -169,7 +169,7 @@
 
 与已有文档的阅读关系：
 
-1. [挖掘真实产品需求](demand-discovery-methods-web-cafe.md)与[去哪些网站挖掘产品需求](web-cafe-demand-discovery-websites-2026-09-04.md)用于找机会；两篇是不同来源，不用本帖数字覆盖其统计。
+1. [挖掘真实产品需求](../00-methodology/demand-discovery-methods-web-cafe.md)与[去哪些网站挖掘产品需求](../00-methodology/web-cafe-demand-discovery-websites-2026-09-04.md)用于找机会；两篇是不同来源，不用本帖数字覆盖其统计。
 2. [新人如何获得第一个 100 美元和 1,000 美元](banbri-first-100-to-1000-dollars.md)用于理解上线和复盘节奏；本文补上其中“发布首批外链”的渠道资料。
 3. 针对具体项目执行时，再记录实际结果。以下是整理者建议增加的工作表字段，原帖没有提供完整逐站数据：
 

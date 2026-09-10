@@ -277,4 +277,4 @@ Reddit 例子包括 `r/SaaS`、`r/Entrepreneur`、`r/SideProject`、`r/smallbusi
 ## 相关文档
 
 - [之前整理的需求挖掘方法帖](demand-discovery-methods-web-cafe.md)：侧重方法论；本文侧重网站及具体查看入口。
-- [此前 AI 图片选品研究](grow-seo-traffic/reports/2026-08-26-ai-image-product-opportunity.md)：属于另一轮研究，不是本截图的结论。其房产照片方向后来在对话中因搜索规模和实现难度被下调为待验证候选，应结合后续讨论阅读。
+- [此前 AI 图片选品研究](../grow-seo-traffic/reports/2026-08-26-ai-image-product-opportunity.md)：属于另一轮研究，不是本截图的结论。其房产照片方向后来在对话中因搜索规模和实现难度被下调为待验证候选，应结合后续讨论阅读。

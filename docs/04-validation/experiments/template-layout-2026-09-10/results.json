@@ -1,0 +1,206 @@
+[
+  {
+    "case": "short",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 1,
+    "file": "short-1080x1080.png"
+  },
+  {
+    "case": "short",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 1,
+    "file": "short-1080x1350.png"
+  },
+  {
+    "case": "short",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 1,
+    "file": "short-1080x1920.png"
+  },
+  {
+    "case": "long",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 3,
+    "file": "long-1080x1080.png"
+  },
+  {
+    "case": "long",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 3,
+    "file": "long-1080x1350.png"
+  },
+  {
+    "case": "long",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 3,
+    "file": "long-1080x1920.png"
+  },
+  {
+    "case": "wide_letters",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "wide_letters-1080x1080.png"
+  },
+  {
+    "case": "wide_letters",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "wide_letters-1080x1350.png"
+  },
+  {
+    "case": "wide_letters",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "wide_letters-1080x1920.png"
+  },
+  {
+    "case": "unbroken",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "unbroken-1080x1080.png"
+  },
+  {
+    "case": "unbroken",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "unbroken-1080x1350.png"
+  },
+  {
+    "case": "unbroken",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rendered",
+    "font_px": 72,
+    "lines": 2,
+    "file": "unbroken-1080x1920.png"
+  },
+  {
+    "case": "overlong",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "copy exceeds layout at minimum font 36px"
+  },
+  {
+    "case": "overlong",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "copy exceeds layout at minimum font 36px"
+  },
+  {
+    "case": "overlong",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "copy exceeds layout at minimum font 36px"
+  },
+  {
+    "case": "bad_price",
+    "size": [
+      1080,
+      1080
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "invalid price"
+  },
+  {
+    "case": "bad_price",
+    "size": [
+      1080,
+      1350
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "invalid price"
+  },
+  {
+    "case": "bad_price",
+    "size": [
+      1080,
+      1920
+    ],
+    "synthetic": true,
+    "status": "rejected",
+    "reason": "invalid price"
+  }
+]

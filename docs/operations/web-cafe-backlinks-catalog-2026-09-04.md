@@ -6,7 +6,7 @@
 > 94 条没有“打开”链接，其中 64 条在名称中写有网址；这里保留这些明示网址，剩余 30 条不猜测链接。
 > 原页面有的名称来自自动抓取，可能是标题片段或错误提示；保留原始名称，方便与原帖逐项对应。显示层移除昵称中的方向控制符；原始数据仍保存在 JSON。
 
-先看[重点整理与费用分歧](web-cafe-backlinks-sync-2026-09-04.md)。结构化来源见 [JSON](raw/web-cafe/backlinks-2026-09-04.json)，原榜单文字快照见 [TXT](raw/web-cafe/backlinks-2026-09-04-source.txt)。
+先看[重点整理与费用分歧](web-cafe-backlinks-sync-2026-09-04.md)。结构化来源见 [JSON](../01-sources/web-cafe/backlinks-2026-09-04.json)，原榜单文字快照见 [TXT](../01-sources/web-cafe/backlinks-2026-09-04-source.txt)。
 
 ## 完整索引
 

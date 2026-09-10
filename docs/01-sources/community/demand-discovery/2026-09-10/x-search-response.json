@@ -1,0 +1,8 @@
+{
+  "status": "failed",
+  "http_status": 400,
+  "error_code": "invalid-argument",
+  "error_summary": "Incorrect API key provided",
+  "result_count": 0,
+  "note": "这是失败记录，不是 API 返回的搜索结果。未保存认证信息。用户随后要求改用浏览器，已通过 Chrome 读取 X 原帖。"
+}
