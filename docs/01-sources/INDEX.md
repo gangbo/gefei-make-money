@@ -18,3 +18,5 @@
 新资料命名：`类别/采集日期/来源-范围.扩展名`。优先使用 `rankings/`、`competitors/`、`community/`，其余来源按需建立，避免预先铺空目录。
 
 本轮将原报告里已有数值提取成两份榜单摘录，**未重新联网，未恢复不存在的完整原始导出**。每个摘录注明原记录。旧文件迁移对照见 [migration-map.json](migration-map.json)。
+
+- S-033：[Tarkov Documents Map 站点案例](competitors/2026-09-11/tarkovdocsmap/source-notes.md)，09-11部分采集：用户截图原样归档、官网、作者两帖及可见回复、Steam 外部提及、Tarkov Farm；公开 HTTP 核实域名注册日与广告 ID。108 万访问仍是截图第三方估算，广告/捐款实际收入未知，未完成交互实测或完整 SEO 审计。见[商业分析](../02-candidates/reviews/tarkovdocsmap-2026-09-11.md)。

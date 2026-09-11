@@ -12,3 +12,5 @@
 | 房产图片专项 | Autoenhance、AutoHDR、Fotello | [2026-08-26 价格定位](../../grow-seo-traffic/raw/2026-08-26/competitor-products/pricing-and-positioning.md) | D-005 |
 
 新增观察记录应包含：域名、采集日期、具体页面、价格币种/周期、免费及付费边界、实际操作过的步骤、效果/未实测项、用户反馈出处。官网声明、独立使用评价和实际操作分别标记；选品判断放第二/三阶段。
+
+S-033：[Tarkov Documents Map 与 Tarkov Farm](2026-09-11/tarkovdocsmap/source-notes.md)，截图、公开功能、玩家反馈与广告配置案例；收入未核验，不构成新产品立项。
