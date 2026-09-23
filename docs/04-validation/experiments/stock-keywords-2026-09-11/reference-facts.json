@@ -1,0 +1,99 @@
+[
+  {
+    "id": "S01",
+    "visible_concepts": [
+      "cup of coffee",
+      "saucer",
+      "metal spoon",
+      "wooden table"
+    ],
+    "unsupported_without_evidence": [
+      "coffee variety",
+      "country",
+      "organic",
+      "freshly brewed"
+    ],
+    "license_summary": "Rachel Michetti; CC0",
+    "source_context": "Pikolo Espresso Bar (source context, not visually inferable)"
+  },
+  {
+    "id": "S02",
+    "visible_concepts": [
+      "cat face close-up",
+      "striped fur",
+      "eyes",
+      "whiskers"
+    ],
+    "unsupported_without_evidence": [
+      "pedigree breed",
+      "age",
+      "sex",
+      "emotion"
+    ],
+    "license_summary": "Stefan van der Walt; CC0",
+    "source_context": "Chelsea is the source name; do not require proper name in keywords"
+  },
+  {
+    "id": "S03",
+    "visible_concepts": [
+      "rocket standing on launch pad",
+      "towers",
+      "dark blue sky",
+      "illuminated ground"
+    ],
+    "unsupported_without_evidence": [
+      "lifting off",
+      "flames",
+      "smoke trail",
+      "exact date inferred from pixels"
+    ],
+    "license_summary": "SpaceX; public domain per scikit-image documentation",
+    "source_context": "Source describes Falcon 9 / DSCOVR, Cape Canaveral LC40; visually on pad, not proof of liftoff. Context identity not independently verified."
+  },
+  {
+    "id": "S04",
+    "visible_concepts": [
+      "grass",
+      "ground vegetation",
+      "monochrome texture"
+    ],
+    "unsupported_without_evidence": [
+      "green from grayscale",
+      "exact species",
+      "country",
+      "season"
+    ],
+    "license_summary": "linolafett via DeviantArt; CC0 per source",
+    "source_context": "Grayscale crop; original color unavailable"
+  },
+  {
+    "id": "S05",
+    "visible_concepts": [
+      "small stones",
+      "gravel",
+      "monochrome texture"
+    ],
+    "unsupported_without_evidence": [
+      "specific mineral",
+      "country",
+      "original color"
+    ],
+    "license_summary": "CC0Textures Gravel04; CC0",
+    "source_context": "Grayscale derived image"
+  },
+  {
+    "id": "S06",
+    "visible_concepts": [
+      "brickwork",
+      "mortar joints",
+      "monochrome texture"
+    ],
+    "unsupported_without_evidence": [
+      "red from grayscale",
+      "building age",
+      "exact material chemistry"
+    ],
+    "license_summary": "CC0Textures Bricks25; CC0",
+    "source_context": "Perspective transformed/rotated source; do not infer original orientation"
+  }
+]

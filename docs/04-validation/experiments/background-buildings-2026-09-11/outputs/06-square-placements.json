@@ -1,0 +1,498 @@
+[
+  {
+    "side": "front",
+    "u": -2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": -0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "front",
+    "u": 2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": -0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "back",
+    "u": 2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": -0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "left",
+    "u": 2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 0.9249999999999998,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 2.7750000000000004,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 0.9249999999999998,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 2.7750000000000004,
+    "z": 4.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 0.9249999999999998,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 2.7750000000000004,
+    "z": 7.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": -0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 0.9249999999999998,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  },
+  {
+    "side": "right",
+    "u": 2.7750000000000004,
+    "z": 10.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 8
+  }
+]

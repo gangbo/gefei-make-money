@@ -1,0 +1,29 @@
+{
+  "default": {
+    "completed": 20,
+    "pixel_screen_pass": 4,
+    "median_seconds": 0.00249,
+    "median_paths": 7.0,
+    "median_commands": 100.5,
+    "mean_iou": 0.6718160945776918,
+    "mean_mae": 24.976827590329226
+  },
+  "clean4": {
+    "completed": 20,
+    "pixel_screen_pass": 2,
+    "median_seconds": 0.004784999999999999,
+    "median_paths": 6.0,
+    "median_commands": 117.0,
+    "mean_iou": 0.6909484973981844,
+    "mean_mae": 39.600685327800235
+  },
+  "upsample512": {
+    "completed": 20,
+    "pixel_screen_pass": 4,
+    "median_seconds": 0.055675,
+    "median_paths": 178.0,
+    "median_commands": 2820.0,
+    "mean_iou": 0.6780381185288002,
+    "mean_mae": 21.54063253162593
+  }
+}

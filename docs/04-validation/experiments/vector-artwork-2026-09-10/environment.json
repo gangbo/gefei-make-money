@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "packages": {
+    "vtracer": "0.6.15",
+    "resvg-py": "0.5.0",
+    "pillow": "12.3.0",
+    "numpy": "2.3.5"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "trimesh": "4.7.4",
+  "python": "3.11.14",
+  "results": [
+    {
+      "id": "01-minimum",
+      "triangles": 240,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.002999996066094468,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.009372083935886621
+    },
+    {
+      "id": "02-narrow-tall",
+      "triangles": 1332,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.0030000002384156232,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.006850125268101692
+    },
+    {
+      "id": "03-wide-low",
+      "triangles": 852,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.00300000798701916,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.00403787475079298
+    },
+    {
+      "id": "04-deep",
+      "triangles": 2064,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.0030000061988744164,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.00972349988296628
+    },
+    {
+      "id": "05-maximum",
+      "triangles": 10512,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.003000018119792003,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.02065795799717307
+    },
+    {
+      "id": "06-square",
+      "triangles": 2400,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.00299999427795683,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.012460208963602781
+    },
+    {
+      "id": "07-row-house",
+      "triangles": 1164,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.0030000061988744164,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.00467908289283514
+    },
+    {
+      "id": "08-office",
+      "triangles": 4872,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.00299999427795683,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.010150833055377007
+    },
+    {
+      "id": "09-shop",
+      "triangles": 828,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.0030000061988744164,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.0041162921115756035
+    },
+    {
+      "id": "10-mid-rise",
+      "triangles": 2628,
+      "material_names": [
+        "wall",
+        "trim",
+        "roof",
+        "glass-painted",
+        "door"
+      ],
+      "bounds_error_m": 0.0,
+      "minimum_triangle_area": 0.00299999427795683,
+      "checks": {
+        "readable": true,
+        "bounds_under_1mm": true,
+        "triangles_match_source": true,
+        "finite": true,
+        "no_degenerate_faces": true,
+        "consistent_winding": true,
+        "welded_primitives_watertight": true,
+        "positive_volume": true,
+        "triangles_budget": true,
+        "file_budget": true,
+        "base_colors_preserved": true,
+        "materials_preserved": true
+      },
+      "parse_check_seconds": 0.006809666752815247
+    }
+  ]
+}

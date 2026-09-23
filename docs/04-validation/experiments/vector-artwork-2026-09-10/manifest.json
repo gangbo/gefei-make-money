@@ -1,0 +1,222 @@
+[
+  {
+    "id": "geometry-clean512",
+    "source": "truth/geometry.svg",
+    "condition": "clean512",
+    "input_size": 512,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 1.0,
+      "foreground_mae": 0.0
+    }
+  },
+  {
+    "id": "geometry-small128",
+    "source": "truth/geometry.svg",
+    "condition": "small128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.9415866194809572,
+      "foreground_mae": 7.532959779800023
+    }
+  },
+  {
+    "id": "geometry-jpeg64",
+    "source": "truth/geometry.svg",
+    "condition": "jpeg64",
+    "input_size": 64,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.7629768712127678,
+      "foreground_mae": 22.381895251913175
+    }
+  },
+  {
+    "id": "geometry-paper128",
+    "source": "truth/geometry.svg",
+    "condition": "paper128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.24312622721660476,
+      "foreground_mae": 27.159282970086284
+    }
+  },
+  {
+    "id": "three_colors-clean512",
+    "source": "truth/three_colors.svg",
+    "condition": "clean512",
+    "input_size": 512,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 1.0,
+      "foreground_mae": 0.0
+    }
+  },
+  {
+    "id": "three_colors-small128",
+    "source": "truth/three_colors.svg",
+    "condition": "small128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.9746480357166375,
+      "foreground_mae": 4.200041265534938
+    }
+  },
+  {
+    "id": "three_colors-jpeg64",
+    "source": "truth/three_colors.svg",
+    "condition": "jpeg64",
+    "input_size": 64,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.8201655713541609,
+      "foreground_mae": 20.440419063239982
+    }
+  },
+  {
+    "id": "three_colors-paper128",
+    "source": "truth/three_colors.svg",
+    "condition": "paper128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.40527915445907836,
+      "foreground_mae": 25.389085731496948
+    }
+  },
+  {
+    "id": "outline_letters-clean512",
+    "source": "truth/outline_letters.svg",
+    "condition": "clean512",
+    "input_size": 512,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 1.0,
+      "foreground_mae": 0.0
+    }
+  },
+  {
+    "id": "outline_letters-small128",
+    "source": "truth/outline_letters.svg",
+    "condition": "small128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.8698012217956235,
+      "foreground_mae": 17.758326556087226
+    }
+  },
+  {
+    "id": "outline_letters-jpeg64",
+    "source": "truth/outline_letters.svg",
+    "condition": "jpeg64",
+    "input_size": 64,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.677843940689208,
+      "foreground_mae": 30.526894240878853
+    }
+  },
+  {
+    "id": "outline_letters-paper128",
+    "source": "truth/outline_letters.svg",
+    "condition": "paper128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.2425874446794706,
+      "foreground_mae": 28.577146313459263
+    }
+  },
+  {
+    "id": "thin_lines-clean512",
+    "source": "truth/thin_lines.svg",
+    "condition": "clean512",
+    "input_size": 512,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 1.0,
+      "foreground_mae": 0.0
+    }
+  },
+  {
+    "id": "thin_lines-small128",
+    "source": "truth/thin_lines.svg",
+    "condition": "small128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.581553111701007,
+      "foreground_mae": 42.00523883762413
+    }
+  },
+  {
+    "id": "thin_lines-jpeg64",
+    "source": "truth/thin_lines.svg",
+    "condition": "jpeg64",
+    "input_size": 64,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.3118488993568258,
+      "foreground_mae": 54.67880544735333
+    }
+  },
+  {
+    "id": "thin_lines-paper128",
+    "source": "truth/thin_lines.svg",
+    "condition": "paper128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.07676435090685607,
+      "foreground_mae": 33.78982778726378
+    }
+  },
+  {
+    "id": "holes_gaps-clean512",
+    "source": "truth/holes_gaps.svg",
+    "condition": "clean512",
+    "input_size": 512,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 1.0,
+      "foreground_mae": 0.0
+    }
+  },
+  {
+    "id": "holes_gaps-small128",
+    "source": "truth/holes_gaps.svg",
+    "condition": "small128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.8713489743397547,
+      "foreground_mae": 16.87525506167287
+    }
+  },
+  {
+    "id": "holes_gaps-jpeg64",
+    "source": "truth/holes_gaps.svg",
+    "condition": "jpeg64",
+    "input_size": 64,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.6706409492125152,
+      "foreground_mae": 27.456548912520912
+    }
+  },
+  {
+    "id": "holes_gaps-paper128",
+    "source": "truth/holes_gaps.svg",
+    "condition": "paper128",
+    "input_size": 128,
+    "license": "Original programmatic artwork created for this benchmark; reusable by project owner",
+    "input_metrics": {
+      "foreground_iou": 0.3473038983801979,
+      "foreground_mae": 27.257375751268505
+    }
+  }
+]

@@ -1,0 +1,307 @@
+{
+  "blender": "4.5.6 LTS",
+  "python": "3.11.14",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "results": [
+    {
+      "input": {
+        "id": "01-minimum",
+        "width": 3.2,
+        "depth": 2.8,
+        "floors": 1,
+        "palette": 0
+      },
+      "generation_export_seconds": 0.2045269999653101,
+      "bytes": 16900,
+      "source_triangles": 240,
+      "source_bounds_z_up": [
+        [
+          -1.7300000190734863,
+          -2.190000057220459,
+          0.0
+        ],
+        [
+          1.7300000190734863,
+          1.5299999713897705,
+          3.440000057220459
+        ]
+      ],
+      "materials": 5,
+      "boxes": 20,
+      "windows": 3,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.05530679086223245,
+      "two_previews_seconds": 4.552993374876678
+    },
+    {
+      "input": {
+        "id": "02-narrow-tall",
+        "width": 3.2,
+        "depth": 4,
+        "floors": 8,
+        "palette": 1
+      },
+      "generation_export_seconds": 0.014832125045359135,
+      "bytes": 75840,
+      "source_triangles": 1332,
+      "source_bounds_z_up": [
+        [
+          -1.7300000190734863,
+          -2.7899999618530273,
+          0.0
+        ],
+        [
+          1.7300000190734863,
+          2.130000114440918,
+          24.440000534057617
+        ]
+      ],
+      "materials": 5,
+      "boxes": 111,
+      "windows": 31,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.0050965421833097935,
+      "two_previews_seconds": 1.5391972083598375
+    },
+    {
+      "input": {
+        "id": "03-wide-low",
+        "width": 20,
+        "depth": 4,
+        "floors": 1,
+        "palette": 2
+      },
+      "generation_export_seconds": 0.01047429209575057,
+      "bytes": 49896,
+      "source_triangles": 852,
+      "source_bounds_z_up": [
+        [
+          -10.130000114440918,
+          -2.7899999618530273,
+          0.0
+        ],
+        [
+          10.130000114440918,
+          2.130000114440918,
+          3.440000057220459
+        ]
+      ],
+      "materials": 5,
+      "boxes": 71,
+      "windows": 20,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.0051932078786194324,
+      "two_previews_seconds": 1.6254397500306368
+    },
+    {
+      "input": {
+        "id": "04-deep",
+        "width": 4,
+        "depth": 16,
+        "floors": 3,
+        "palette": 0
+      },
+      "generation_export_seconds": 0.015587791334837675,
+      "bytes": 115340,
+      "source_triangles": 2064,
+      "source_bounds_z_up": [
+        [
+          -2.130000114440918,
+          -8.789999961853027,
+          0.0
+        ],
+        [
+          2.130000114440918,
+          8.130000114440918,
+          9.4399995803833
+        ]
+      ],
+      "materials": 5,
+      "boxes": 172,
+      "windows": 53,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.006566249765455723,
+      "two_previews_seconds": 2.269675083924085
+    },
+    {
+      "input": {
+        "id": "05-maximum",
+        "width": 20,
+        "depth": 16,
+        "floors": 8,
+        "palette": 1
+      },
+      "generation_export_seconds": 0.06823341688141227,
+      "bytes": 571544,
+      "source_triangles": 10512,
+      "source_bounds_z_up": [
+        [
+          -10.130000114440918,
+          -8.789999961853027,
+          0.0
+        ],
+        [
+          10.130000114440918,
+          8.130000114440918,
+          24.440000534057617
+        ]
+      ],
+      "materials": 5,
+      "boxes": 876,
+      "windows": 286,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.028081250376999378,
+      "two_previews_seconds": 2.267291000112891
+    },
+    {
+      "input": {
+        "id": "06-square",
+        "width": 8,
+        "depth": 8,
+        "floors": 4,
+        "palette": 2
+      },
+      "generation_export_seconds": 0.014448083005845547,
+      "bytes": 133492,
+      "source_triangles": 2400,
+      "source_bounds_z_up": [
+        [
+          -4.130000114440918,
+          -4.789999961853027,
+          0.0
+        ],
+        [
+          4.130000114440918,
+          4.130000114440918,
+          12.4399995803833
+        ]
+      ],
+      "materials": 5,
+      "boxes": 200,
+      "windows": 62,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.005793207790702581,
+      "two_previews_seconds": 3.535359541885555
+    },
+    {
+      "input": {
+        "id": "07-row-house",
+        "width": 5.5,
+        "depth": 7,
+        "floors": 3,
+        "palette": 0
+      },
+      "generation_export_seconds": 0.05205008387565613,
+      "bytes": 66752,
+      "source_triangles": 1164,
+      "source_bounds_z_up": [
+        [
+          -2.880000114440918,
+          -4.289999961853027,
+          0.0
+        ],
+        [
+          2.880000114440918,
+          3.630000114440918,
+          9.4399995803833
+        ]
+      ],
+      "materials": 5,
+      "boxes": 97,
+      "windows": 28,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.005344082601368427,
+      "two_previews_seconds": 2.5971580832265317
+    },
+    {
+      "input": {
+        "id": "08-office",
+        "width": 12,
+        "depth": 10,
+        "floors": 6,
+        "palette": 1
+      },
+      "generation_export_seconds": 0.020769665949046612,
+      "bytes": 266972,
+      "source_triangles": 4872,
+      "source_bounds_z_up": [
+        [
+          -6.130000114440918,
+          -5.789999961853027,
+          0.0
+        ],
+        [
+          6.130000114440918,
+          5.130000114440918,
+          18.440000534057617
+        ]
+      ],
+      "materials": 5,
+      "boxes": 406,
+      "windows": 130,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.010314791928976774,
+      "two_previews_seconds": 2.3464885000139475
+    },
+    {
+      "input": {
+        "id": "09-shop",
+        "width": 7,
+        "depth": 5,
+        "floors": 2,
+        "palette": 2
+      },
+      "generation_export_seconds": 0.02136712521314621,
+      "bytes": 48600,
+      "source_triangles": 828,
+      "source_bounds_z_up": [
+        [
+          -3.630000114440918,
+          -3.2899999618530273,
+          0.0
+        ],
+        [
+          3.630000114440918,
+          2.630000114440918,
+          6.440000057220459
+        ]
+      ],
+      "materials": 5,
+      "boxes": 69,
+      "windows": 19,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.00622900016605854,
+      "two_previews_seconds": 1.9954920839518309
+    },
+    {
+      "input": {
+        "id": "10-mid-rise",
+        "width": 9.5,
+        "depth": 6.5,
+        "floors": 5,
+        "palette": 0
+      },
+      "generation_export_seconds": 0.012757000047713518,
+      "bytes": 145820,
+      "source_triangles": 2628,
+      "source_bounds_z_up": [
+        [
+          -4.880000114440918,
+          -4.039999961853027,
+          0.0
+        ],
+        [
+          4.880000114440918,
+          3.380000114440918,
+          15.4399995803833
+        ]
+      ],
+      "materials": 5,
+      "boxes": 219,
+      "windows": 68,
+      "placement_checks": true,
+      "blender_reimport_seconds": 0.005954790860414505,
+      "two_previews_seconds": 1.6031719581224024
+    }
+  ]
+}

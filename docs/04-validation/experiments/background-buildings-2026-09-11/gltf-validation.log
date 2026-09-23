@@ -1,0 +1,112 @@
+[
+  {
+    id: '01-minimum',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '02-narrow-tall',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '03-wide-low',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '04-deep',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '05-maximum',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '06-square',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '07-row-house',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '08-office',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '09-shop',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  },
+  {
+    id: '10-mid-rise',
+    issues: {
+      numErrors: 0,
+      numWarnings: 0,
+      numInfos: 0,
+      numHints: 0,
+      messages: [],
+      truncated: false
+    }
+  }
+]

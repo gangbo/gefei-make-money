@@ -1,0 +1,46 @@
+[
+  {
+    "override": "{'width': 0}",
+    "rejected": true
+  },
+  {
+    "override": "{'width': 21}",
+    "rejected": true
+  },
+  {
+    "override": "{'width': nan}",
+    "rejected": true
+  },
+  {
+    "override": "{'depth': 2}",
+    "rejected": true
+  },
+  {
+    "override": "{'depth': 17}",
+    "rejected": true
+  },
+  {
+    "override": "{'floors': 0}",
+    "rejected": true
+  },
+  {
+    "override": "{'floors': 9}",
+    "rejected": true
+  },
+  {
+    "override": "{'floors': 2.5}",
+    "rejected": true
+  },
+  {
+    "override": "{'floors': True}",
+    "rejected": true
+  },
+  {
+    "override": "{'palette': 3}",
+    "rejected": true
+  },
+  {
+    "override": "{'palette': -1}",
+    "rejected": true
+  }
+]

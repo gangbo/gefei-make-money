@@ -1,0 +1,38 @@
+{
+  "node": "v22.22.0",
+  "ag_psd": "31.0.2",
+  "canvas": "1.0.9",
+  "scope": "Self-authored serialization fixtures, NOT Photoshop/Photopea compatibility or visual-fidelity validation",
+  "results": [
+    {
+      "id": "front",
+      "slots": 1,
+      "psd_reopens": true,
+      "all_embedded_payloads_changed": true,
+      "transform_metadata_preserved": true,
+      "composite_still_identical": true,
+      "before_sha256": "4505749a5e6a0cbfddb1ac1c5c0581fccaef644edba1be9eaec6653ffc677e44",
+      "after_sha256": "c3dee3fa89807bb0bb1c765ebaa60e99f3d242d5d6e7d891b25241f4d8c6c4f7"
+    },
+    {
+      "id": "slanted",
+      "slots": 1,
+      "psd_reopens": true,
+      "all_embedded_payloads_changed": true,
+      "transform_metadata_preserved": true,
+      "composite_still_identical": true,
+      "before_sha256": "1a53927d732518a2ef7dbce6f5b74dd46348a8b30037ca71f711d9c323b4e5f3",
+      "after_sha256": "2b003f38d07faf332f26aa8da9c54016eb245b7b6c3406e18917125279aa7fc6"
+    },
+    {
+      "id": "two-slots",
+      "slots": 2,
+      "psd_reopens": true,
+      "all_embedded_payloads_changed": true,
+      "transform_metadata_preserved": true,
+      "composite_still_identical": true,
+      "before_sha256": "f679898f73601a81f1ff13eac248887d4001b74f74ca5137b98bf3a086a47d6e",
+      "after_sha256": "75610b2d65316d6476c429b6bdbc7cf403e124df791402e63b1e02ee5de6e377"
+    }
+  ]
+}

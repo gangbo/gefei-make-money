@@ -1,0 +1,12 @@
+[
+ {"id":"01-minimum","width":3.2,"depth":2.8,"floors":1,"palette":0},
+ {"id":"02-narrow-tall","width":3.2,"depth":4,"floors":8,"palette":1},
+ {"id":"03-wide-low","width":20,"depth":4,"floors":1,"palette":2},
+ {"id":"04-deep","width":4,"depth":16,"floors":3,"palette":0},
+ {"id":"05-maximum","width":20,"depth":16,"floors":8,"palette":1},
+ {"id":"06-square","width":8,"depth":8,"floors":4,"palette":2},
+ {"id":"07-row-house","width":5.5,"depth":7,"floors":3,"palette":0},
+ {"id":"08-office","width":12,"depth":10,"floors":6,"palette":1},
+ {"id":"09-shop","width":7,"depth":5,"floors":2,"palette":2},
+ {"id":"10-mid-rise","width":9.5,"depth":6.5,"floors":5,"palette":0}
+]

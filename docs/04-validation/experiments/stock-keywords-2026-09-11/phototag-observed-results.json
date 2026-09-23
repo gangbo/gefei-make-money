@@ -1,0 +1,82 @@
+{
+  "provenance": "Manual transcription of browser accessibility output; NOT platform export",
+  "url": "https://phototag.ai/result/78f70075-3e52-4d0a-ac36-e458aae93020",
+  "tool": "PhotoTag.ai",
+  "model": "Default; underlying model not displayed",
+  "settings": {
+    "max_title_characters": 70,
+    "max_keywords": 15,
+    "metadata_context": false,
+    "filename_context": false,
+    "creative": false,
+    "completion_email": false
+  },
+  "rows": [
+    {
+      "id": "S01",
+      "title": "Espresso served in a small cup on a wooden table",
+      "description": "A small cup of espresso sits on a red saucer. A spoon rests beside the cup on a wooden table. The espresso has a rich, dark color and a smooth surface.",
+      "keywords": [
+        "espresso",
+        "cup",
+        "saucer",
+        "spoon",
+        "coffee",
+        "wooden table",
+        "drink",
+        "beverage",
+        "serving",
+        "brown",
+        "dark",
+        "aroma",
+        "cafe",
+        "hot",
+        "small cup"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Cat with distinctive green eyes and patterned fur",
+      "description": "A close view of a cat showing its patterned fur and bright green eyes. The background is blurred, emphasizing the cat's features. The setting appears indoors.",
+      "keywords": [
+        "cat",
+        "green eyes",
+        "fur",
+        "indoor",
+        "animal",
+        "close-up",
+        "pet",
+        "domestic",
+        "tabby",
+        "whiskers",
+        "face",
+        "features",
+        "animal eyes",
+        "portrait",
+        "expression"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Rocket on launch pad during twilight hours with towers nearby",
+      "description": "A rocket stands tall on a launch pad as the sky darkens around it. Surrounding towers rise up into the twilight, with lights shining at the base.",
+      "keywords": [
+        "rocket",
+        "launch pad",
+        "twilight",
+        "towers",
+        "space",
+        "technology",
+        "preparation",
+        "evening",
+        "facility",
+        "transportation",
+        "aerospace",
+        "science",
+        "engineering",
+        "structure",
+        "equipment"
+      ]
+    }
+  ]
+}

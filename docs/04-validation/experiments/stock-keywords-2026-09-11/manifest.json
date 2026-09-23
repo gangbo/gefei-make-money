@@ -1,0 +1,56 @@
+[
+  {
+    "id": "S01",
+    "file": "inputs/S01.png",
+    "source_name": "coffee.png",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/coffee.png",
+    "bytes": 466706,
+    "sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+    "role": "preflight_not_stock_submission"
+  },
+  {
+    "id": "S02",
+    "file": "inputs/S02.png",
+    "source_name": "chelsea.png",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/chelsea.png",
+    "bytes": 240512,
+    "sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+    "role": "preflight_not_stock_submission"
+  },
+  {
+    "id": "S03",
+    "file": "inputs/S03.jpg",
+    "source_name": "rocket.jpg",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/rocket.jpg",
+    "bytes": 112525,
+    "sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+    "role": "preflight_not_stock_submission"
+  },
+  {
+    "id": "S04",
+    "file": "inputs/S04.png",
+    "source_name": "grass.png",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/grass.png",
+    "bytes": 217893,
+    "sha256": "b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89",
+    "role": "preflight_not_stock_submission"
+  },
+  {
+    "id": "S05",
+    "file": "inputs/S05.png",
+    "source_name": "gravel.png",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/gravel.png",
+    "bytes": 194247,
+    "sha256": "c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12",
+    "role": "preflight_not_stock_submission"
+  },
+  {
+    "id": "S06",
+    "file": "inputs/S06.png",
+    "source_name": "brick.png",
+    "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.25.2/skimage/data/brick.png",
+    "bytes": 106634,
+    "sha256": "7966caf324f6ba843118d98f7a07746d22f6a343430add0233eca5f6eaaa8fcf",
+    "role": "preflight_not_stock_submission"
+  }
+]

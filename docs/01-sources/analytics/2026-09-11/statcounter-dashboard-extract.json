@@ -1,0 +1,539 @@
+{
+  "source": "https://statcounter.com/",
+  "source_type": "Native Chrome accessibility text, structured extraction; not an original CSV export",
+  "collected_date": "2026-09-11",
+  "collection_time_approx_utc": "09:39",
+  "timezone": "Asia/Hong_Kong",
+  "metric": "Sessions (dashboard label)",
+  "today": "2026-09-11 (partial)",
+  "yesterday": "2026-09-10",
+  "month": "2026-09-01 through collection time on 2026-09-11",
+  "count": 52,
+  "totals": {
+    "today": 2363,
+    "yesterday": 4368,
+    "month": 48632
+  },
+  "rows": [
+    {
+      "project_id": 13051172,
+      "name": "myfemboyroommate.net",
+      "url": "https://myfemboyroommate.net",
+      "group_name": "game",
+      "today_sessions": 318,
+      "yesterday_sessions": 655,
+      "month_sessions": 11151,
+      "all_time_sessions": 306866
+    },
+    {
+      "project_id": 13099919,
+      "name": "freesubwaysurfers.com",
+      "url": "http://freesubwaysurfers.com",
+      "group_name": "game",
+      "today_sessions": 154,
+      "yesterday_sessions": 224,
+      "month_sessions": 1794,
+      "all_time_sessions": 136909
+    },
+    {
+      "project_id": 13044352,
+      "name": "subwaysurfersunblocked.org",
+      "url": "https://subwaysurfersunblocked.org",
+      "group_name": "game",
+      "today_sessions": 44,
+      "yesterday_sessions": 161,
+      "month_sessions": 982,
+      "all_time_sessions": 499038
+    },
+    {
+      "project_id": 13063808,
+      "name": "sprunkiinfected.org",
+      "url": "https://sprunkiinfected.org/",
+      "group_name": "game",
+      "today_sessions": 11,
+      "yesterday_sessions": 26,
+      "month_sessions": 218,
+      "all_time_sessions": 165579
+    },
+    {
+      "project_id": 13210790,
+      "name": "hentaink.com",
+      "url": "https://hentaink.com",
+      "group_name": "game",
+      "today_sessions": 2,
+      "yesterday_sessions": 7,
+      "month_sessions": 69,
+      "all_time_sessions": 1466
+    },
+    {
+      "project_id": 13059787,
+      "name": "escaperoad.world",
+      "url": "http://escaperoad.world",
+      "group_name": "game",
+      "today_sessions": 3,
+      "yesterday_sessions": 5,
+      "month_sessions": 42,
+      "all_time_sessions": 2806
+    },
+    {
+      "project_id": 13115704,
+      "name": "sprunkidash.net",
+      "url": "http://sprunkidash.net",
+      "group_name": "game",
+      "today_sessions": 2,
+      "yesterday_sessions": 4,
+      "month_sessions": 64,
+      "all_time_sessions": 2192
+    },
+    {
+      "project_id": 13059777,
+      "name": "block-blast.best",
+      "url": "http://block-blast.best",
+      "group_name": "game",
+      "today_sessions": 2,
+      "yesterday_sessions": 3,
+      "month_sessions": 26,
+      "all_time_sessions": 3431
+    },
+    {
+      "project_id": 13044382,
+      "name": "fivenightsatscratch.com",
+      "url": "https://fivenightsatscratch.com",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 3,
+      "month_sessions": 16,
+      "all_time_sessions": 852
+    },
+    {
+      "project_id": 13058588,
+      "name": "sprunkimustard.net",
+      "url": "http://sprunkimustard.net",
+      "group_name": "game",
+      "today_sessions": 1,
+      "yesterday_sessions": 2,
+      "month_sessions": 15,
+      "all_time_sessions": 43994
+    },
+    {
+      "project_id": 13057290,
+      "name": "sprunkincredibox.com",
+      "url": "http://sprunkincredibox.com",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 1,
+      "month_sessions": 5,
+      "all_time_sessions": 6440
+    },
+    {
+      "project_id": 13069935,
+      "name": "sprunkr.xyz",
+      "url": "https://sprunkr.xyz",
+      "group_name": "game",
+      "today_sessions": 1,
+      "yesterday_sessions": 1,
+      "month_sessions": 4,
+      "all_time_sessions": 1759
+    },
+    {
+      "project_id": 13059786,
+      "name": "superfishing.org",
+      "url": "https://superfishing.org",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 1,
+      "month_sessions": 10,
+      "all_time_sessions": 710
+    },
+    {
+      "project_id": 13058904,
+      "name": "webfishing.app",
+      "url": "https://webfishing.app/",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 1,
+      "month_sessions": 7,
+      "all_time_sessions": 1891
+    },
+    {
+      "project_id": 13059778,
+      "name": "abgerny.pro",
+      "url": "https://abgerny.pro",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 1700
+    },
+    {
+      "project_id": 13058931,
+      "name": "chromakopiafontgenerator.org",
+      "url": "http://chromakopiafontgenerator.org",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 15,
+      "all_time_sessions": 4572
+    },
+    {
+      "project_id": 13059782,
+      "name": "colorboxmustard.best",
+      "url": "http://colorboxmustard.best",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 521
+    },
+    {
+      "project_id": 13058593,
+      "name": "fastfoodsimulator.app",
+      "url": "http://fastfoodsimulator.app",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 13,
+      "all_time_sessions": 1633
+    },
+    {
+      "project_id": 13044773,
+      "name": "freemahjongtitans.com",
+      "url": "https://freemahjongtitans.com",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 19
+    },
+    {
+      "project_id": 13072402,
+      "name": "misidegame.org",
+      "url": "https://misidegame.org/",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 1834
+    },
+    {
+      "project_id": 13072050,
+      "name": "misideworld.com",
+      "url": "https://misideworld.com/",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 974
+    },
+    {
+      "project_id": 13044350,
+      "name": "suika-game.online",
+      "url": "https://suika-game.online",
+      "group_name": "game",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 7737
+    },
+    {
+      "project_id": 13221620,
+      "name": "www.neattyping.com",
+      "url": "https://neattyping.com",
+      "group_name": "make-money",
+      "today_sessions": 886,
+      "yesterday_sessions": 1720,
+      "month_sessions": 16921,
+      "all_time_sessions": 69449
+    },
+    {
+      "project_id": 13221622,
+      "name": "slickcalc.com",
+      "url": "https://slickcalc.com/",
+      "group_name": "make-money",
+      "today_sessions": 67,
+      "yesterday_sessions": 118,
+      "month_sessions": 1245,
+      "all_time_sessions": 12069
+    },
+    {
+      "project_id": 13221624,
+      "name": "neatsignature.com",
+      "url": "https://neatsignature.com/",
+      "group_name": "make-money",
+      "today_sessions": 36,
+      "yesterday_sessions": 59,
+      "month_sessions": 462,
+      "all_time_sessions": 1643
+    },
+    {
+      "project_id": 13221623,
+      "name": "invoiceneat.com",
+      "url": "https://invoiceneat.com/",
+      "group_name": "make-money",
+      "today_sessions": 16,
+      "yesterday_sessions": 20,
+      "month_sessions": 218,
+      "all_time_sessions": 2204
+    },
+    {
+      "project_id": 13212704,
+      "name": "free.neatheadshot.com",
+      "url": "https://free.neatheadshot.com",
+      "group_name": "make-money",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 0
+    },
+    {
+      "project_id": 13068349,
+      "name": "2048-cupcakes-5dn.pages.dev",
+      "url": "https://2048-cupcakes-5dn.pages.dev/",
+      "group_name": "pages.dev",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 82
+    },
+    {
+      "project_id": 13096539,
+      "name": "markup-1nj.pages.dev",
+      "url": "https://markup-1nj.pages.dev/",
+      "group_name": "pages.dev",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 69
+    },
+    {
+      "project_id": 13079350,
+      "name": "svg-preview.pages.dev",
+      "url": "http://svg-preview.pages.dev",
+      "group_name": "pages.dev",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 208
+    },
+    {
+      "project_id": 13337811,
+      "name": "vocaldock.com",
+      "url": "http://vocaldock.com",
+      "group_name": "saas",
+      "today_sessions": 350,
+      "yesterday_sessions": 576,
+      "month_sessions": 5883,
+      "all_time_sessions": 20227
+    },
+    {
+      "project_id": 13227904,
+      "name": "songtokaraoke.com",
+      "url": "https://songtokaraoke.com",
+      "group_name": "saas",
+      "today_sessions": 25,
+      "yesterday_sessions": 28,
+      "month_sessions": 370,
+      "all_time_sessions": 1993
+    },
+    {
+      "project_id": 13337802,
+      "name": "ffhub",
+      "url": "https://ffhub.io",
+      "group_name": "saas",
+      "today_sessions": 8,
+      "yesterday_sessions": 22,
+      "month_sessions": 436,
+      "all_time_sessions": 1761
+    },
+    {
+      "project_id": 13221625,
+      "name": "neatheadshot.com",
+      "url": "https://neatheadshot.com/",
+      "group_name": "saas",
+      "today_sessions": 0,
+      "yesterday_sessions": 1,
+      "month_sessions": 1,
+      "all_time_sessions": 31
+    },
+    {
+      "project_id": 12784074,
+      "name": "TikTomato.com",
+      "url": "https://tiktomato.com/",
+      "group_name": "saas",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 1,
+      "all_time_sessions": 1284377
+    },
+    {
+      "project_id": 13140741,
+      "name": "sinancode.com",
+      "url": "http://sinancode.com",
+      "group_name": "saas",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 5,
+      "all_time_sessions": 865
+    },
+    {
+      "project_id": 13068310,
+      "name": "yaytext.app",
+      "url": "https://yaytext.app",
+      "group_name": "tools",
+      "today_sessions": 121,
+      "yesterday_sessions": 252,
+      "month_sessions": 2515,
+      "all_time_sessions": 111045
+    },
+    {
+      "project_id": 13066801,
+      "name": "emojizoo.com",
+      "url": "https://emojizoo.com/",
+      "group_name": "tools",
+      "today_sessions": 123,
+      "yesterday_sessions": 211,
+      "month_sessions": 2775,
+      "all_time_sessions": 121531
+    },
+    {
+      "project_id": 13135070,
+      "name": "cursedtext.org",
+      "url": "https://cursedtext.org",
+      "group_name": "tools",
+      "today_sessions": 59,
+      "yesterday_sessions": 56,
+      "month_sessions": 832,
+      "all_time_sessions": 35661
+    },
+    {
+      "project_id": 13135069,
+      "name": "glitchtext.org",
+      "url": "https://glitchtext.org",
+      "group_name": "tools",
+      "today_sessions": 9,
+      "yesterday_sessions": 8,
+      "month_sessions": 137,
+      "all_time_sessions": 8579
+    },
+    {
+      "project_id": 13297393,
+      "name": "puzzlebento-com",
+      "url": "https://puzzlebento.com/",
+      "group_name": "tools",
+      "today_sessions": 5,
+      "yesterday_sessions": 7,
+      "month_sessions": 73,
+      "all_time_sessions": 454
+    },
+    {
+      "project_id": 13137775,
+      "name": "temppic.sinancode.com",
+      "url": "https://temppic.sinancode.com/",
+      "group_name": "tools",
+      "today_sessions": 2,
+      "yesterday_sessions": 2,
+      "month_sessions": 29,
+      "all_time_sessions": 521
+    },
+    {
+      "project_id": 13072583,
+      "name": "bmwlogo.fans",
+      "url": "https://bmwlogo.fans/",
+      "group_name": "tools",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 283
+    },
+    {
+      "project_id": 13104956,
+      "name": "letteravatar.com",
+      "url": "https://letteravatar.com/",
+      "group_name": "tools",
+      "today_sessions": 3,
+      "yesterday_sessions": 0,
+      "month_sessions": 36,
+      "all_time_sessions": 1802
+    },
+    {
+      "project_id": 12962844,
+      "name": "onlymp3",
+      "url": "https://onlymp3.tools/",
+      "group_name": "",
+      "today_sessions": 80,
+      "yesterday_sessions": 131,
+      "month_sessions": 1639,
+      "all_time_sessions": 183747
+    },
+    {
+      "project_id": 12786938,
+      "name": "y2mate.ltd",
+      "url": "https://y2mate.ltd/",
+      "group_name": "",
+      "today_sessions": 30,
+      "yesterday_sessions": 58,
+      "month_sessions": 559,
+      "all_time_sessions": 3614764
+    },
+    {
+      "project_id": 12866086,
+      "name": "twittervideodownloader.tools",
+      "url": "https://twittervideodownloader.tools/",
+      "group_name": "",
+      "today_sessions": 5,
+      "yesterday_sessions": 5,
+      "month_sessions": 64,
+      "all_time_sessions": 57284
+    },
+    {
+      "project_id": 12930285,
+      "name": "ad",
+      "url": "https://converter.tiktomato.com/",
+      "group_name": "",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 990593
+    },
+    {
+      "project_id": 12932920,
+      "name": "flvto.net",
+      "url": "https://flvto.net/",
+      "group_name": "",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 55293
+    },
+    {
+      "project_id": 12954224,
+      "name": "pinterestvideodownloader.ltd",
+      "url": "https://pinterestvideodownloader.ltd/",
+      "group_name": "",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 1246
+    },
+    {
+      "project_id": 12954220,
+      "name": "redditsave.xyz",
+      "url": "https://redditsave.xyz/",
+      "group_name": "",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 1893
+    },
+    {
+      "project_id": 12809833,
+      "name": "ssstiktok.page",
+      "url": "https://ssstiktok.page/en5tik/",
+      "group_name": "",
+      "today_sessions": 0,
+      "yesterday_sessions": 0,
+      "month_sessions": 0,
+      "all_time_sessions": 3467
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "side": "front",
+    "u": -8.729999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": -6.789999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": -4.85,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": -2.9099999999999993,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": 2.91,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": 4.85,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": 6.789999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "front",
+    "u": 8.73,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": -8.729999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": -6.789999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": -4.85,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": -2.9099999999999993,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": -0.9699999999999989,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": 0.9700000000000006,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": 2.91,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": 4.85,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": 6.789999999999999,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "back",
+    "u": 8.73,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 20
+  },
+  {
+    "side": "left",
+    "u": 0.0,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 4
+  },
+  {
+    "side": "right",
+    "u": 0.0,
+    "z": 1.55,
+    "width": 1.05,
+    "height": 1.5,
+    "wall_length": 4
+  }
+]

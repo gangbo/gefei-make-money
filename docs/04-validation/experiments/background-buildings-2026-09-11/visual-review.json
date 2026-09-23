@@ -1,0 +1,73 @@
+{
+  "reviewer": "assistant visual inspection, not customer acceptance",
+  "scope": "10 cases, front/back independent previews; Blender contact sheets and final three-case showcase",
+  "criteria": "No obvious facade overrun, missing material, or prior door/roof coplanar artifacts at 400px preview resolution",
+  "results": [
+    {
+      "id": "01-minimum",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "02-narrow-tall",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "03-wide-low",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "04-deep",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "05-maximum",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "06-square",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "07-row-house",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "08-office",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "09-shop",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    },
+    {
+      "id": "10-mid-rise",
+      "obvious_defect_observed": false,
+      "manual_per_model_edit": false,
+      "commercial_art_quality": "not validated"
+    }
+  ],
+  "limitations": [
+    "No interior or close-up inspection",
+    "Simple rasterizer differs from PBR lighting",
+    "Narrow-tall sample is a parameter stress case, not validated architectural design",
+    "One shared geometry fix was needed before final pass"
+  ]
+}

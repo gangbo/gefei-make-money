@@ -1,6 +1,10 @@
 # 已研究竞品索引
 
-采集日期均为 2026-09-10，除另注明的 SEO 专项。此处是定位索引，历史详细数据仍在对应报告，不冒充独立原始导出。进入具体候选时可按域名单独建立新观察记录。
+2026-09-13新增消费者比较：CutG、2AM CAM/Dazz、Stylebook/Whering、Tenuto/FlashSCORE、BuzzKill，见[S-063](2026-09-13/consumer-five-evidence.md)。仅公开商业与部分评论，未安装实测。关联D-048至D-052。
+
+2026-09-13新增：Stocky/Stockie、Catalogly/EasyCatalog/Catalog Machine、GMCInspector/GMCAuditPro/ShieldKit，见[S-059](../commerce/2026-09-13/purchase-evidence.md)。仅公开信息与部分评价，匿名TrustMRR产品不能与这些具名竞品对应；关联D-045/046/047。
+
+采集日期见各记录，含2026-09-10与09-11批次。此处是定位索引，历史详细数据仍在对应报告，不冒充独立原始导出。进入具体候选时可按域名单独建立新观察记录。
 
 | 范围 | 已查看产品 | 保存位置/读取程度 | 关联候选 |
 | --- | --- | --- | --- |
@@ -12,5 +16,21 @@
 | 房产图片专项 | Autoenhance、AutoHDR、Fotello | [2026-08-26 价格定位](../../grow-seo-traffic/raw/2026-08-26/competitor-products/pricing-and-positioning.md) | D-005 |
 
 新增观察记录应包含：域名、采集日期、具体页面、价格币种/周期、免费及付费边界、实际操作过的步骤、效果/未实测项、用户反馈出处。官网声明、独立使用评价和实际操作分别标记；选品判断放第二/三阶段。
+
+新增 S-014：[VectoSolve、AI Renamer 官网观察及访问限制](2026-09-10/small-workflow-tools.md)。
+
+S-016：[Pacdora/Boxshot及服务端Blender初查](2026-09-11/blender-web-workflows.md)。
+
+S-017：[PBG 2、Boxshot、Renderforest与模型优化](2026-09-11/automation-and-buyers.md)，五类任务比较；来源读取程度见记录。
+
+S-019：[PBG 2、Town Pack、Metropolygonia、NativeBlend及Unity原生替代](2026-09-11/building-product-comparison.md)，商业状态和读取限制分别记录。
+
+S-020：[Boxshot、Bulk Mockup、SudoMock批量流程](2026-09-11/packaging-batch-workflow.md)，无账户内实测，区分包装与装饰画/POD。
+
+S-021：[ag-psd与Photopea脚本/API](2026-09-11/psd-rendering-capabilities.md)，分开记录官方能力与实际执行。
+
+S-022：[Scaylr、PSDmate、Scenehatch、Ratio Ready](2026-09-11/mockup-entry-gaps.md)，官网能力/套餐与口径冲突，未实测。
+
+S-024：[Static Forms、Formflow、Propal](2026-09-11/work-tools-batch-02.md)，公开流程与渠道入口，含价格冲突，未注册实测。
 
 S-033：[Tarkov Documents Map 与 Tarkov Farm](2026-09-11/tarkovdocsmap/source-notes.md)，截图、公开功能、玩家反馈与广告配置案例；收入未核验，不构成新产品立项。
