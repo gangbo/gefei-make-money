@@ -1,5 +1,9 @@
 # 研究进度：从这里继续
 
+## 最新：成立约半年的十个产品复筛（2026-09-27 / DEC-053）
+
+用户指出前批首位ScreenCursor站龄短、未见流量、完整测试需付款；D-053转暂缓，DEC-052的排序失效。已保存[S-071十个具名产品的成立/支付/试用资料](01-sources/rankings/2026-09-27/verified-revenue-ten.md)、[S-072七域搜索估算与缺失项](grow-seo-traffic/raw/2026-09-27/semrush/verified-revenue-domain-screen.md)和[新十项比较](02-candidates/reviews/verified-revenue-ten-2026-09-27.md)。新增D-063—D-072，前5待补、后5暂缓；现72项**18待补/51暂缓/2停止/1已有，0立项**。建议只先核D-063咨询面试、D-064量化练习的主要流量页与免费成品，随后再判断实际进入优势；D-065/066/067条件保留。收入不是利润，官网搜索估算不是App或全渠道流量。未注册、付费、完整试用、开发或上线。下一步不再按DEC-052的D-053优先队列执行。
+
 ## 最新：Product Hunt 十项机会发现（2026-09-27 / DEC-052）
 
 已读[10个具名PH产品](01-sources/rankings/2026-09-27/product-hunt-opportunities.md)、用用户已登录Chrome查[Semrush 12站点单点概览（10候选+2对照）](grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-domain-screen.md)和[美国种子词](grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-keyword-screen.md)，提取D-053至D-062，见[十项比较](02-candidates/reviews/product-hunt-ten-2026-09-27.md)。建议先补录屏自动镜头、邮件送达率；刺绣和域名监测条件保留。现在62项14待补/45暂缓/2停止/1已有、0立项。没有12月趋势、业务页与完整词池，不声称新站突然爆发或任何项目盈利。未注册、实测、开发、付款或上线。下一步优先补D-053/054直接竞品成品和购买证据，再定是否进入可行性；其他六项仅观察，旧方向状态不变。

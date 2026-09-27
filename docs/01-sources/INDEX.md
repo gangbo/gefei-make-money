@@ -1,5 +1,8 @@
 # 已采集资料索引
 
+- **S-071｜2026-09-27｜成立约6–11月且有支付记录的10产品**：[TrustMRR与官网人工摘录](rankings/2026-09-27/verified-revenue-ten.md)。只选10个具名站，不是全站榜单；支付数据与自填产品描述分列，利润和全部渠道未核。关联D-063—D-072。
+- **S-072｜2026-09-27｜对应Semrush与App前置**：[Chrome人工摘录](../grow-seo-traffic/raw/2026-09-27/semrush/verified-revenue-domain-screen.md)。已稳定读取7域单点；Preuve/ThreadRecap加载不稳未取值，AbMaxx属于App场景。主要页面、词量和真实转化未核。
+
 - **S-069｜2026-09-27｜Product Hunt近期10产品**：[10个具名产品任务、价格/厂商说法和限制](rankings/2026-09-27/product-hunt-opportunities.md)。公开页人工摘要，本批范围已采集；不是整月榜单导出或收入核验。
 - **S-070｜2026-09-27｜对应Semrush前置**：[12站点概览（10候选+2额外对照）](../grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-domain-screen.md)与[美国6个种子词及建议行](../grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-keyword-screen.md)。Chrome UI人工摘录；单时点、无12月趋势/主要页/完整词池，不能判断突增或盈利。
 
