@@ -1,5 +1,8 @@
 # 已采集资料索引
 
+- **S-069｜2026-09-27｜Product Hunt近期10产品**：[10个具名产品任务、价格/厂商说法和限制](rankings/2026-09-27/product-hunt-opportunities.md)。公开页人工摘要，本批范围已采集；不是整月榜单导出或收入核验。
+- **S-070｜2026-09-27｜对应Semrush前置**：[12站点概览（10候选+2额外对照）](../grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-domain-screen.md)与[美国6个种子词及建议行](../grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-keyword-screen.md)。Chrome UI人工摘录；单时点、无12月趋势/主要页/完整词池，不能判断突增或盈利。
+
 - **S-068｜2026-09-22｜火山图像工具**：[官方价格、增强规格与TikTomato首页](competitors/2026-09-22/volcengine-image-tools.md)。Chrome读取两篇完整主体，其他功能仅核价，未API实测。
 
 - **S-067｜2026-09-22｜Web.Cafe贵阳游学汇总**：[来源摘要及25篇回查入口](community/2026-09-22/web-cafe-guiyang.md)。Chrome读取指定汇总全文及索引，本篇范围已采集；人工摘要、二次转述，不是25篇原帖已核验。收入、费用、归因及平台当前规则未查。[方法整理](../00-methodology/web-cafe-guiyang-2026-09-22.md)。

@@ -1,5 +1,9 @@
 # 研究进度：从这里继续
 
+## 最新：Product Hunt 十项机会发现（2026-09-27 / DEC-052）
+
+已读[10个具名PH产品](01-sources/rankings/2026-09-27/product-hunt-opportunities.md)、用用户已登录Chrome查[Semrush 12站点单点概览（10候选+2对照）](grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-domain-screen.md)和[美国种子词](grow-seo-traffic/raw/2026-09-27/semrush/product-hunt-keyword-screen.md)，提取D-053至D-062，见[十项比较](02-candidates/reviews/product-hunt-ten-2026-09-27.md)。建议先补录屏自动镜头、邮件送达率；刺绣和域名监测条件保留。现在62项14待补/45暂缓/2停止/1已有、0立项。没有12月趋势、业务页与完整词池，不声称新站突然爆发或任何项目盈利。未注册、实测、开发、付款或上线。下一步优先补D-053/054直接竞品成品和购买证据，再定是否进入可行性；其他六项仅观察，旧方向状态不变。
+
 ## 最新：TikTomato火山图像工具评估（2026-09-22）
 
 核验[S-068价格与增强限制](01-sources/competitors/2026-09-22/volcengine-image-tools.md)，保存[接入范围建议](03-feasibility/reviews/tiktomato-volcengine-2026-09-22.md)。用户希望加入专用图像工具；建议先对照已有放大引擎，再考虑商品白底/批量输出。未调用API、改代码或上线；专用接口效果、海外时延和新用途付费仍待测，52项状态不变。

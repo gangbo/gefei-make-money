@@ -128,3 +128,17 @@ S-043本轮结束：Guidejar一年Worldwide CSV ready，美国09-10主要页面p
 可独立开展商业购买和自动化范围比较；SEO数据不够时不下关键词或流量机会结论。
 
 S-060完成前置部分采集，原始4份CSV及口径已保存；固定SERP、主要页/词与完整词池仍缺，不形成SEO方案。
+
+## 2026-09-27 Product Hunt 选品前置（S-069/S-070）
+
+目的为新产品发现与有限市场筛选，不是优化已有站点。用户已授权读取 Product Hunt 和已登录的 Semrush 镜像；本轮无需用户另行导出。目标市场暂取英语美国；域名概览用 Worldwide / Desktop / 2026-09-26，关键词用 US / Desktop / 2026-09-27，两个口径不相加。
+
+| 数据项 | 当前覆盖、用途 | 状态 | 保存位置及下一步 |
+| --- | --- | --- | --- |
+| Product Hunt 近期产品与任务 | 2026-09部分分类页和10个具名产品详情，人工摘要；用于发现任务和收费形式 | ready（仅本批10项） | `../01-sources/rankings/2026-09-27/product-hunt-opportunities.md`；不声称覆盖整个月榜单 |
+| 代表站域名概览 | 10个产品站当日自然搜索估算（Donna按子域），另有2个排除项对照；部分为n/a；区分新站与已有根域 | partial-ready | `raw/2026-09-27/semrush/product-hunt-domain-screen.md`；缺大部分一年趋势、页面和品牌/非品牌拆分 |
+| 美国业务种子词 | 刺绣数字化、录屏自动缩放、邮件送达率测试、聊天导出、域名监控及到期监测，共6词 Overview | partial-ready | `raw/2026-09-27/semrush/product-hunt-keyword-screen.md`；其余候选、词簇变体及 Keyword Magic 未全查 |
+| 实时SERP与页面反查 | 关键词前排产品页、竞品 Organic Positions/Top Pages | missing | 进入可行性阶段的具体候选再补；当前不能下SEO可进入性结论 |
+| 真实付费、成本与复购 | PH收费页/创始人自述为线索，不是成交数据 | missing | 进入可行性阶段后核对独立交易/评论、交付成本；不从PH票数或Semrush估算盈利 |
+
+充分性结论：足够提取本批10个任务候选（4个待补、6个暂缓）和初步筛序；不足以判定任何候选已经验证盈利、搜索增长或可直接开发。
