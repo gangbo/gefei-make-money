@@ -1,0 +1,130 @@
+{
+  "id": "6884c450-746c-43e2-8aaa-fecd54e42d6c",
+  "slug": "hotel-room",
+  "title": "Hotel Room Studio Dance",
+  "description": "Upload your photo and your duo's photo, then feel the rhythm together in a bright orange studio. Dance to the beat, sing the song side by side under the studio mic, and finish with a synced\n  \"shhh\" moment made to share.",
+  "public_provider_name": false,
+  "charge": {
+    "type": "dynamic",
+    "rules": [
+      {
+        "when": [
+          {
+            "op": "eq",
+            "path": "input.resolution",
+            "value": "720p"
+          }
+        ],
+        "formula": {
+          "expr": "float(total_cost)",
+          "params": {}
+        },
+        "sequence": 1,
+        "description": "720p: about $0.32 per second of output plus about $0.22 per run for the character sheets and audio (15 s clip about $5.0)"
+      },
+      {
+        "when": [
+          {
+            "op": "eq",
+            "path": "input.resolution",
+            "value": "1080p"
+          }
+        ],
+        "formula": {
+          "expr": "float(total_cost)",
+          "params": {}
+        },
+        "sequence": 2,
+        "description": "1080p: about $0.78 per second of output plus about $0.22 per run for the character sheets and audio (15 s clip about $12.0)"
+      },
+      {
+        "when": [],
+        "formula": {
+          "expr": "float(total_cost)",
+          "params": {}
+        },
+        "sequence": 3,
+        "description": "480p (default): about $0.14 per second of output plus about $0.22 per run for the character sheets and audio (15 s clip about $2.35)"
+      }
+    ],
+    "defaults": {
+      "round": {
+        "mode": "half_up",
+        "digits": 6
+      },
+      "missing_field": 0
+    },
+    "variables": {
+      "total_cost": "output.total_cost"
+    }
+  },
+  "validator": {
+    "properties": {
+      "duration": {
+        "default": 15,
+        "description": "Length of the output video in seconds, 4 to 15. The clip and its soundtrack are trimmed to this length. Shorter videos cost proportionally less.",
+        "maximum": 15,
+        "minimum": 4,
+        "title": "Duration",
+        "type": "integer",
+        "validateAtRuntime": true,
+        "x-ui:order": 2
+      },
+      "resolution": {
+        "default": "480p",
+        "description": "Output resolution. 480p (default) for faster/cheaper generation, 720p for balanced quality, 1080p for the highest quality. Higher resolutions cost more per second of output.",
+        "enum": [
+          "480p",
+          "720p",
+          "1080p"
+        ],
+        "title": "Resolution",
+        "type": "string",
+        "validateAtRuntime": true,
+        "x-ui:order": 3
+      },
+      "user_photo": {
+        "description": "URL of a photo of the person who replaces the performer on the left of the clip. A clear, front-facing, well-lit photo of one person works best. JPEG, PNG or WebP, under 30 MB.",
+        "format": "uri",
+        "minLength": 1,
+        "title": "User Photo",
+        "type": "string",
+        "validateAtRuntime": true,
+        "x-ui:order": 0
+      },
+      "user_photo_2": {
+        "description": "Optional URL of a photo of the person who replaces the performer on the right of the clip. Same requirements as User Photo. Leave empty to replace only the left performer.",
+        "format": "uri",
+        "title": "User Photo 2",
+        "type": [
+          "string",
+          "null"
+        ],
+        "validateAtRuntime": true,
+        "x-ui:order": 1
+      }
+    },
+    "required": [
+      "user_photo"
+    ],
+    "type": "object"
+  },
+  "readme_information": {
+    "overview": "<h2>Hotel Room Studio Dance Overview</h2><p>Upload your photo and your duo's photo, then feel the rhythm together in a bright orange studio. Dance to the beat, sing the song side by side under the studio mic, and finish with a synced\n  \"shhh\" moment made to share.</p><p>A portrait-led studio dance template creates a predefined performance sequence, with the exposed optional references controlling customization.</p><p>Hotel Room Studio Dance is available through each::labs in the eachlabs family. Required fields are user_photo. </p><p>user_photo_2: Optional URL of a photo of the person who replaces the performer on the right of the clip. duration: Length of the output video in seconds, 4 to 15.</p><p>Use the Hotel Room Studio Dance API when you need this transformation or analysis as a repeatable step in an application or creative pipeline. The sections below distinguish the required material, adjustable controls and checks that matter before delivery.</p>",
+    "technical_spec": "<h2>Technical Specifications</h2><ul><li>Result type: video.</li><li>Required fields: user_photo.</li><li>duration: integer; default 15; minimum 4; maximum 15.</li><li>resolution: string; options 480p, 720p, 1080p; default \"480p\".</li><li>user_photo: string.</li><li>user_photo_2: string or null.</li></ul><p>Values must use the types and accepted options listed in the parameter reference. A displayed default does not remove a required-field requirement. Choose a supported output setting for this entry rather than borrowing a preset from a related model.</p>",
+    "key_considerations": "<h2>Key Considerations</h2><p>Template framing and choreography are not a general scene-design interface; review the finished identities and transitions.</p><p>Several pricing tiers apply. Check the full pricing reference for the chosen settings and supplied references rather than assuming one flat charge.</p><p>Prepare user_photo before starting. Optional settings include user_photo_2, duration, resolution. Keep these settings aligned with the intended delivery, especially when a later step expects a particular type or format.</p><p>Run a representative request before scaling to a larger collection. Judge the result against the source and the brief, and account for all generated outputs or usage-sensitive options when estimating a batch.</p>",
+    "tips_and_tricks": "<h2>Tips and Tricks</h2><p>Describe one coherent shot before adding complex action. State the subject, movement, camera behavior and setting separately. For reference-guided requests, choose source images with clear subjects and compatible framing.</p><ul><li>duration: Length of the output video in seconds, 4 to 15.</li><li>resolution: Output resolution.</li></ul><p>Set the named operation controls directly. This entry has no general creative-prompt interface; supplying an invented prompt field will not replace a required source or numeric setting.</p><p>Compare one deliberate adjustment at a time. Inspect the part of the result affected by that change, then check the rest of the asset or response for unwanted side effects before reusing the settings.</p>",
+    "capabilities": "<h2>Capabilities</h2><ul><li>A portrait-led studio dance template creates a predefined performance sequence, with the exposed optional references controlling customization.</li><li>user_photo_2: Optional URL of a photo of the person who replaces the performer on the right of the clip.</li><li>duration: Length of the output video in seconds, 4 to 15.</li><li>resolution: Output resolution.</li><li>Produces a video result for the next stage of your workflow.</li></ul>",
+    "what_can_i_use_for": "$4f",
+    "things_to_be_aware_of": "<h2>Things to Be Aware Of</h2><p>Watch the entire clip rather than reviewing only a thumbnail. Check subject identity, object boundaries, motion continuity, camera changes and the ending; review the audio as well when the entry includes it.</p><p>Optional settings are not necessarily interchangeable with those on another entry in the same family. Use the accepted names, types and values shown for this operation.</p><p>Check the returned content against the original input and your application requirements. A successful request means the operation completed; your application still needs to verify that the response is suitable for the next step.</p>",
+    "limitations": "<h2>Limitations</h2><ul><li>duration: minimum: 4; maximum: 15.</li><li>resolution: allowed values: [\"480p\", \"720p\", \"1080p\"].</li></ul><p>Unsupported parameters do not establish additional capabilities. A generated result can differ from the intended brief, so review detail and consistency before publication.</p>"
+  },
+  "provider": {
+    "slug": "eachlabs",
+    "name": "Unified AI API for hundreds models. Access video, image, and audio generation from leading providers through one integration with eachlabs."
+  },
+  "family": {
+    "slug": "eachlabs",
+    "name": "eachlabs"
+  }
+}

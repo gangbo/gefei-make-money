@@ -1,5 +1,23 @@
 # 已研究竞品索引
 
+2026-10-14：[S-091 十个App候选补充证据](2026-10-14/ten-app-candidates-evidence.md)，家庭物品等七类新增、S-090三类复用；公开人工摘要，未实测。
+
+S-089素材现存24张JPG，已在ToneRoll项目竞品目录统一归档；对应PNG删除，来源事实保留。
+
+S-089第二批6图已补图库列表/筛选/多选模式/设置，累计24张；单张详情与视频操作缺口保留。
+
+2026-10-04：[S-089 FilmFold项目截图](2026-10-04/tone-roll-filmfold-screenshots.md)，18图部分流程，原PNG保留ToneRoll目录；文档交接完成，无安装实测。
+
+2026-10-04：[S-088 2AM分享核验](2026-10-04/2am-sharing-verification.md)，搜索与官方文档部分读取；共同相册存在，主要增长贡献未证实。
+
+2026-10-04：[S-087 2AM五图](2026-10-04/2am-screenshot-review.md)补共享到日出、二维码和网页邀请；实际多人流程与版本未知。
+
+S-086续查2AM购买动机与第三方逐日榜单；无法免费体验，未安装；推广归因未知。
+
+2026-10-04：[S-086新相机核验](2026-10-04/recent-style-cameras.md)，Apple首发字段与5款JSON、榜单/社区/媒体部分采集；2AM优先追查，未证明持续盈利。
+
+2026-10-04：[S-085风格相机](2026-10-04/style-camera-evidence.md)补六款美区公开页面、视频能力与购买/使用反馈；部分采集，未安装实测。
+
 2026-09-13新增消费者比较：CutG、2AM CAM/Dazz、Stylebook/Whering、Tenuto/FlashSCORE、BuzzKill，见[S-063](2026-09-13/consumer-five-evidence.md)。仅公开商业与部分评论，未安装实测。关联D-048至D-052。
 
 2026-09-13新增：Stocky/Stockie、Catalogly/EasyCatalog/Catalog Machine、GMCInspector/GMCAuditPro/ShieldKit，见[S-059](../commerce/2026-09-13/purchase-evidence.md)。仅公开信息与部分评价，匿名TrustMRR产品不能与这些具名竞品对应；关联D-045/046/047。

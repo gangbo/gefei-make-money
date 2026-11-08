@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Support for 2AM, the iOS flash camera.">
+  <title>2AM — Support</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --warm-black: #0e0e0d;
+      --soft-black: #050505;
+      --ivory: #f5f4ed;
+      --orange: #ff6a00;
+      --gray: #5a5a4f;
+      --rule: rgba(245, 244, 237, 0.12);
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+
+    html {
+      background: var(--soft-black);
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 78% 8%, rgba(255, 106, 0, 0.08), transparent 22rem),
+        var(--warm-black);
+      color: var(--ivory);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    main {
+      width: min(100% - 40px, 680px);
+      margin: 0 auto;
+      padding: 48px 0 88px;
+    }
+
+    nav {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 64px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--ivory);
+      font-size: 20px;
+      font-weight: 750;
+      letter-spacing: -0.04em;
+      text-decoration: none;
+    }
+
+    .flash-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--orange);
+      box-shadow: 0 0 16px rgba(255, 106, 0, 0.75);
+    }
+
+    .privacy-link {
+      margin-left: auto;
+      color: var(--gray);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    .privacy-link:hover {
+      color: var(--ivory);
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(38px, 8vw, 64px);
+      line-height: 0.98;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      margin: 0 0 48px;
+      max-width: 540px;
+      color: rgba(245, 244, 237, 0.7);
+      font-size: 17px;
+    }
+
+    .contact-card {
+      margin-bottom: 44px;
+      padding: 22px 24px;
+      border: 1px solid var(--rule);
+      border-radius: 18px;
+      background: rgba(5, 5, 5, 0.55);
+    }
+
+    .contact-card p {
+      margin: 0 0 14px;
+      color: rgba(245, 244, 237, 0.8);
+    }
+
+    .contact-button {
+      display: inline-block;
+      padding: 11px 16px;
+      border-radius: 999px;
+      background: var(--orange);
+      color: var(--soft-black);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    section {
+      padding: 28px 0;
+      border-top: 1px solid var(--rule);
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      color: var(--orange);
+      font-size: 12px;
+      font-weight: 650;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+
+    h3 {
+      margin: 22px 0 6px;
+      color: var(--ivory);
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    h3:first-of-type {
+      margin-top: 0;
+    }
+
+    p {
+      margin: 0 0 12px;
+      color: rgba(245, 244, 237, 0.74);
+      font-size: 15px;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    ol {
+      margin: 8px 0 0;
+      padding-left: 22px;
+      color: rgba(245, 244, 237, 0.74);
+      font-size: 15px;
+    }
+
+    li + li {
+      margin-top: 8px;
+    }
+
+    strong {
+      color: var(--ivory);
+      font-weight: 600;
+    }
+
+    a {
+      color: var(--ivory);
+      text-underline-offset: 3px;
+      text-decoration-color: var(--orange);
+    }
+
+    footer {
+      padding-top: 28px;
+      border-top: 1px solid var(--rule);
+      color: var(--gray);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+    }
+
+    @media (max-width: 480px) {
+      main {
+        width: min(100% - 32px, 680px);
+        padding-top: 32px;
+      }
+
+      nav {
+        margin-bottom: 48px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <nav aria-label="2AM">
+      <a class="brand" href="/2am/support/">
+        <span>2AM</span>
+        <span class="flash-dot" aria-hidden="true"></span>
+      </a>
+      <a class="privacy-link" href="/2am/privacy/">Privacy</a>
+    </nav>
+
+    <h1>Support</h1>
+    <p class="intro">Help with 2AM, the direct-flash camera for quick snaps after dark.</p>
+
+    <div class="contact-card">
+      <p>Need help or want to report a problem? Include your iPhone model, iOS version, and a short description of what happened.</p>
+      <a class="contact-button" href="mailto:magarian.aiden@gmail.com?subject=2AM%20Support">Email Support</a>
+    </div>
+
+    <section>
+      <h2>Permissions</h2>
+
+      <h3>Camera access is unavailable</h3>
+      <p>Open <strong>Settings → Apps → 2AM → Camera</strong> and enable access, then reopen 2AM. On older iOS versions, scroll directly to 2AM in Settings.</p>
+
+      <h3>Photos are not appearing in Apple Photos</h3>
+      <p>Open <strong>Settings → Apps → 2AM → Photos</strong> and allow 2AM to add photos. On older iOS versions, scroll directly to 2AM in Settings. Captures should still remain in 2AM's local daily rolls if Photos access was denied.</p>
+    </section>
+
+    <section>
+      <h2>Capturing</h2>
+
+      <h3>How do I take a photo?</h3>
+      <p>Touch anywhere inside the viewfinder. 2AM uses a fixed-power direct flash and a locked capture exposure. The brightened framing preview is display-only and does not alter the photograph.</p>
+
+      <h3>Portrait and Group modes</h3>
+      <p><strong>Portrait</strong> is tuned for a nearer subject; <strong>Group</strong> uses a farther focus preset and more sensor gain. Use the top switch to choose manually.</p>
+
+      <h3>Auto Framing</h3>
+      <p>On supported LiDAR-equipped iPhones, Auto Framing can switch Portrait or Group based on the center subject's distance. It is off by default and can be enabled in Settings. Auto Framing is unavailable on the ultra-wide lens.</p>
+
+      <h3>Ultra-wide lens</h3>
+      <p>Enable the 0.5× lens in Settings and tap Done to rebuild the camera session. If that lens cannot provide the required Bayer RAW format on your device, 2AM safely falls back to the 1× lens.</p>
+    </section>
+
+    <section>
+      <h2>Gallery and Rolls</h2>
+
+      <h3>Where are captures stored?</h3>
+      <p>2AM keeps an app-local gallery organized into one roll per calendar day. With permission, each finished capture is also added to Apple Photos.</p>
+
+      <h3>Zoom, share, or delete</h3>
+      <p>Open a roll and tap a thumbnail. Pinch or double-tap to zoom, use Share to open Apple's Share Sheet, or choose Delete. Deleting in 2AM removes only the app-local copy; a copy in Apple Photos must be deleted separately.</p>
+    </section>
+
+    <section>
+      <h2>Troubleshooting</h2>
+
+      <h3>A capture is unexpectedly dark or bright</h3>
+      <p>Open 2AM Settings and check that Auto Exposure is enabled. Advanced settings include the last-capture diagnostics, which report the actual lens, focus lock, ISO, shutter, LiDAR distance, and development compensation.</p>
+
+      <h3>The camera or flash becomes unavailable</h3>
+      <p>Let the iPhone cool if it is hot, close other apps using the camera, then quit and reopen 2AM. iOS may temporarily disable the torch under thermal pressure.</p>
+
+      <h3>Before contacting support</h3>
+      <ol>
+        <li>Update to the latest version of 2AM and iOS.</li>
+        <li>Quit and reopen the app.</li>
+        <li>Restart the iPhone if the camera remains unavailable.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Privacy</h2>
+      <p>2AM has no accounts, analytics, ads, tracking, or developer-operated cloud service. Camera, LiDAR, and photo processing happen on-device. Read the full <a href="/2am/privacy/">Privacy Policy</a>.</p>
+    </section>
+
+    <footer>2AM · Direct flash. After dark.</footer>
+  </main>
+</body>
+</html>

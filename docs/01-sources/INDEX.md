@@ -1,5 +1,80 @@
 # 已采集资料索引
 
+2026-10-24 / S-092：[Hotel Lobby实现核查](competitors/2026-10-24/hotel-lobby-implementation.md)。保存Eachlabs公开HTML/schema；外层仅hotel-room节点，底层模型/次数未披露。7站自述涉及Omni、Seedance、MiniMax、Wan及Eachlabs；未后台/付费实测。
+
+
+2026-10-14 / S-091：[十个App补充来源](competitors/2026-10-14/ten-app-candidates-evidence.md)。新增家庭物品、音乐标签、参考图板、车辆档案、PDF乐谱、字体样张、拖放架七类具名供给与免费替代；复用S-090三类。Itemlist平台关联收入标题30日$995，非利润；内购多SKU/官网历史价明确区分。未获全量近期增长/ASO/流量或实测。
+
+2026-10-14 / S-090：[iOS与Mac工具初筛](competitors/2026-10-14/ios-mac-utilities.md)，10-13—14部分采集：具名官网/商店价格、免费/系统替代、少量公开任务。无全榜单/收入/增长/词量/实测，D-075—077待补。
+S-089素材更新：24张已本机压缩JPG归入ToneRoll docs/assets/competitors/filmfold/，PNG按授权删除，体积减少83.7%，引用更新。
+
+S-089续采：新增6张FilmFold图，累计24；图库列表/筛选/批量删除模式和设置已覆盖，仍缺单张详情/换效果/视频实录，四份ToneRoll文档已同步。
+
+2026-10-04 / S-089：[ToneRoll与FilmFold18图](competitors/2026-10-04/tone-roll-filmfold-screenshots.md)：本机逐图查看并写4份项目文档；人民币年费68/买断148，确认弹窗不等于购买成功；缺图库/视频/成片。
+
+2026-10-04 / DEC-070范围更新：复用S-086的FilmFold资料作为主要研究入口，其他相机降为背景参考；本轮无新采集或实测。
+
+2026-10-04 / S-086复用刷新：本轮重读IIWII商店、FilmFold官网/帮助，供给仍包括实时风格照片视频与付费解锁；仅用于设计建议，无新收入或画质验证。
+
+2026-10-04 / DEC-069范围调整：S-086/087/088关于2AM的资料保留，用户决定仅参考，不继续深挖；没有新增大V推广证据。
+
+2026-10-04 / S-088：[2AM分享驱动核验](competitors/2026-10-04/2am-sharing-verification.md)：公开搜索未找到相册邀请购买案例；保存官方帮助/隐私HTML，拍照定位明确，但旧文档未覆盖截图共享功能。增长归因未知。
+
+2026-10-04 / S-087：[2AM用户截图复核](competitors/2026-10-04/2am-screenshot-review.md)：5张原PNG归档，确认极简拍摄与限时共享相册邀请界面；TestFlight提示可能滞后，同步/视频/画质未验证。
+
+S-086续查：2AM夜间聚会/一次性相机观感及推荐购买评价；补第三方9月4–30日逐日榜单，修正覆盖窗口不等于首次上榜；未核实网红身份或收入。
+
+2026-10-04 / S-086：[近一年风格相机](competitors/2026-10-04/recent-style-cameras.md)：保存5款Apple美区原始元数据；核实4款2026首发，2AM多日期上榜、IIWII/FilmFold/Better Camera供给与推广线索。无连续增长或收入验证，Kodist为2024产品。
+
+2026-10-04 / S-085：[风格相机公开证据](competitors/2026-10-04/style-camera-evidence.md)：Dazz、NOMO、OldRoll、Kino、8mm、2AM美区价格/评分/功能与部分评论；Kino教程和YouTube观看规模。无收入/ASO词量或画质实测。
+
+2026-10-03 / DEC-066：用户认可SiteBrief完整首发，已扩充PRD与README：专业字段/评论、归档、标签/排序、跨项目整理、Excel/CSV、连续录入、模板/短语均为P0；默认高级信息折叠。补数据/备份/额度/验收规则，仅文档工作，无新外部采集或商业验证变化。
+
+S-084第五批新增4张Excel创建/列表/预览截图及1份XLSX成品，累计44张用户图、66张图片；本地转JPG归档、原XLSX校验不变。表格结构只读确认1表5问题22列及嵌入照片，未验证Excel显示；首版范围与商业候选状态不变。
+
+S-084新增实际PDF完整5页渲染/文字核对、4图编辑/创建报告；累计40张用户图。原PDF保留，2张重复PNG清理。
+
+S-084第三批7张用户截图补照片、自由文本、Excel、画笔、标签设置与问题空状态；累计36张，未实测操作。
+
+S-084素材状态：项目中4张Site Audit Pro图已删除；当前官方素材22张Site Report Pro，用户截图29张。历史采集事实保留。
+
+S-084续采17张用户当前截图，累计29张；覆盖PDF默认设置多个子页，未见实际PDF成品。已本地转换、审阅并更新项目文档。
+
+S-084新增用户截图：12张当前App画面，免费额度2×6与官网3×6有差异；本机JPG转换与补拍清单交付，版本未知、未操作竞品。
+
+S-084免费范围续核：Site Report Pro官方帮助明确3项目×6问题，完整版每项目500条；商店Unlock14.99美元。补Apple上线日期与发现规则，未证固定蜜月期。
+
+S-084维护状态补查：同一基础App英国页10.7.3（24 Sept）及10.0.0外观更新，官网发布记录交叉核对；美区429，未安装当前界面。
+
+S-084续采：SiteBrief项目已保存26张官方截图/宣传图（Site Audit Pro 4、Site Report Pro 22），核对画面与图片校验；PRD与截图说明交付。官网部分标签错误已注明，无竞品安装实测。
+
+2026-10-03 / S-084：[SiteBrief公开研究入口](app-store/2026-10-03/sitebrief-public-research.md)：官方步骤/截图、同类免费下载入口及PDF样例链接；未安装、购买或导出实测，免费限制未确认。
+
+2026-10-03 / DEC-063：用户明确全球市场并认可现场报告优先，记录于[首版范围草案](../03-feasibility/reviews/D-036-global-first-version-2026-10-03.md)；属于用户决策与产品建议，复用S-082/083，无新外部采集或收入证据。
+
+
+- **S-083｜2026-10-03｜Site Audit Pro地区评分/费用**：[同App大陆6/美国11K及Apple规则](app-store/2026-10-03/site-audit-region-economics.md)。同一id430234732跨区核查，评分按地区；香港缓存另注明，非全球人数/收入。官方佣金与会员费核查，国内新费率与海外模型分开。无ASO/付款后台/实测，关联D-036。
+
+
+2026-10-03 / DEC-061：复用S-045/046/048/049/063/079—082完成[19类工具投入比较](../03-feasibility/reviews/ios-utilities-full-ranking-2026-10-03.md)；仅额外公开核Site Report Pro/Anytune/Teleprompter三页，不声称全部旧竞品价格/功能刷新。无全榜/ASO/收入新数据，未新增独立采样批次。
+
+
+- **S-082｜2026-10-03｜三类离线iOS工具竞品**：[现场报告/音乐排练/口播提词](app-store/2026-10-03/three-utility-types.md)。核具名美国商店、官网计划、部分精选评价和帮助；复用S-045/046/079，补买断替代及基础免费能力。仅人工摘要，无安装/付款/断网实测或可靠ASO/收入；关联D-036/060/074。编织复核未恢复。
+
+- **S-081｜2026-10-03｜板材裁切续查**：[买断替代/版本覆盖/公开默认样例](app-store/2026-10-03/cutlist-followup.md)。确认SawKit/Boardcut美国商店及Optimize Kerf近期更新；纸面算术仅核默认样例，浏览器控制超时未实操。无新增可靠ASO/收入/全近期评价；不重复S-080空RSS。
+
+- **S-080｜2026-10-03｜iOS专业材料计算/瓷砖/板材裁切公开调研**：[商店/官网、精选评价、版本历史与缺口](app-store/2026-10-03/material-tools-research.md)。复用S-079；价格不作实收，离线为厂商声明未实测。六份Apple RSS[原件](app-store/2026-10-03/material-tools-raw/README.md)无entry，不当零评价。无可靠ASO/收入/全近期评价；公开UI尝试超时，未完成操作测试。
+
+2026-10-03补充：用户自述已做过免费视频压缩产品，并排除该新方向，见[口述记录](../projects/records/2026-10-03-video-compression.md)和DEC-057。S-079外部资料保留，但不再作为压缩方向待办；无新增外部采集。
+
+- **S-079｜2026-10-03｜iOS离线工具初查**：[美国商店价格、部分评价与本地工具供给](app-store/2026-10-03/offline-utilities.md)。四款商店与MediaKit官网有限摘要；无榜单全量、离线实测、ASO或收入核验。
+
+- **S-077｜2026-09-27｜Toolify 图片/音频分类定向扫描**：[Chrome 人工摘要](rankings/2026-09-27/toolify-image-audio-scan.md)。图片、音乐音频、语音三分类的选定细分区块；非全榜、非增长或营收榜，未取得访问/收入。
+- **S-078｜2026-09-27｜具名工具官网核查**：[七个代表产品功能/定价](competitors/2026-09-27/toolify-image-audio-official-check.md)。官方自述和收费供给，与实收/利润分开；未登录实测。
+- **S-076｜2026-09-27｜备选短名单页面刷新**：[AbMaxx、AI Designer、3D-Agent、HelloInbox](competitors/2026-09-27/shortlist-refresh.md)。官网/商店/TrustMRR部分页面；支付收入不是利润，厂商功能声明未独立实测。
+- **S-075｜2026-09-27｜两域美国 Top Pages / 排名词**：[Semrush 恢复后 Chrome 人工摘录](../grow-seo-traffic/raw/2026-09-27/semrush/road-quantt-us-pages.md)。美国桌面2026-09-26；前十页、有限词行与工具路径筛选。非全球、非全量导出或实际转化。
+- **S-073｜2026-09-27｜两家免费练习实测**：[Road to Offer 与 Quantt 操作和官网摘录](competitors/2026-09-27/road-quantt-free-flow.md)。各测一个免费入口，非付费评测；博客/资源数量是目录显示值，非流量。
+- **S-074｜2026-09-27｜Semrush 详细报表补查受阻**：[页面流量与关键词缺口](../grow-seo-traffic/raw/2026-09-27/semrush/road-quantt-followup.md)。镜像显示空白，未取得 Top Pages；不推定零流量。
 - **S-071｜2026-09-27｜成立约6–11月且有支付记录的10产品**：[TrustMRR与官网人工摘录](rankings/2026-09-27/verified-revenue-ten.md)。只选10个具名站，不是全站榜单；支付数据与自填产品描述分列，利润和全部渠道未核。关联D-063—D-072。
 - **S-072｜2026-09-27｜对应Semrush与App前置**：[Chrome人工摘录](../grow-seo-traffic/raw/2026-09-27/semrush/verified-revenue-domain-screen.md)。已稳定读取7域单点；Preuve/ThreadRecap加载不稳未取值，AbMaxx属于App场景。主要页面、词量和真实转化未核。
 
