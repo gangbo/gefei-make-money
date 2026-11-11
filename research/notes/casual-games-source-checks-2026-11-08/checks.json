@@ -1,0 +1,90 @@
+[
+  {
+    "game": "sand-loop",
+    "url": "https://apps.apple.com/us/app/sand-loop-color-sort-puzzle/id6754363534",
+    "retrieved_at": "2026-11-08T11:53:56.538069-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/sand-loop-color-sort-puzzle/id6754363534",
+    "title": "‎Sand Loop: Color Sort Puzzle App - App Store"
+  },
+  {
+    "game": "wool-crush",
+    "url": "https://apps.apple.com/us/app/wool-crush-escape-traffic-jam/id6743385713",
+    "retrieved_at": "2026-11-08T11:53:56.538649-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/wool-crush-escape-traffic-jam/id6743385713",
+    "title": "‎Wool Crush™-Escape Traffic Jam App - App Store"
+  },
+  {
+    "game": "arrows",
+    "url": "https://apps.apple.com/us/app/arrows-puzzle-escape/id6748397500",
+    "retrieved_at": "2026-11-08T11:53:56.539347-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/arrows-puzzle-escape/id6748397500",
+    "title": "‎Arrows – Puzzle Escape App - App Store"
+  },
+  {
+    "game": "amaze-go",
+    "url": "https://apps.apple.com/us/app/amaze-go/id6758326278",
+    "retrieved_at": "2026-11-08T11:53:56.542022-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/amaze-go/id6758326278",
+    "title": "‎Amaze GO!™ App - App Store"
+  },
+  {
+    "game": "cubeaway",
+    "url": "https://apps.apple.com/us/app/arrow-cube-escape/id6760325543",
+    "retrieved_at": "2026-11-08T11:53:56.543040-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/cubeaway-3dpuzzle/id6760325543",
+    "title": "‎CubeAway - 3DPuzzle App - App Store"
+  },
+  {
+    "game": "screwdom",
+    "url": "https://apps.apple.com/us/app/screwdom/id6740043080",
+    "retrieved_at": "2026-11-08T11:53:56.895009-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/screwdom/id6740043080",
+    "title": "‎Screwdom App - App Store"
+  },
+  {
+    "game": "magic-sort",
+    "url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
+    "retrieved_at": "2026-11-08T11:53:56.968521-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
+    "title": "‎Magic Sort! App - App Store"
+  },
+  {
+    "game": "water-match",
+    "url": "https://apps.apple.com/us/app/water-match-asmr-water-sort/id6751788348",
+    "retrieved_at": "2026-11-08T11:53:56.989081-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/water-match-asmr-water-sort/id6751788348",
+    "title": "‎Water Match®- ASMR Water Sort App - App Store"
+  },
+  {
+    "game": "block-blast",
+    "url": "https://apps.apple.com/us/app/block-blast/id1617391485",
+    "retrieved_at": "2026-11-08T11:53:57.071734-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/block-blast/id1617391485",
+    "title": "‎Block Blast！ App - App Store"
+  },
+  {
+    "game": "color-block-jam",
+    "url": "https://apps.apple.com/us/app/color-block-jam/id6504332779",
+    "retrieved_at": "2026-11-08T11:53:57.117372-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/color-block-jam/id6504332779",
+    "title": "‎Color Block Jam App - App Store"
+  },
+  {
+    "game": "antistress",
+    "url": "https://apps.apple.com/us/app/antistress-relaxing-games/id1207565651",
+    "retrieved_at": "2026-11-08T11:53:57.168483-05:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/app/antistress-relaxing-games/id1207565651",
+    "title": "‎Antistress - Relaxing games App - App Store"
+  }
+]

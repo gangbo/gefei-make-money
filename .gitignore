@@ -1,1 +1,4 @@
 .idea
+
+# 商店/榜单/报道页原始 HTML 快照体积大，公开库只保留同目录 JSON 检查记录。
+research/notes/casual-games-source-checks-2026-11-08/*.html

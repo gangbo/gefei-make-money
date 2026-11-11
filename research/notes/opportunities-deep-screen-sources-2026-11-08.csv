@@ -1,0 +1,45 @@
+candidate,source_type,url,access_result,publication_or_updated_date,observed_evidence,retrieved_date_timezone
+map,demand-adjacent,https://www.reddit.com/r/gis/comments/18gck86/looking_for_software_option_for_territory_mapping/,readable,unknown,手动Illustrator区域与移动基地需求；不是ZIP精确需求,2026-11-08 America/New_York
+map,demand,https://www.reddit.com/r/Maps/comments/t4bawh/can_someone_helpshow_me_how_to_make_a_territory/,fetch500;curl200 shell;search excerpt,unknown,精确ZIP列表求助，证据较弱,2026-11-08 America/New_York
+map,competitor,https://www.simplemaplab.com/tools/map-with-zip-codes,readable,2026-10-19,FAQ暂无导出、非ZIP多边形；正文营销有矛盾,2026-11-08 America/New_York
+map,competitor,https://ultimaps.com/use-cases/sales-territory-mapping/,readable,2026-10-29,ZIP单州；CSV/矢量导出已有,2026-11-08 America/New_York
+map,pricing,https://ultimaps.com/#pricing,readable,unknown,€12.50单图24h重导；免费PNG有credit,2026-11-08 America/New_York
+map,bad-guessed-url,https://ultimaps.com/pricing/,404,unknown,真实价格链接为/#pricing，勿引用404,2026-11-08 America/New_York
+map,competitor,https://www.randymajors.org/customgmap,readable,2026-09-12,Google Sheet需anyone with link；1000行免费,2026-11-08 America/New_York
+bank,demand,https://www.reddit.com/r/Bookkeeping/comments/1g56enx/not_in_bookkeeping_but_looking_for_a_bookkeeping/,fetch500;curl200 shell;search full indexed excerpt,2024-10-16,法律财务发现手抄流水，不要订阅/页限，愿买断；旧需求,2026-11-08 America/New_York
+bank,pricing,https://www.docuclipper.com/pricing/,readable,unknown,$29/mo60页；年付等价$20.30/mo；SOC2/余额检查厂商声明,2026-11-08 America/New_York
+bank,pricing,https://flowparse.io/pricing,readable,unknown,每月10免费页；100页€5一次性，非订阅并非空位,2026-11-08 America/New_York
+bank,competitor,https://tinytoolaz.com/bank-statement-converter/,readable,unknown,免费本地文字PDF；准确度未测,2026-11-08 America/New_York
+bank,competitor,https://fullaledgerbankstatements.com/guides/catch-up-bookkeeping,readable,2026-10-22,源页逐行审核已有；不能称独家,2026-11-08 America/New_York
+bank,excluded,https://www.reddit.com/r/Accounting/comments/1m4igkl/any_best_ai_based_bank_statement_converter_with/,removed by moderators,unknown,不作独立正向需求,2026-11-08 America/New_York
+sewing,demand,https://www.reddit.com/r/sewing/comments/1qlxffl/trouble_using_pdf_stitcher_to_make_my_a4/,readable,unknown,36.5inch输出导致印店分两张，换列错位,2026-11-08 America/New_York
+sewing,US-workflow,https://www.sewinglounge.com/pdf-printing-faqs,readable,unknown,Saint Paul真实36inch上限、用户需自行拼版,2026-11-08 America/New_York
+sewing,workflow,https://spoolandspindle.com/blogs/thoughts-from-the-spool/pdf-stitcher-the-skinny,readable,2023-07-18,加拿大印店：超宽、片段重排、不修改错文件,2026-11-08 America/New_York
+sewing,competitor,https://www.pdfstitcher.org/docs/page-tiling,readable,2021-04-11,免费开源多种tile/crop/page order,2026-11-08 America/New_York
+sewing,competitor,https://patternprojector.com/,readable,unknown,免费网页版已能拼，不是Chromebook空位,2026-11-08 America/New_York
+app,demand,https://www.reddit.com/r/iOSProgramming/comments/1mh5j15/tired_of_localizing_app_store_screenshots_one_by/,readable,2025-08-04 via indexed comments,重复截图本地化请求,2026-11-08 America/New_York
+app,X-demand,https://x.com/AmeerHaio/status/1915859257863639327,direct x tool,2025-04-25,找Adobe替代，非maker自推；US不明,2026-11-08 America/New_York
+app,X-qualified,https://x.com/Slothy_app/status/2079959871303106740,direct x tool,2026-07-22,产品账号抱怨尺寸重导；低权重,2026-11-08 America/New_York
+app,official-rule,https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications/,readable,unknown,alpha禁止/最高分辨率可自动缩放/Duo2027规则；非搜索量,2026-11-08 America/New_York
+app,pricing,https://appscreens.com/pricing,readable,unknown,Pro$99/yr；80+locales已有,2026-11-08 America/New_York
+app,competitor,https://launchshots.app,readable,unknown,25langs免费ZIP、本地无水印,2026-11-08 America/New_York
+app,competitor,https://www.screenodon.com/guides/screenshot-dimensions-are-wrong,readable,2026-10-27,已有尺寸checker，不能称新楔,2026-11-08 America/New_York
+app,competitor,https://www.svensson.design/tools/shotlattice/,readable,unknown,CSV、manifest、排版验证已覆盖；未取checkout不引用价格,2026-11-08 America/New_York
+crossstitch,demand,https://www.reddit.com/r/CrossStitch/comments/16zumq8/chat_help_w_pattern_generators/,readable,unknown,FlossCross巨大/模糊/字不可读，GIMP手工简化失败,2026-11-08 America/New_York
+crossstitch,competitor,https://flosscross.com/,readable,unknown,免费本地无注册OXS/PDF,2026-11-08 America/New_York
+crossstitch,pricing,https://www.stitchfiddle.com/en/premium/pricing,readable,unknown,$5单月/$30年无自动续费，$2.50为年均,2026-11-08 America/New_York
+crossstitch,pricing-features,https://stitchmate.app/features,readable,2026-11-02,$5.99/图；5图$12；10图$20；confetti/保留文字已有,2026-11-08 America/New_York
+rejected,competitor,https://www.diffsheets.com/en,readable,unknown,免费keymatch本地,2026-11-08 America/New_York
+rejected,competitor,https://pythonandvba.com/excel-compare/,readable,unknown,免费双键容差公式比较xlsx/csv报告,2026-11-08 America/New_York
+rejected,competitor,https://courtscaptain.com/tools/tennis-round-robin-generator/,readable,unknown,免费均等轮空/水平/混双/导出覆盖窄楔,2026-11-08 America/New_York
+rejected,competitor,https://bookletmaker.app/,readable,unknown,免费核心、签帖/creep Pro 已有,2026-11-08 America/New_York
+rejected,competitor,https://suavelabelcropper.com/,readable,unknown,自动label/校验已齐；免费300/月后付费,2026-11-08 America/New_York
+rejected,competitor,https://www.sejda.com/pdf-forms,readable,unknown,taborder/重复fields/align已有,2026-11-08 America/New_York
+rejected,pricing,https://www.sejda.com/pricing,readable,unknown,$5weekpass非自动续费，轻量付费模式已覆盖,2026-11-08 America/New_York
+rejected,competitor,https://bingomix.net/,readable,unknown,免费图文随机30张，本地,2026-11-08 America/New_York
+rejected,demand,https://www.reddit.com/r/Teachers/comments/m6er9b/free_bingo_generator_with_pictures/,readable,unknown,旧图片Bingo随机化投诉已被免费工具覆盖,2026-11-08 America/New_York
+rejected,competitor,https://www.idphoto4you.com/,readable,unknown,免费73国/4x6；非空位,2026-11-08 America/New_York
+rejected,competitor,https://imgtweak.com/passport-photo-4x6,readable,unknown,免费本地安全边距4x6，US场景已覆盖,2026-11-08 America/New_York
+limit,trends-US,"https://trends.google.com/trends/explore?geo=US&date=today%2012-m&q=cut%20list%20optimizer,bank%20statement%20converter,app%20store%20screenshot%20generator",HTTP429,2026-11-08 retrieval,未取得新趋势数据,2026-11-08 America/New_York
+rejected-contactsheet,competitor,https://www.contactsheetkit.com/contact-maker,readable,unknown,免费本地300dpi PDF/filename/page；review付费已有,2026-11-08 America/New_York
+rejected-contactsheet,competitor,https://textfaker.com/tools/photo-contact-sheet-maker,readable,unknown,本地PNG+manifest，多布局与标签,2026-11-08 America/New_York

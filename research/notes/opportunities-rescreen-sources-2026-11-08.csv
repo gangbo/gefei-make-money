@@ -1,0 +1,56 @@
+candidate,source_role,url,retrieval_status,source_date,observed_evidence_and_caveat,retrieved_date_timezone
+method,directory-supply,https://linkmap.in/browse/gaming-tools,WebFetch readable,2026-11 updated,Gaming Tools176条;BuzzIn/hardwaretester;供给非需求,2026-11-08 America/New_York
+method,Trends-US,"https://trends.google.com/trends/explore?geo=US&date=today%2012-m&q=gamepad%20tester,online%20buzzer,potluck%20sign%20up",WebFetch HTTP429,unknown,没有曲线/飙升，不推量,2026-11-08 America/New_York
+method,bad-url,https://alternativeto.net/software/buzzin-live/,WebFetch404,unknown,猜测目录URL失败，未当来源,2026-11-08 America/New_York
+scoreboard,demand,https://www.reddit.com/r/ESL_Teachers/comments/1boq86l/best_online_scoreboard/,WebSearch indexed full post,2024-03-27 index,不同地点老师需在线板，2板限额/太贵；US未知,2026-11-08 America/New_York
+scoreboard,demand,https://www.reddit.com/r/web_design/comments/2i0fya/need_help_making_an_online_scoreboard/,WebSearch indexed full post,2014-10-01 index,体育馆KanJam投影，想按钮记分,2026-11-08 America/New_York
+scoreboard,competitor,https://scoreleader.com/,WebFetch readable,unknown,实时免费；协作access link付费；free10天,2026-11-08 America/New_York
+scoreboard,pricing,https://scoreleader.com/pricing/,WebFetch readable,unknown,$9单板30天/$18全板30天税外；非订阅,2026-11-08 America/New_York
+scoreboard,competitor,https://scorecount.com/,WebFetch readable,unknown,投影/最终链接；不据此声称远程实时,2026-11-08 America/New_York
+scoreboard,competitor,https://www.judgemate.com/en/live-scoreboard,WebFetch readable,unknown,免费无广告无账号无限观众22项/断线重连,2026-11-08 America/New_York
+scoreboard,competitor,https://www.scorekeeper.co/,WebFetch readable,unknown,free共享leaderboard50总views，不能外推市场全部,2026-11-08 America/New_York
+gamepad,demand,https://www.reddit.com/r/consolerepair/comments/197rmo8/controllers_drift_threshold/,WebFetch readable;WebSearch dated,2024-01-16 index,PS5换摇杆Y-0.12不知是否漂移,2026-11-08 America/New_York
+gamepad,demand,https://www.reddit.com/r/consolerepair/comments/1jmimmb/gamepad_tester_is_this_drift/,WebFetch500;WebSearch full indexed text,2025-03-29 index,用户测试后不理解结果，评论阈值不一,2026-11-08 America/New_York
+gamepad,competitor,https://devicebench.org/gamepad-tester/,WebFetch readable,unknown,静止5s/噪声死区/向导/技术限制已经免费,2026-11-08 America/New_York
+gamepad,competitor-adverse,https://gamepad-tester.io/,WebFetch readable,unknown,多手柄/历史/对比/报告已宣传；物理延迟/raw等文案非独立验证,2026-11-08 America/New_York
+gamepad,competitor,https://driftguard.app/,WebFetch readable,unknown,丰富硬件测试与写校准；只读页面未连接设备，不推荐刷写,2026-11-08 America/New_York
+network,US-demand,https://www.reddit.com/r/Comcast_Xfinity/comments/1gfukhb/unstable_connection_working_from_home/,WebFetch readable,unknown,高速但居家会议冻结/掉线，跑稳定性测试差,2026-11-08 America/New_York
+network,demand,https://www.reddit.com/r/HomeNetworking/comments/1ir6a5i/internet_disconnects_exactly_every_30_seconds_and/,WebSearch indexed,unknown,周期30秒断连，索引命中PacketStats建议，未读全文,2026-11-08 America/New_York
+network,competitor,https://www.packetstats.com/,WebFetch readable,unknown,免费无限长/多服务器/alert/download，adblock提示,2026-11-08 America/New_York
+network,competitor,https://ismyinternetstable.com/internet-stability-test,WebFetch readable,unknown,免费continuous/P95/时间线/应用requestloss,2026-11-08 America/New_York
+network,competitor,https://peakhour.app/internet-stability-test/,WebFetch readable,unknown,免费5/10min UDP自回环厂商描述；后台停/前次对照,2026-11-08 America/New_York
+potluck,demand,https://www.reddit.com/r/Teachers/comments/1cm0i4k/signup_genius_alternatives_that_arent_so/,WebFetch readable,unknown,广告影响操作，聚餐谁带什么；也有时间段任务但不扩展排班,2026-11-08 America/New_York
+potluck,demand,https://www.reddit.com/r/partyplanning/comments/1nvplc0/potluck_sign_up_sheet_without_slots/,WebFetch500;WebSearch indexed excerpt,unknown,自由填菜名无预定义slots的请求；US未知,2026-11-08 America/New_York
+potluck,X-demand,https://x.com/halalstocktok/status/2115876499060675011,x direct included original post,2026-10-29 EDT,提出份量/是否需烤箱，非厂商；US未知,2026-11-08 America/New_York
+potluck,X-supply,https://x.com/signupbubble/status/2117290699884298479,x direct post,2026-11-02 EST,厂商回复已有自定义问题，供给非需求,2026-11-08 America/New_York
+potluck,competitor,https://signupsheet.page/potluck-sign-up-sheet,WebFetch readable,unknown,免费无广告无账号容量/候补/提醒,2026-11-08 America/New_York
+potluck,competitor,https://signupqueen.com/templates/potluck-sign-up-sheet,WebFetch readable,unknown,free40slots/份量备注/RSVP/privateedit,2026-11-08 America/New_York
+potluck,competitor,https://opensignup.org/potluck-sign-up-sheet,WebFetch readable,2026-09-27 updated,free；访客不见具体菜名/notes，不能copy整场,2026-11-08 America/New_York
+buzzer,US-demand,https://www.reddit.com/r/trivia/comments/gbqo8l/is_there_an_app_or_browserbased_lockout_buzzer/,WebFetch timeout;WebSearch full indexed post,2020-05-01 index,US不同地点朋友需要firstpress/lockout,2026-11-08 America/New_York
+buzzer,historic-payment,https://www.reddit.com/r/Jeopardy/comments/gr98jt/online_lockout_buzzer/,WebFetch readable;WebSearch dated,2020-05-27 index,自称非关联用户付过$30/yr；这是2020不是当前价格,2026-11-08 America/New_York
+buzzer,demand-now-covered,https://www.reddit.com/r/RequestASite/comments/zpjvxk/online_buzzer_with_multiple_choice/,WebSearch full indexed text,2022-12-19 index,四按钮请求，2026已被免费竞品覆盖,2026-11-08 America/New_York
+buzzer,competitor,https://buzzin.live/,WebFetch readable,unknown,free200人/latencycorrection/提前惩罚,2026-11-08 America/New_York
+buzzer,competitor,https://justbuzz.in/,WebFetch readable,unknown,freeunlimited/textanswer/hostcontrol,2026-11-08 America/New_York
+buzzer,competitor,https://www.hambuzzer.com/en/features,WebFetch readable,unknown,freeMCQ/14formats/teams/projector/history/rematch,2026-11-08 America/New_York
+teleprompter-exploration,X-negative,https://x.com/NotionCoach/status/2114443701342634464,x direct post,2026-10-25 EDT,买家称10分钟vibecode同功能，反证仅UI抗Agent不足；非实测,2026-11-08 America/New_York
+mouse,rejection-search-level,https://mousecheck.net/double-click-test/,WebSearch indexed only;not fetched,unknown,paced点击/声明真实按压次数已做,2026-11-08 America/New_York
+mouse,rejection-search-level,https://mousetest.micemod.gg/,WebSearch indexed only;not fetched,unknown,含侧键/wheel/pace与厂商threshold,2026-11-08 America/New_York
+logic,rejection-search-level,https://news.ycombinator.com/item?id=34741945,WebSearch indexed only;not fetched,unknown,独立讨论Digital/Logisim成熟免费,2026-11-08 America/New_York
+whiteboard,rejection-search-level,https://www.notebookcast.com/,WebSearch indexed only;not fetched,unknown,免费无注册白板供给,2026-11-08 America/New_York
+initiative,rejection-search-level,https://www.initiative5e.com/,WebSearch indexed only;not fetched,unknown,玩家视图供给,2026-11-08 America/New_York
+pixelcanvas,rejection-search-level,https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired,WebSearch indexed only;not fetched,unknown,协作pixel供给报道，非用户需求,2026-11-08 America/New_York
+flashcards,rejection-search-level,https://www.reddit.com/r/GCSE/comments/xde2s0/anki_or_quizlet/,WebSearch indexed only;not fetched,unknown,Quizlet付费抱怨与Anki替代；非US证明,2026-11-08 America/New_York
+noise,rejection-search-level,https://www.weareteachers.com/classroom-noise-monitor-apps/,WebSearch indexed only;not fetched,unknown,免费BouncyBalls及替代推荐,2026-11-08 America/New_York
+fretboard,rejection-search-level,https://webindexly.com/site/my-fretboard-trainer/,WebSearch indexed only;not fetched,unknown,目录供给：训练免费，非需求,2026-11-08 America/New_York
+gesture,rejection-search-level,https://conceptartempire.com/gesture-pose-photo-websites/,WebSearch indexed only;not fetched,unknown,LineOfAction/QuickPoses免费列表,2026-11-08 America/New_York
+reading,rejection-search-level,https://lsathacks.com/guide/reading-comprehension/reading-speed-lsat/,WebSearch indexed only;not fetched,unknown,阅读速度讨论，不能据此宣称RSVP效果,2026-11-08 America/New_York
+aim,rejection-search-level,https://aimbetween.games/vs/aim-lab,WebSearch indexed only;not fetched,unknown,厂商对比，供给非独立需求,2026-11-08 America/New_York
+reaction,rejection-search-level,https://www.reddit.com/r/Nootropics/comments/3aqx6i/psa_reaction_time_sites_apps_are_unreliable/,WebSearch indexed only;not fetched,unknown,浏览器/硬件延迟抱怨,2026-11-08 America/New_York
+nback,rejection-search-level,https://www.reddit.com/r/DualnBack/comments/1qcom4j/update_brainworkshop_2/,WebSearch indexed only;not fetched,unknown,免费开源无广告供给帖，非需求,2026-11-08 America/New_York
+morse,rejection-search-level,https://www.reddit.com/r/amateurradio/comments/1dwkopr/looking_for_a_cw_training_app_or_website_that/,WebSearch indexed only;not fetched,unknown,一字符到答对需求；MorseCodeWorld已有,2026-11-08 America/New_York
+math,rejection-search-level,https://polypad.amplify.com/,WebSearch indexed only;not fetched,unknown,免费无注册manipulatives供给,2026-11-08 America/New_York
+watch,rejection-search-level,https://www.reddit.com/r/LongDistance/comments/1lerhrc/whats_the_best_app_to_watch_youtube_together_when/,WebSearch indexed only;not fetched,unknown,同步观看真实请求/替代推荐,2026-11-08 America/New_York
+clipboard,rejection-search-level,https://www.reddit.com/r/InternetIsBeautiful/comments/in1n5t/share_clipboard_from_pc_to_phone_instantly/,WebSearch indexed only;not fetched,unknown,无安装PC/手机传递供给帖,2026-11-08 America/New_York
+volleyball,rejection-search-level,https://volleyreport.com/en/tools/rotation,WebSearch indexed only;not fetched,unknown,免费拖动/overlapchecker,2026-11-08 America/New_York
+chips,rejection-search-level,https://www.reddit.com/r/boardgames/comments/1nmhr43/play_poker_without_chips/,WebSearch indexed only;not fetched,unknown,无实体筹码的真实请求，但多种虚拟筹码免费替代,2026-11-08 America/New_York
+MTG,competitor,https://lifelinkmtg.app/,WebFetch readable,unknown,免费sharedrooms/2-6人/Commander/OBS全覆盖,2026-11-08 America/New_York

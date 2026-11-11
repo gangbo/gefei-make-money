@@ -1,0 +1,41 @@
+[
+  {
+    "name": "appfigures-us",
+    "url": "https://appfigures.com/top-apps/google-play/us/games/puzzle",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "appfigures-jp",
+    "url": "https://appfigures.com/top-apps/google-play/japan/games/puzzle",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "appfigures-kr",
+    "url": "https://appfigures.com/top-apps/google-play/south-korea/games/puzzle",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "similarweb-kr",
+    "url": "https://www.similarweb.com/top-apps/google/korea-republic-of/games/puzzle/top-free/",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": 200
+  },
+  {
+    "name": "sensortower-japan-2026",
+    "url": "https://sensortower.com/blog/state-of-japan-gaming-2026",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": 200
+  },
+  {
+    "name": "pocketgamer-pixel-flow",
+    "url": "https://www.pocketgamer.biz/loom-games-pixel-flow-makes-almost-200m-in-player-spending-during-first-year/",
+    "retrieved_at": "2026-11-08T11:55:05.688516-05:00",
+    "status": 200
+  }
+]
