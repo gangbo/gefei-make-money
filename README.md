@@ -32,7 +32,7 @@ UUID、cover letter、llms.txt、EXIF remover、name tags。
 - **首选：**「颜色弹药 + 像素清场」。参考 Pixel Flow! 的像素确定性清场，做原创小网页。
 - **备选：** 2D 箭头疏通，做成低压力短局。
 
-依据：[美日韩单指休闲解压小游戏研究](research/notes/casual-stress-relief-games-us-jp-kr-2026-11-08.md)。
+依据：[美日韩单指休闲解压小游戏研究](research/notes/casual-stress-relief-games-us-jp-kr-2026-11-08.md)。网页门户站 11-12 热度快照见 [网页休闲小游戏热度调研](research/notes/trending-web-casual-games-2026-11-12.md)，不改变上述首选与备选。
 
 ### 2026-11-05 批次的旧计数
 
@@ -42,7 +42,7 @@ UUID、cover letter、llms.txt、EXIF remover、name tags。
 
 ```text
 CURRENT-DECISIONS.md      2026-11-08 已上线、已否决与研究约束
-research/notes/           2026-11 SEO 工具筛选、商机深筛/重筛、小游戏研究
+research/notes/           2026-11 SEO 工具筛选、商机深筛/重筛、小游戏与引擎研究
 docs/                     2026-09 至 2026-10 选品资料库
 ├── STATUS.md             当时进度与下次工作入口
 ├── decisions.md          决策历史与淘汰原因
@@ -58,7 +58,7 @@ docs/                     2026-09 至 2026-10 选品资料库
 
 ## 文档索引
 
-按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08，当前）。
+按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）。
 
 ### 1. SEO 工具需求（2026-11-05，历史快照，未经复核）
 
@@ -88,7 +88,7 @@ docs/                     2026-09 至 2026-10 选品资料库
 | [opportunities-rescreen-sources-2026-11-08.csv](research/notes/opportunities-rescreen-sources-2026-11-08.csv) | 重筛来源与取证状态。 |
 | [CURRENT-DECISIONS.md](CURRENT-DECISIONS.md) | 已上线站点、否决名单和研究约束的决策记录。 |
 
-### 3. 单指休闲解压小游戏（2026-11-08，当前方向）
+### 3. 单指休闲解压小游戏（2026-11-08 起，当前方向）
 
 | 文档 | 内容 |
 | --- | --- |
@@ -97,8 +97,21 @@ docs/                     2026-09 至 2026-10 选品资料库
 | [casual-stress-relief-games-us-jp-kr-2026-11-08-sources.csv](research/notes/casual-stress-relief-games-us-jp-kr-2026-11-08-sources.csv) | 来源、口径、日期和读取状态。 |
 | [casual-games-source-checks-2026-11-08/checks.json](research/notes/casual-games-source-checks-2026-11-08/checks.json) | 美国 App Store 页面抓取状态（HTTP、最终 URL、标题）。 |
 | [casual-games-source-checks-2026-11-08/market-page-checks.json](research/notes/casual-games-source-checks-2026-11-08/market-page-checks.json) | 榜单与报道页抓取状态（含 Appfigures 403）。 |
+| [trending-web-casual-games-2026-11-12.md](research/notes/trending-web-casual-games-2026-11-12.md) | Poki / CrazyGames 等门户站 2026-11-12 热度快照。15 款已核实游戏与 5 条给独立开发者的模式；未拿到 Google Trends / Semrush 精确搜索量。不改变 11-08 的首选与备选。 |
 
 **原始页面快照未入库。** `casual-games-source-checks-2026-11-08/` 里的 `*.html` 是商店页、榜单页和报道页的原始 HTML，体积大，本仓库只保留上述两份检查 JSON。研究报告正文仍按写作时描述该目录含 HTML；那些快照不在本仓库。
+
+### 4. 游戏开发 AI 技能（2026-11-10）
+
+| 文档 | 内容 |
+| --- | --- |
+| [game-dev-ai-skills-2026-11-10.md](research/notes/game-dev-ai-skills-2026-11-10.md) | 面向 Cursor 等助手的游戏开发技能包与编辑器 MCP 调研。建议先装 Awesome Gamedev Agent Skills，再按引擎加 MCP；若首发微信/抖音需单独补 Cocos。星数取自当时 GitHub API。本轮未安装任何技能。 |
+
+### 5. Ren'Py 视觉小说笔记（2026-11-11）
+
+| 文档 | 内容 |
+| --- | --- |
+| [renpy-visual-novel-notes-2026-11-11.md](research/notes/renpy-visual-novel-notes-2026-11-11.md) | 网页构建体积实测、gzip/字体/加载图优化、同源 `/games/` 嵌入与 COOP/COEP/CORP、口型开合与部分配音，以及一次 itch.io 视觉小说的公开传播机制。不含游戏二进制或作品内容。 |
 
 ## 从哪里开始（docs/ 资料库）
 
