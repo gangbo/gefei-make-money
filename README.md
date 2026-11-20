@@ -43,7 +43,7 @@ UUID、cover letter、llms.txt、EXIF remover、name tags。
 ```text
 CURRENT-DECISIONS.md      2026-11-08 已上线、已否决与研究约束
 research/notes/           2026-11 SEO 工具筛选、商机深筛/重筛、小游戏与引擎研究
-docs/                     2026-09 至 2026-10 选品资料库
+docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 起的已核实外链目录
 ├── STATUS.md             当时进度与下次工作入口
 ├── decisions.md          决策历史与淘汰原因
 ├── 00-methodology/       方法论与阶段规则
@@ -52,13 +52,14 @@ docs/                     2026-09 至 2026-10 选品资料库
 ├── 03-feasibility/       输入、交付、成本、竞争和获客筛选
 ├── 04-validation/        实验索引、脚本、样本与复盘
 ├── projects/             已有产品、经营数据和口述记录
-├── operations/           运营经验、推广与外链资料
+├── operations/           运营经验、推广与历史外链社区榜单
+├── backlinks/            2026-11-19 已核实免费外链渠道、竞品反查与提交进度
 └── grow-seo-traffic/     SEO 专项原始数据，保留固定路径
 ```
 
 ## 文档索引
 
-按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）。
+按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）→ 已核实免费外链（11-19，当前可执行）。
 
 ### 1. SEO 工具需求（2026-11-05，历史快照，未经复核）
 
@@ -113,6 +114,17 @@ docs/                     2026-09 至 2026-10 选品资料库
 | --- | --- |
 | [renpy-visual-novel-notes-2026-11-11.md](research/notes/renpy-visual-novel-notes-2026-11-11.md) | 网页构建体积实测、gzip/字体/加载图优化、同源 `/games/` 嵌入与 COOP/COEP/CORP、口型开合与部分配音，以及一次 itch.io 视觉小说的公开传播机制。不含游戏二进制或作品内容。 |
 
+### 6. 已核实免费外链（2026-11-19，当前可执行）
+
+已上线站点的冷启动提交清单。只收官方页确认存在免费通道的渠道；付费站、未能确认免费的站、以及 Reddit 不进入提交表。公开搜索看到的外链不是 Ahrefs／Semrush 全量库。
+
+| 文档 | 内容 |
+| --- | --- |
+| [backlinks/README.md](docs/backlinks/README.md) | 外链资源总目录、冷启动顺序与避坑。 |
+| [free-directories.md](docs/backlinks/free-directories.md) | 纯免费渠道总表（游戏站、通用目录、内容／资料页、开源导航）及已排除说明。 |
+| [puzzlebento-competitors.md](docs/backlinks/puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的免费可复用渠道。 |
+| [submission-tracker.md](docs/backlinks/submission-tracker.md) | 五个站点 × 免费渠道的勾选进度表。 |
+
 ## 从哪里开始（docs/ 资料库）
 
 | 想知道什么 | 入口 |
@@ -123,6 +135,7 @@ docs/                     2026-09 至 2026-10 选品资料库
 | 怎样判断能否低成本做 | [阶段规则](docs/00-methodology/workflow.md)、[可行性模板](docs/03-feasibility/README.md) |
 | 实际做过哪些实验 | [实验索引](docs/04-validation/INDEX.md) |
 | 已做过哪些产品和尝试 | [项目档案](docs/projects/portfolio.md) |
+| 已上线站去哪里提交免费外链 | [已核实免费外链目录](docs/backlinks/README.md) |
 
 ## 方法与历史资料
 
@@ -132,7 +145,7 @@ docs/                     2026-09 至 2026-10 选品资料库
 - [出版与 Bubble 七项筛选](docs/03-feasibility/reviews/narrow-workflow-opportunities-2026-09-10.md)。PDF/Bubble 深度维护已停止，正文保留历史判断。
 - [SEO 数据清单](docs/grow-seo-traffic/data-checklist.md)、[历史 AI 图片研究](docs/grow-seo-traffic/reports/2026-08-26-ai-image-product-opportunity.md)。房产方向历史建议不可直接当作当前立项。
 - [首个 100/1,000 美元经验](docs/operations/banbri-first-100-to-1000-dollars.md)、[出海运营经验](docs/operations/sophie-miaomiao-operator-to-overseas-products.md)。
-- [外链渠道整理](docs/operations/web-cafe-backlinks-sync-2026-09-04.md)、[601 条外链目录](docs/operations/web-cafe-backlinks-catalog-2026-09-04.md)。
+- 当前可执行的免费外链目录见 [docs/backlinks/](docs/backlinks/README.md)。历史社区榜单（费用与链接属性当时未经目标站独立核验）：[外链渠道整理](docs/operations/web-cafe-backlinks-sync-2026-09-04.md)、[601 条外链目录](docs/operations/web-cafe-backlinks-catalog-2026-09-04.md)。
 
 ## 使用原则
 
