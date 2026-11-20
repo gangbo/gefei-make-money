@@ -8,7 +8,7 @@
 
 已排除大型门户与题库矩阵（Poki、CrazyGames、NYT Games、Coolmath、MSN Games、Arkadium、AARP、Miniclip、Kongregate、Armor Games、Sudoku.com、WebSudoku、Puzzle-Team 等）：它们的外链画像很难被新合集站复用。Reddit 按站点所有者要求不列入。付费或未能确认免费的渠道（如 ShipDeck）只在文末排除说明中出现，不进入可提交清单。
 
-免费渠道的提交入口和条件以 [free-directories.md](free-directories.md) 为准。
+免费渠道的提交入口和条件以 [free-directories.md](free-directories.md) 为准。 **2026-11-20 补查域名创建时间后：** Puzzle Hub（`tappypotato.com`，2026-08-28）、Foundplay（`foundplay.io`，2026-10-04）、Best Digital Launch（`bestdigitallaunch.com`，2026-09-21）虽仍有竞品实证和声称免费的提交页，但属于 2024 年及之后注册的新域名，已从可提交清单降级，详见 [excluded-log.md](excluded-log.md)。Fazier、Peerlist、AlternativeTo、Product Hunt、Show HN、DEV、LinkedIn 的域名足够老，仍可按原表使用。
 
 ---
 
@@ -39,9 +39,12 @@
 
 ## 2. 从竞品反查到、且已确认免费可复用的渠道
 
-只保留：第三方页面上确实挂了竞品链接，并且该平台有已核实的免费提交／发帖／注册路径。
+只保留：第三方页面上确实挂了竞品链接，并且该平台有已核实的免费提交／发帖／注册路径。下表中带新域名标注的平台不要再当作优先提交对象。
 
-### 多家竞品共投，优先交
+### 多家竞品共投（其中三个已因新域名降级）
+
+
+> 注意：Puzzle Hub、Foundplay、Best Digital Launch 三行仍保留竞品实证，便于日后复查，但域名均为 2024+，当前不要优先提交。
 
 | 平台 | 免费提交入口 | 已核实的竞品实证页 | 给 PuzzleBento 怎么用 |
 | --- | --- | --- | --- |

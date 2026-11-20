@@ -1,24 +1,56 @@
-# 已核实免费外链资源（2026-11-19）
+# 已核实多语种外链总记录库（2026-11-20）
 
-面向已上线的英文小工具站和网页解谜合集，整理 **2026-11-19 已打开官方页（或官方帮助页）确认存在免费通道** 的提交渠道。核验时区为 America/New_York。
+面向已上线的小工具站和网页解谜合集，整理 **2026-11-20 已打开官方页（或官方帮助页）并补查 HTTP + 域名创建时间** 的外链渠道。核验时区为 America/New_York。
 
 适用站点：
 
-- [puzzlebento.com](https://puzzlebento.com/)：免费浏览器解谜／益智合集
+- [puzzlebento.com](https://puzzlebento.com/)：免费浏览器解谜／益智合集（含日语等语言版本）
 - [chartseat.com](https://chartseat.com/)：座位表工具
 - [onlinepollmaker.com](https://onlinepollmaker.com/)：在线投票工具
 - [invoiceneat.com](https://invoiceneat.com/)：发票生成器
 - [tiktomato.com](https://tiktomato.com/)
 
-本目录只放可直接去提交的免费清单和进度表。付费站、未能确认免费的站、以及 Reddit，都不进入提交表，以免重复踩坑。
+总库只放核实过的记录。付费站、未能确认免费的站、2024 年及之后注册的新域名、审核过严或死站，以及 Reddit，都不进入提交表。完整名录在 [site-pool.csv](site-pool.csv)，已排除项在 [excluded-log.md](excluded-log.md)。
+
+## 总库统计（去重后 219 站）
+
+| 状态 | 数量 |
+| --- | ---: |
+| 推荐-免费可用 | 58 |
+| 可用-有门槛 | 106 |
+| 排除-新域名/低流量 | 19 |
+| 排除-付费 | 17 |
+| 排除-审核过严 | 10 |
+| 排除-垃圾站/死站 | 9 |
+| **合计** | **219** |
+
+| 语区 | 数量 |
+| --- | ---: |
+| EN / US-Global | 101 |
+| EN / UK | 1 |
+| JA / 日本 | 42 |
+| ZH-TW / 台湾 | 22 |
+| ZH-HK / 香港 | 5 |
+| FR / 法语区 | 18 |
+| DE / 德语区 | 16 |
+| KO / 韩国 | 14 |
+
+可用合计 164 条（推荐 58 + 有门槛 106）；排除 55 条。本批未混入简体中文站，也未纳入 Reddit 作为可提交渠道。
+
+**补查原免费目录的域名年份后，有 7 个曾出现在可提交清单里的渠道被降级为「排除-新域名/低流量」：** Puzzle Hub（tappypotato.com，2026-08-28）、Foundplay（foundplay.io，2026-10-04）、IgnLab GameHub（ignlab.net，2024-08-22）、I Love Web Games（ilovewebgames.com，2026-10-19）、SlowDen（slowden.com，2026-06-15）、All Daily Puzzles（alldailypuzzles.com，2026-11-13）、Best Digital Launch（bestdigitallaunch.com，2026-09-21）。它们的提交页多数仍在且声称免费，但按规则暂不优先投放，详见 [excluded-log.md](excluded-log.md) 和 [free-directories.md](free-directories.md)。
 
 ## 文档导航
 
 | 文档 | 用途 |
 | --- | --- |
-| [free-directories.md](free-directories.md) | 纯免费渠道总表：游戏站、通用目录、内容／资料页、开源导航，含免费条件和已排除说明 |
-| [puzzlebento-competitors.md](puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及从它们反查到的免费可复用渠道 |
-| [submission-tracker.md](submission-tracker.md) | 五站点 × 免费渠道的勾选进度表 |
+| [site-pool.csv](site-pool.csv) | 去重后的完整总记录库（UTF-8 CSV），可用 GitHub 搜索或本地表格筛选 |
+| [excluded-log.md](excluded-log.md) | 已排除站点避坑表（新域名、付费、审核过严、死站） |
+| [free-directories.md](free-directories.md) | 仍保留的英语免费目录、内容页与开源导航（已同步新域名降级） |
+| [en-forums-social.md](en-forums-social.md) | 英语区论坛、社媒、博客与垂直社区（仅推荐 / 有门槛） |
+| [ja-tw-channels.md](ja-tw-channels.md) | 日语区 + 台湾／香港繁体渠道，突出 PuzzleBento 日语版 |
+| [fr-de-ko-channels.md](fr-de-ko-channels.md) | 法语、德语、韩语区渠道，突出海外无需实名即可注册的优先项 |
+| [puzzlebento-competitors.md](puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道（部分平台已因新域名降级） |
+| [submission-tracker.md](submission-tracker.md) | 五站点 × 高优渠道的勾选进度表 |
 
 历史参考（2026-09-04 社区榜单，**费用与链接属性当时未经目标站独立核验**，且含大量 AI 导航，不能当成本目录的提交清单）：
 
@@ -27,35 +59,44 @@
 
 ## 建议的冷启动顺序
 
-不要一天把所有渠道交完。同一套产品说明可以复用，但短描述按站点改写，锚文本用品牌名或自然短语，不要全部精确匹配关键词。
+不要一天把所有渠道交完。同一套产品说明可以复用，但短描述按站点改写，锚文本用品牌名或自然短语，不要全部精确匹配关键词。**先看域名年龄和状态标签，再动手。**
 
-**第 1 周：先交免费目录和资料页，每天 2–4 个。**
+**第 1 周：先交老域名免费目录和资料页，每天 2–4 个。**
 
-1. 准备素材：一句 tagline、80–150 词介绍、3–6 张截图、正方形 logo、产品域名邮箱。五个站各一份。
+1. 准备素材：一句 tagline、80–150 词介绍、3–6 张截图、正方形 logo、产品域名邮箱。五个站各一份。需要多语种投放时，另准备日语／繁体／法语／德语／韩语短介绍。
 2. GitHub Profile／README（若有仓库），以及 Crunchbase 公司资料（先搜索再创建；同一主体只需一个公司页）。
-3. 通用目录：SaaSHub 验证、AlternativeTo（挂到真实竞品的 Alternatives）、Launching Next、PeerPush 免费排队、Uneed 免费排队（接受约 50 天等待）、Startup Stash 免费申请、SideProjectors 展示页。
+3. 仍保留的通用目录（均为 2023 年以前注册）：SaaSHub 验证、AlternativeTo（挂到真实竞品的 Alternatives）、Launching Next、PeerPush 免费排队、Uneed 免费排队（接受约 50 天等待）、Startup Stash 免费申请、SideProjectors 展示页。
 4. Fazier：先读清免费档是否要徽章或回链，再提交。
-5. Best Digital Launch：免费档需在自己网站挂徽章并填写创始人资料。
-6. 注册 Product Hunt 和 Peerlist 个人账号，把产品页填完整，**不要订在同一天发布**。Peerlist 放在某个周一；Product Hunt 选能整天回评论的日子。
-7. **仅 PuzzleBento：** 先给 [Puzzle Hub](https://puzzlehub.tappypotato.com/en/contact.html) 发邮件；再向 Foundplay、IgnLab GameHub、I Love Web Games、SlowDen 各交 2–3 款最完整的游戏；可把 1–2 款上传 itch.io／Game Jolt。All Daily Puzzles 只在某款游戏真有每日轮换时再交。
+5. 注册 Product Hunt 和 Peerlist 个人账号，把产品页填完整，**不要订在同一天发布**。Peerlist 放在某个周一；Product Hunt 选能整天回评论的日子。
+6. 英语社媒保底：YouTube 频道简介、Bluesky、Mastodon（mastodon.social）、Tumblr、LinkedIn、X。
+7. **仅 PuzzleBento：** 优先在 itch.io、Game Jolt 托管或放可玩版本；HTML5 Game Devs Forum 的 Showcase 发试玩。不要再把 Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles 当作本周必交项（均为 2024+ 新域名，已降级）。
 
 **第 2 周：内容和场景，而不是再堆目录。**
 
 - Chartseat：Pinterest 婚礼桌位／教室排座图；可写一篇不用表格做婚礼座位表的说明。
 - Online Poll Maker、InvoiceNeat：Indie Hackers、Dev.to／Hashnode、LinkedIn 讲具体工作流（如何做一场免登录投票、如何开第一张发票）。
-- PuzzleBento：Show HN 只介绍一个可玩的点；可与 itch 页互相引。
+- PuzzleBento：Show HN 只介绍一个可玩的点；可与 itch 页互相引。法语区可去 Prise2Tete、Forum Enigmes 做相关分享。
 - 若第 1 周已把 Product Hunt／Peerlist 页面准备好，第 2 周再正式发布。不要在 HN 里叫人 upvote。
+
+**有余力时再做多语种（先用推荐渠道，发对应语言）：**
+
+- 日本：フリーゲーム夢現、PLiCy（游戏）；Qiita、Zenn、note、はてなブログ、ProtoPedia（内容）。
+- 台湾：iT邦幫忙、方格子 VOCUS、痞客邦 PIXNET、Matters、噗浪 Plurk。
+- 法语：OverBlog、CanalBlog、Piaille、Mastodon.fr。
+- 德语：MastodonDE；论坛类需德语讨论，见有门槛表。
+- 韩国：先走 Velog（GitHub／Google 即可）、Disquiet、GeekNews Show；不要先碰需要韩国手机实名的 Naver、Clien、Ppomppu。
 
 ## 避坑
 
 - 不要一天向大量目录灌同一锚文本、同一篇简介。
 - 先读规则再发。Show HN、Product Hunt、Peerlist 都禁止拉票或纯广告。
 - 「免费」常有隐形成本：排队、徽章、回链、域名邮箱验证、人工审核。不愿意在自己站点挂对方徽章，就不要走那个免费档。
-- 不要买假评论或假 upvote。
+- **2024 年及之后注册的域名不要当作优先外链渠道**，即使提交页写免费。完整名单见 [excluded-log.md](excluded-log.md)。
+- 不要买假评论或假 upvote。不要发 Reddit 带链帖（按要求排除）。
 - 这五个站不是 AI 产品，不必优先投 AI 工具导航。
 - PuzzleBento 不要包装成全新原创玩法；没有每日机制就不要投 daily game 目录。
-- itch.io／Game Jolt 是托管分发，和「外链回到 puzzlebento.com」不是一回事。若目标是推广官网，优先用 Foundplay、Puzzle Hub、GameHub 这类跳回原站的目录。
+- itch.io／Game Jolt 是托管分发，和「外链回到 puzzlebento.com」不是一回事。若目标是推广官网，优先用仍保留的跳回原站或资料页渠道，而不是已降级的新游戏目录。
 - 交完后在 [submission-tracker.md](submission-tracker.md) 打勾，并记下实际 listing URL。价格和规则会变，付款或挂徽章前再打开一次官方页。
 - 本仓库不自动向外提交或发帖；执行仍由站点所有者完成。
 
-公开搜索只能看到被索引的部分外链。若要对某个最像的竞品做深挖，可用该站的 Ahrefs 或 Semrush 反向链接 CSV，按「可提交、仍在线、非垃圾、非 Reddit、确认免费」再洗一轮。方法见 [puzzlebento-competitors.md](puzzlebento-competitors.md)。
+公开搜索只能看到被索引的部分外链。若要对某个最像的竞品做深挖，可用该站的 Ahrefs 或 Semrush 反向链接 CSV，按「可提交、仍在线、非垃圾、非 Reddit、确认免费、域名不是 2024+」再洗一轮。方法见 [puzzlebento-competitors.md](puzzlebento-competitors.md)。

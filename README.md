@@ -53,13 +53,13 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 ├── 04-validation/        实验索引、脚本、样本与复盘
 ├── projects/             已有产品、经营数据和口述记录
 ├── operations/           运营经验、推广与历史外链社区榜单
-├── backlinks/            2026-11-19 已核实免费外链渠道、竞品反查与提交进度
+├── backlinks/            2026-11-20 已核实多语种外链总库、排除避坑表与提交进度
 └── grow-seo-traffic/     SEO 专项原始数据，保留固定路径
 ```
 
 ## 文档索引
 
-按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）→ 已核实免费外链（11-19，当前可执行）。
+按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）→ 已核实多语种外链总库（11-20，当前可执行）。
 
 ### 1. SEO 工具需求（2026-11-05，历史快照，未经复核）
 
@@ -120,10 +120,15 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 
 | 文档 | 内容 |
 | --- | --- |
-| [backlinks/README.md](docs/backlinks/README.md) | 外链资源总目录、冷启动顺序与避坑。 |
-| [free-directories.md](docs/backlinks/free-directories.md) | 纯免费渠道总表（游戏站、通用目录、内容／资料页、开源导航）及已排除说明。 |
-| [puzzlebento-competitors.md](docs/backlinks/puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的免费可复用渠道。 |
-| [submission-tracker.md](docs/backlinks/submission-tracker.md) | 五个站点 × 免费渠道的勾选进度表。 |
+| [backlinks/README.md](docs/backlinks/README.md) | 多语种外链总库入口：统计、导航、冷启动顺序与避坑。 |
+| [site-pool.csv](docs/backlinks/site-pool.csv) | 去重后的完整总记录库（219 站，UTF-8 CSV）。 |
+| [excluded-log.md](docs/backlinks/excluded-log.md) | 已排除站点避坑表（新域名、付费、审核过严、死站）。 |
+| [free-directories.md](docs/backlinks/free-directories.md) | 仍保留的英语免费目录与内容页（已同步 2024+ 新域名降级）。 |
+| [en-forums-social.md](docs/backlinks/en-forums-social.md) | 英语区论坛、社媒、博客与垂直社区。 |
+| [ja-tw-channels.md](docs/backlinks/ja-tw-channels.md) | 日语区 + 台湾／香港繁体渠道。 |
+| [fr-de-ko-channels.md](docs/backlinks/fr-de-ko-channels.md) | 法语、德语、韩语区渠道。 |
+| [puzzlebento-competitors.md](docs/backlinks/puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道。 |
+| [submission-tracker.md](docs/backlinks/submission-tracker.md) | 五个站点 × 高优渠道的勾选进度表。 |
 
 ## 从哪里开始（docs/ 资料库）
 
@@ -135,7 +140,7 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 | 怎样判断能否低成本做 | [阶段规则](docs/00-methodology/workflow.md)、[可行性模板](docs/03-feasibility/README.md) |
 | 实际做过哪些实验 | [实验索引](docs/04-validation/INDEX.md) |
 | 已做过哪些产品和尝试 | [项目档案](docs/projects/portfolio.md) |
-| 已上线站去哪里提交免费外链 | [已核实免费外链目录](docs/backlinks/README.md) |
+| 已上线站去哪里提交免费外链 | [已核实多语种外链总库](docs/backlinks/README.md) |
 
 ## 方法与历史资料
 
@@ -145,7 +150,7 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 - [出版与 Bubble 七项筛选](docs/03-feasibility/reviews/narrow-workflow-opportunities-2026-09-10.md)。PDF/Bubble 深度维护已停止，正文保留历史判断。
 - [SEO 数据清单](docs/grow-seo-traffic/data-checklist.md)、[历史 AI 图片研究](docs/grow-seo-traffic/reports/2026-08-26-ai-image-product-opportunity.md)。房产方向历史建议不可直接当作当前立项。
 - [首个 100/1,000 美元经验](docs/operations/banbri-first-100-to-1000-dollars.md)、[出海运营经验](docs/operations/sophie-miaomiao-operator-to-overseas-products.md)。
-- 当前可执行的免费外链目录见 [docs/backlinks/](docs/backlinks/README.md)。历史社区榜单（费用与链接属性当时未经目标站独立核验）：[外链渠道整理](docs/operations/web-cafe-backlinks-sync-2026-09-04.md)、[601 条外链目录](docs/operations/web-cafe-backlinks-catalog-2026-09-04.md)。
+- 当前可执行的多语种外链总库见 [docs/backlinks/](docs/backlinks/README.md)（含去重总表、排除避坑表和分语区清单）。历史社区榜单（费用与链接属性当时未经目标站独立核验）：[外链渠道整理](docs/operations/web-cafe-backlinks-sync-2026-09-04.md)、[601 条外链目录](docs/operations/web-cafe-backlinks-catalog-2026-09-04.md)。
 
 ## 使用原则
 
