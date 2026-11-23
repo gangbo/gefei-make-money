@@ -172,6 +172,27 @@ Velog 为「推荐-免费可用」。Disquiet、GeekNews 为「可用-有门槛�
 
 Xing 为德语区职业资料页，Jugem 为日语博客，RocketPunch 为韩国产品/公司页。发帖请用对应语言。
 
+
+## 第 4 批高优补充（推荐-免费可用）
+
+只补少量立刻能用的新渠道。HTML5 分发网（Y8、GameDistribution 等）和大型论坛见有门槛表，不进入本表。
+
+| 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
+| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| HackMD | [hackmd.io](https://hackmd.io/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Glitch | [glitch.com](https://glitch.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| js13kGames | [js13kgames.com](https://js13kgames.com/) | [ ] | - | - | - | - |
+| IndieDevs.ch | [indiedevs.ch](https://www.indiedevs.ch/) | [ ] | - | - | - | - |
+| Eventbrite | [eventbrite.com](https://www.eventbrite.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Meetup | [meetup.com](https://www.meetup.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Dribbble | [dribbble.com](https://dribbble.com/) | - | [ ] | - | [ ] | [ ] |
+| Canva | [canva.com](https://www.canva.com/) | [ ] | [ ] | - | - | [ ] |
+| Lichess | [lichess.org](https://lichess.org/) | [ ] | - | - | - | - |
+| CakeResume | [cakeresume.com](https://www.cakeresume.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| sizu.me | [sizu.me](https://sizu.me/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+sizu.me 请用日语；CakeResume 可用中英。Dribbble／Canva 更适合有视觉素材的 Chartseat 或 TikTomato。
+
 ## 提交时请自行补记（可选）
 
 完成某格后，建议在自己的笔记里记下：提交日期、是否挂了徽章或回链、审核状态、公开 listing URL。本表只做勾选，避免把未核实的效果数字写进仓库。

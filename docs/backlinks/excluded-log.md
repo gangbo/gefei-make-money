@@ -10,9 +10,9 @@
 - `排除-审核过严`：发链极易删帖封号，或政策明确禁止自我推广 / 海外几乎无法完成实名。
 - `排除-垃圾站/死站`：404、停服、社区关停、证书失败，或已改行不再是外链渠道。
 
-本表合计 **58** 条。第 3 批新增：Underskog（2025-04-15 新域名）、Xuite 隨意窩（2023 年已关站）、Bruiloftsite Trouwforum（论坛停服）。
+本表合计 **65** 条。第 4 批新增排除：OpenAlternative（2024-02-29 新域名），以及 gamecreatorsguild.jp、launched.io、Ylilauta、Hochzeitsforum.ch、Startpagina.be、HotVsNot 等失效或低质站。
 
-## 排除-新域名/低流量（20）
+## 排除-新域名/低流量（21）
 
 | 名称 | 域名 | 域名创建 | HTTP | 语区 | 核实说明 |
 | --- | --- | ---: | ---: | --- | --- |
@@ -22,6 +22,7 @@
 | Foundplay | `foundplay.io` | 2026-10-04 | 200 | EN / US-Global | 本次补查域名创建时间为 2026-10-04。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：官方 Free to list；按单款游戏提交，Play 打开原地址。 |
 | I Love Web Games | `ilovewebgames.com` | 2026-10-19 | 200 | EN / US-Global | 本次补查域名创建时间为 2026-10-19。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：官方免费、无分成；游戏页给开发者外链。 |
 | IgnLab GameHub | `gamehub.ignlab.net` | 2024-08-22 | 200 | EN / US-Global | 本次补查域名创建时间为 2024-08-22。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：官方写明免费，无需账号、无分成、无 SDK。Play 送回原站。 |
+| OpenAlternative | `openalternative.co` | 2024-02-29 | 200 | EN / US-Global | whois.com 显示注册于 2024-02-29，虽首页 HTTP 200，按规则标排除-新域名/低流量，暂不优先投放。 |
 | PixelPicked | `pixelpicked.com` | 2026-05-08 | 200 | EN / US-Global | 本次补查域名创建时间为 2026-05-08。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：有网页实证，但提交入口面向 Android/iOS，不适合纯网页合集。 |
 | Puzzle Hub | `puzzlehub.tappypotato.com` | 2026-08-28 | 200 | EN / US-Global | 本次补查域名创建时间为 2026-08-28。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：逻辑谜题垂直目录，邮件推荐，未见收费。 |
 | SimpleLister | `simplelister.com` | 2024-10-07 | 200 | EN / US-Global | 本次补查域名创建时间为 2024-10-07。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：首页可打开，但 /submit 曾返回 404。 |
@@ -74,13 +75,16 @@
 | LIHKG 連登 | `lihkg.com` | 2016-11-15 | 200 | ZH-HK / 香港 | RDAP 注册于 2016-11-15，HTTP 200。香港主流论坛对广告和硬广非常反感，发链易被攻击或删除，性质接近 Reddit，不建议作为外链渠道。 |
 | DCInside | `dcinside.com` | 2000-04-17 | 200 | KO / 韩国 | 首页 200，2000 年老站。部分图库允许非会员发帖，但广告和外链极易被删；正式账号、画廊管理通常需韩国本人认证。不适合作为稳定留链渠道。 |
 
-## 排除-垃圾站/死站（11）
+## 排除-垃圾站/死站（17）
 
 | 名称 | 域名 | 域名创建 | HTTP | 语区 | 核实说明 |
 | --- | --- | ---: | ---: | --- | --- |
 | Folkd | `folkd.com` | 2005-11-24 | 403 (Cloudflare) | EN / US-Global | 域名虽是 2005 年，但现官网已变成约会站（标题与文案均为 dating），不再提供社会化书签。旧清单里的 Folkd 书签渠道作废，不要再提交。 |
+| Hotvsnot | `hotvsnot.com` | 2004-03-24 | 500 | EN / US-Global | RDAP 注册于 2004-03-24。根域 HTTP 500，www 证书不匹配；忽略证书后可见陈旧自动目录页。质量差、探测不稳定，按垃圾站/死站排除，不建议投放。 |
+| Launched | `launched.io` | 2014-09-14 | 404 | EN / US-Global | whois.com 显示注册于 2014-09-14。证书不匹配，忽略证书后落到 Microsoft Azure Web App 404，目录已失效，按死站排除。 |
 | Slant | `slant.co` | 2010-07-24 | 526 | EN / US-Global | 本次补查域名创建时间为 2010-07-24。注册日期来自 CentralNic WHOIS（whois.com 原文 Creation Date 2010-07-24）。本次首页 HTTP 526（SSL 证书无效），维持排除。 上次请求返回 526，暂视为不可用。 |
 | The Knot Forums | `theknot.com` | 1996-06-25 | 403 (Cloudflare) | EN / US-Global | 官方告别帖宣布论坛自 2026-11-03 只读，并将于 2026-12-01 下线。域名虽老，但作为发帖渠道已经关闭，不要再投入时间。 |
+| ゲームクリエイターズギルド | `gamecreatorsguild.jp` | 未知 | error | JA / 日本 | JPRS WHOIS 返回「該当するデータがありません」，本机 HTTPS 无法打开。无法确认该域名仍注册或站点仍在，按死站排除。 |
 | 教えて!goo | `goo.ne.jp` | 2004-06-15 | 未知 | JA / 日本 | JPRS 显示 goo.ne.jp 注册于 2004-06-15。本机 HTTPS 握手失败，HTTP 访问返回 500。公开检索可见 goo 帮助中心 2025-09-17 更新的「教えて!goo 服务终了」公告，已不能再发帖，无需再试。 |
 | Xuite | `xuite.net` | 2004-12-13 | error | ZH-TW / 台湾 | RDAP 显示 xuite.net 注册于 2004-12-13，但本次 HTTPS 探测 SSL 失败。公开报道写明 Yahoo 奇摩「Xuite 隨意窩」已于 2023-08-31 终止服务并删除资料，不再作为可提交渠道。 |
 | 伊莉討論區 | `eyny.com` | 2003-08-29 | 403 | ZH-TW / 台湾 | RDAP 注册于 2003-08-29。本机 HTTP 403，公开检索显示论坛仍在运转。长期以资源区和广告、付费会员争议闻名，页面质量低，外链价值差且有垃圾站风险，不建议投放。部分功能还需付费会员。 |
@@ -88,12 +92,14 @@
 | 卡提諾論壇（ck101.tw） | `ck101.tw` | 2022-01-05 | 未知 | ZH-TW / 台湾 | TWNIC RDAP 注册于 2022-01-05。本机 TLS 失败，未能确认该镜像/新域是否稳定可用。即便可访问，也与 ck101.com 同属质量较差的论坛体系，不建议投放。 |
 | Gamekult | `gamekult.com` | 2000-10-05 | 200 | FR / 法语区 | 媒体首页 200，域名 2000 年仍在运营，但社区页 /communaute.html 返回 410 Gone，论坛入口 404。已无普通用户发帖或提交游戏的渠道，不要再投入。 |
 | Freewarepage | `freewarepage.de` | 未知 | 500 | DE / 德语区 | 登记页与首页 HTTP 均返回 500，本次无法打开。DENIC 无注册年。在恢复访问前不要再提交。 |
+| Hochzeitsforum.ch | `hochzeitsforum.ch` | 未知 | 445 | DE / 瑞士 | SWITCH/RDAP 未返回创建日期，标未知。论坛入口持续返回 HTTP 445 且无可用页面，无法确认社区仍开放，按死站排除。 |
 | Bruiloftsite Trouwforum | `bruiloftsite.nl` | 2004-04-29 | 500 | NL / 荷兰语区 | RDAP 显示 bruiloftsite.nl 注册于 2004-04-29。原论坛入口 http://www.bruiloftsite.nl/forum/ 返回 HTTP 500；https 首页证书不匹配，忽略证书后页面正文仅有 “is functioning normally”，已不是可用的婚礼论坛，按死站排除。 |
+| Startpagina.be | `startpagina.be` | 未知 | error | NL / 比利时 | 比利时 Startpagina。DNS/RDAP 未返回创建日期；本机 HTTPS 多次 SSL 失败（忽略证书仍失败），无法打开页面，按死站排除，恢复访问后再复查。 |
+| Ylilauta | `ylilauta.org` | 2011-12-12 | 404 | FI / 芬兰 | RDAP 注册于 2011-12-12，但 https://ylilauta.org/ 与 www 均返回 HTTP 404（标题 Error!），按死站排除。 |
 
 ## 使用说明
 
 - 不要把本表里的站重新当作「已确认可交」的优先渠道，除非重新打开官方页，并且（若是新域名）注册时间已不再落在过滤规则内。
 - Reddit 按站点所有者要求永久不列入提交表。
-- Poki、CrazyGames 等分发平台即便域名很老，也不是「外链回官网」的目录，仍留在排除表。
-- 从原免费清单降级的 2024+ 目录（Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles、Best Digital Launch 等）详见上一节「排除-新域名/低流量」。
-- 第 3 批 Underskog 虽然沿用老社区名，但当前 underskog.no 的 RDAP 注册日是 2025-04-15，同样不要优先投放。
+- Poki、CrazyGames、Y8、GameDistribution 等分发平台即便域名很老，也常常是托管/SDK，而不是「外链回官网」的目录；未排除的已放在有门槛表并注明。
+- 2024+ 目录与 Underskog、OpenAlternative 等新域名详见上一节。

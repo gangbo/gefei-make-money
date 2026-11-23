@@ -12,44 +12,48 @@
 
 总库只放核实过的记录。付费站、未能确认免费的站、2024 年及之后注册的新域名、审核过严或死站，以及 Reddit，都不进入提交表。完整名录在 [site-pool.csv](site-pool.csv)，已排除项在 [excluded-log.md](excluded-log.md)。
 
-## 总库统计（去重后 360 站）
+## 总库统计（去重后 533 站）
 
 | 状态 | 数量 |
 | --- | ---: |
-| 推荐-免费可用 | 87 |
-| 可用-有门槛 | 215 |
-| 排除-新域名/低流量 | 20 |
+| 推荐-免费可用 | 115 |
+| 可用-有门槛 | 353 |
+| 排除-新域名/低流量 | 21 |
 | 排除-付费 | 17 |
 | 排除-审核过严 | 10 |
-| 排除-垃圾站/死站 | 11 |
-| **合计** | **360** |
+| 排除-垃圾站/死站 | 17 |
+| **合计** | **533** |
 
 | 语区 | 数量 |
 | --- | ---: |
-| EN / US-Global | 141 |
-| EN / UK | 3 |
-| EN / AU | 7 |
-| EN / NZ | 2 |
-| EN / IE | 1 |
-| EN / SG | 1 |
-| JA / 日本 | 56 |
-| ZH-TW / 台湾 | 25 |
-| ZH-HK / 香港 | 5 |
+| EN / US-Global | 220 |
+| EN / UK | 10 |
+| EN / AU | 10 |
+| EN / NZ | 3 |
+| EN / IE | 5 |
+| EN / SG | 4 |
+| JA / 日本 | 69 |
+| ZH-TW / 台湾 | 34 |
+| ZH-HK / 香港 | 11 |
 | FR / 法语区 | 18 |
-| DE / 德语区 | 18 |
-| ES / 西班牙语区 | 16 |
+| DE / 德语区 | 21 |
+| DE / 奥地利 | 5 |
+| DE / 瑞士 | 7 |
+| ES / 西班牙语区 | 17 |
 | IT / 意大利语区 | 14 |
 | NL / 荷兰语区 | 10 |
+| NL / 比利时 | 5 |
 | SV / 瑞典 | 7 |
-| DA / 丹麦 | 1 |
-| NO / 挪威 | 5 |
-| FI / 芬兰 | 2 |
-| PT / 葡萄牙 | 2 |
-| KO / 韩国 | 26 |
+| DA / 丹麦 | 7 |
+| NO / 挪威 | 6 |
+| FI / 芬兰 | 7 |
+| PT / 葡萄牙 | 6 |
+| KO / 韩国 | 37 |
 
-可用合计 302 条（推荐 87 + 有门槛 215）；排除 58 条。本库未混入简体中文站，也未纳入 Reddit 作为可提交渠道。第 3 批在 219 站基础上新增 141 站，重点补西/意/荷/北欧、澳新爱新以及更多英语垂直社区与日韩补充。
 
-**补查原免费目录的域名年份后，有 7 个曾出现在可提交清单里的渠道被降级为「排除-新域名/低流量」：** Puzzle Hub（tappypotato.com，2026-08-28）、Foundplay（foundplay.io，2026-10-04）、IgnLab GameHub（ignlab.net，2024-08-22）、I Love Web Games（ilovewebgames.com，2026-10-19）、SlowDen（slowden.com，2026-06-15）、All Daily Puzzles（alldailypuzzles.com，2026-11-13）、Best Digital Launch（bestdigitallaunch.com，2026-09-21）。它们的提交页多数仍在且声称免费，但按规则暂不优先投放，详见 [excluded-log.md](excluded-log.md) 和 [free-directories.md](free-directories.md)。第 3 批又将 Underskog（underskog.no，2025-04-15）按同一规则排除。
+可用合计 468 条（推荐 115 + 有门槛 353）；排除 65 条。本库未混入简体中文站，也未纳入 Reddit 作为可提交渠道。第 4 批在 360 站基础上再增 173 站，重点补葡/丹/芬/比/奥/瑞、更多港澳台韩，以及英语解谜/桌游/教师/婚礼/小企业/问卷垂直社区和 HTML5、工具目录。
+
+**补查原免费目录的域名年份后，有 7 个曾出现在可提交清单里的渠道被降级为「排除-新域名/低流量」：** Puzzle Hub（tappypotato.com，2026-08-28）、Foundplay（foundplay.io，2026-10-04）、IgnLab GameHub（ignlab.net，2024-08-22）、I Love Web Games（ilovewebgames.com，2026-10-19）、SlowDen（slowden.com，2026-06-15）、All Daily Puzzles（alldailypuzzles.com，2026-11-13）、Best Digital Launch（bestdigitallaunch.com，2026-09-21）。它们的提交页多数仍在且声称免费，但按规则暂不优先投放，详见 [excluded-log.md](excluded-log.md) 和 [free-directories.md](free-directories.md)。第 3 批又将 Underskog（underskog.no，2025-04-15）按同一规则排除。第 4 批将 OpenAlternative（openalternative.co，2024-02-29）按同一规则排除。
 
 ## 文档导航
 
@@ -61,7 +65,7 @@
 | [en-forums-social.md](en-forums-social.md) | 英语区论坛、社媒、博客与垂直社区（含澳新爱新，仅推荐 / 有门槛） |
 | [ja-tw-channels.md](ja-tw-channels.md) | 日语区 + 台湾／香港繁体渠道，突出 PuzzleBento 日语版 |
 | [fr-de-ko-channels.md](fr-de-ko-channels.md) | 法语、德语、韩语区渠道，突出海外无需实名即可注册的优先项 |
-| [es-it-nl-nordic-channels.md](es-it-nl-nordic-channels.md) | 西语、意大利、荷兰、北欧与葡萄牙语区渠道（第 3 批新语区） |
+| [es-it-nl-nordic-channels.md](es-it-nl-nordic-channels.md) | 西语、意大利、荷兰/比利时、北欧、葡语与奥地利/瑞士渠道 |
 | [puzzlebento-competitors.md](puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道（部分平台已因新域名降级） |
 | [submission-tracker.md](submission-tracker.md) | 五站点 × 高优渠道的勾选进度表 |
 
@@ -82,7 +86,7 @@
 4. Fazier：先读清免费档是否要徽章或回链，再提交。
 5. 注册 Product Hunt 和 Peerlist 个人账号，把产品页填完整，**不要订在同一天发布**。Peerlist 放在某个周一；Product Hunt 选能整天回评论的日子。
 6. 英语社媒保底：YouTube 频道简介、Bluesky、Mastodon（mastodon.social）、Tumblr、LinkedIn、X；可补 Facebook 主页、Neocities／Dreamwidth 介绍页。
-7. **仅 PuzzleBento：** 优先在 itch.io、Game Jolt 托管或放可玩版本；HTML5 Game Devs Forum 的 Showcase 发试玩。第 3 批可再交 indiexpo、Lexaloffle、Ludum Dare、CodePen／OpenProcessing。不要再把 Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles 当作本周必交项（均为 2024+ 新域名，已降级）。
+7. **仅 PuzzleBento：** 优先在 itch.io、Game Jolt 托管或放可玩版本；HTML5 Game Devs Forum 的 Showcase 发试玩。第 3 批可再交 indiexpo、Lexaloffle、Ludum Dare、CodePen／OpenProcessing。 第 4 批可再交 HackMD、Glitch、js13kGames、Eventbrite／Meetup、Dribbble／Canva、Lichess 资料页、CakeResume、sizu.me／Scrapbox。不要再把 Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles 当作本周必交项（均为 2024+ 新域名，已降级）。
 
 **第 2 周：内容和场景，而不是再堆目录。**
 
@@ -99,7 +103,8 @@
 - 德语：MastodonDE、Xing；论坛类需德语讨论，见有门槛表。
 - 韩语：先走 Velog（GitHub／Google 即可）、Disquiet、GeekNews Show、RocketPunch；不要先碰需要韩国手机实名的 Naver、Clien、Ppomppu、TheQoo、FMKorea。
 - 意大利语：indiexpo（仅 PuzzleBento）、Altervista、Libero Blog、Mastodon.uno。
-- 瑞典／葡萄牙：Blogg.se、SAPO。西语、荷兰、北欧大型论坛先读规则，默认当有门槛渠道。
+- 瑞典／葡萄牙：Blogg.se、SAPO。瑞士可试 IndieDevs.ch（独立游戏）。西语、荷兰、比/奥/北欧大型论坛先读规则，默认当有门槛渠道。
+- 台湾／香港补充：CakeResume 资料页；婚礼向可看非常婚禮（证书异常，投放前再打开）；不要再走已关站的 Xuite。
 
 ## 避坑
 
