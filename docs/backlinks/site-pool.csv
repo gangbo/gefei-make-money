@@ -1,39 +1,60 @@
 name,domain,url,region_lang,category,domain_created,http_status,cost,link_placement,fit_sites,status,reason
 About.me,about.me,https://about.me/,EN / US-Global,书签与资料页,2008-04-29,200,免费,个人资料页,All,推荐-免费可用,首页 200。Identity Digital RDAP 注册于 2008-04-29。官方定价页明确有 $0 免费主页 about.me/yourname，可放链接；自定义域名和进阶功能才需付费。
+Are.na,are.na,https://www.are.na/,EN / US-Global,书签与资料页,未知,200,免费,书签页,All,推荐-免费可用,首页 HTTP 200。.na RDAP 对普通查询返回 Access restricted，WHOIS 也未给出创建日期，故标未知，未编造年份。公开收藏/书签工具，有免费档可做公开频道并放链接。
 Bear Blog,bearblog.dev,https://bearblog.dev/,EN / US-Global,博客与内容,2020-05-22,200,免费,博客正文,All,推荐-免费可用,首页 200。极简博客托管，可免费开博并在文章中放产品链接；自定义域名等可能另计，但不影响先写内容。
+Behance,behance.net,https://www.behance.net/,EN / US-Global,书签与资料页,2005-11-06,403,免费,作品展示板块,"Chartseat, InvoiceNeat",推荐-免费可用,脚本遇到 HTTP 403（防护），RDAP 注册于 2005-11-06。Adobe Behance 设计作品集仍然可免费创建，适合座位表等视觉展示并链回官网。
 Blogger,blogger.com,https://www.blogger.com/,EN / US-Global,博客与内容,1999-06-22,200,免费,博客正文,All,推荐-免费可用,首页 200，1999 年老域名。Google 免费博客，可用 Google 账号立即开博并在文章中放五站链接。
 Bluesky,bsky.app,https://bsky.app/,EN / US-Global,社交媒体,2022-09-27,200,免费,帖子正文 / 个人资料页,All,推荐-免费可用,RDAP 显示 2022 年注册；首页 200。官方帮助已写明公开注册、无需邀请码，资料页和帖子均可放网站链接，适合五站冷启动曝光。
 Buy Me a Coffee,buymeacoffee.com,https://www.buymeacoffee.com/,EN / US-Global,书签与资料页,2015-02-06,200,免费,作品展示板块 / 个人资料页,All,推荐-免费可用,首页 200，2015 年域名。可免费开通创作者主页并放置网站/作品链接，作为资料页型足迹，与 Ko-fi 类似。
 Carrd,carrd.co,https://carrd.co/,EN / US-Global,书签与资料页,2015-04-30,200,免费,个人资料页,All,推荐-免费可用,"首页 200，标题写明 simple, free one-page sites。rdap.org 对 .co 无记录，回退 CentralNic WHOIS Creation Date 2015-04-30。适合做一页个人/产品介绍并外链五站。"
+CodePen,codepen.io,https://codepen.io/,EN / US-Global,游戏社区,2012-02-26,403 (Cloudflare),免费,作品展示板块,"PuzzleBento, Chartseat, OnlinePollMaker",推荐-免费可用,脚本遇到 HTTP 403（防护），whois.com 显示注册于 2012-02-26。前端作品展示平台仍然在线，免费档可放可玩 demo 并链回官网，适合 PuzzleBento、Chartseat、OnlinePollMaker 做演示。
 DEV Community,dev.to,https://dev.to/new,EN / US-Global,博客与内容,2016-04-05,200,免费,文章正文 / 个人资料页,All,推荐-免费可用,本次补查域名创建时间为 2016-04-05。免费发文，适合技术实现或使用教程。
+DeviantArt,deviantart.com,https://www.deviantart.com/,EN / US-Global,社交媒体,2000-04-25,200,免费,作品展示板块 / 个人资料页,"PuzzleBento, Chartseat",推荐-免费可用,首页 HTTP 200，RDAP 注册于 2000-04-25。作品社区，可免费开主页，资料页和相关作品说明可留官网链接，适合有视觉素材的 PuzzleBento 或 Chartseat。
+Dreamwidth,dreamwidth.org,https://www.dreamwidth.org/,EN / US-Global,博客与内容,2008-03-29,200,免费,博客正文,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2008-03-29。由 LiveJournal 分支而来的免费博客社区，开博后即可在文章中放产品链接。
+Facebook,facebook.com,https://www.facebook.com/,EN / US-Global,社交媒体,1997-03-29,200,免费,主页简介,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 1997-03-29。可免费创建主页，简介可放网站，适合五站各做一页官方主页。不要买假赞或群发广告。
+Flickr,flickr.com,https://www.flickr.com/,EN / US-Global,社交媒体,2003-11-22,200,免费,相册说明 / 个人资料页,"PuzzleBento, Chartseat",推荐-免费可用,首页 HTTP 200，RDAP 注册于 2003-11-22。免费档可上传截图/作品图，并在说明或资料页放链接。
 Flipboard,flipboard.com,https://flipboard.com/,EN / US-Global,书签与资料页,2000-03-06,200,免费,公开 Magazine / 书签页,All,推荐-免费可用,首页 200，域名为 2000 年。可把公开文章或站点收进自己的 Magazine；这是自建策展页而非编辑推荐，适合作为补充足迹。
 Game Jolt,gamejolt.com,https://gamejolt.com/dashboard/games/add,EN / US-Global,游戏社区,2003-06-12,200,免费,作品展示板块 / 个人资料页,PuzzleBento,推荐-免费可用,本次补查域名创建时间为 2003-06-12。创建账号和上传为免费社区用法。
 GitHub,github.com,https://github.com/,EN / US-Global,书签与资料页,2007-10-09,200,免费,个人资料页 / README,All,推荐-免费可用,本次补查域名创建时间为 2007-10-09。免费公开仓库和 Profile，README 放 Demo 链接。
+GitLab,gitlab.com,https://gitlab.com/,EN / US-Global,书签与资料页,2004-01-15,200,免费,个人资料页 / README,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2004-01-15。免费公开仓库和 Profile，README 可放 Demo 链接，用法与 GitHub 资料页类似。
+Gumroad,gumroad.com,https://gumroad.com/,EN / US-Global,书签与资料页,2009-07-31,200,免费,作品展示板块 / 个人资料页,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2009-07-31。可免费开店铺或主页放产品链接，作为资料页型足迹；交易手续费与本次外链核验无关，未记录价格。
 Hashnode,hashnode.com,https://hashnode.com/onboard,EN / US-Global,博客与内容,2015-04-02,200,免费,博客正文,All,推荐-免费可用,本次补查域名创建时间为 2015-04-02。免费写博客。
 HTML5 Game Devs Forum,html5gamedevs.com,https://www.html5gamedevs.com/,EN / US-Global,游戏社区,2011-11-14,200,免费,作品展示板块 / 帖子正文,PuzzleBento,推荐-免费可用,首页 200，2011 年域名。Game Showcase 等板块在核验当日仍有数小时内的新帖（含浏览器游戏展示），适合 PuzzleBento 发试玩/展示；付费横幅是另售，普通发帖免费。勿发无关工具站。
 Indie Hackers,indiehackers.com,https://www.indiehackers.com/products,EN / US-Global,论坛,2015-04-02,200,免费,帖子正文 / 产品页,All,推荐-免费可用,本次补查域名创建时间为 2015-04-02。未见必须付费才能发产品页或帖子的公开条款。
+Issuu,issuu.com,https://issuu.com/,EN / US-Global,博客与内容,2007-04-19,200,免费,作品展示板块,"Chartseat, InvoiceNeat, PuzzleBento",推荐-免费可用,首页 HTTP 200，RDAP 注册于 2007-04-19。可上传杂志/PDF 介绍并留链；部分进阶功能可能付费，免费档已可做公开文档页。
 itch.io,itch.io,https://itch.io/docs/creators/html5,EN / US-Global,游戏社区,2011-10-27,200,免费,作品展示板块 / 个人资料页,PuzzleBento,推荐-免费可用,本次补查域名创建时间为 2011-10-27。上传和发布免费；以托管试玩为主，资料页可填网站。
 Ko-fi,ko-fi.com,https://ko-fi.com/,EN / US-Global,书签与资料页,2011-05-15,200,免费,作品展示板块 / 个人资料页,All,推荐-免费可用,首页 200。官方帮助写明加入免费、无月费，页面可展示作品并放链接；适合给五站各做一页创作者主页。
 Launching Next,launchingnext.com,https://www.launchingnext.com/submit/,EN / US-Global,目录站,2012-11-04,200,免费,目录条目,All,推荐-免费可用,本次补查域名创建时间为 2012-11-04。官方表单写明提交免费；另有可选 $99 加快。
+Lexaloffle,lexaloffle.com,https://www.lexaloffle.com/,EN / US-Global,游戏社区,2002-09-04,200,免费,作品展示板块,PuzzleBento,推荐-免费可用,https://www.lexaloffle.com/ 实测 HTTP 200（原 bbs.php 路径本次 404，已改用首页/BBS 入口）。RDAP 注册于 2002-09-04。PICO-8/Voxatron 社区论坛可免费发作品和讨论，适合小型解谜/创意游戏，资料或作品说明可放官网。
 LinkedIn,linkedin.com,https://www.linkedin.com/,EN / US-Global,社交媒体,2002-11-02,200,免费,帖子正文 / 公司页,All,推荐-免费可用,本次补查域名创建时间为 2002-11-02。免费发帖和公司页。
 Linktree,linktr.ee,https://linktr.ee/,EN / US-Global,书签与资料页,2016-03-08,200,免费,个人资料页,All,推荐-免费可用,首页 200。rdap.org 对 .ee 无记录，回退爱沙尼亚注册局 WHOIS（whois.com 原文）：registered 2016-03-08。有免费档链接聚合页，编辑权重有限，但可立刻挂上五站地址。
+LiveJournal,livejournal.com,https://www.livejournal.com/,EN / US-Global,博客与内容,1999-04-15,error,免费,博客正文,All,推荐-免费可用,RDAP 注册于 1999-04-15。本次从本机访问出现 SSL 握手超时，HTTP 回退也不稳定，故 http_status 记为 error，但不据此标死站（老牌博客服务仍在公开运营）。可免费开博并在正文留链，投放前请再打开一次首页确认。
+Ludum Dare,ldjam.com,https://ldjam.com/,EN / US-Global,游戏社区,2014-08-23,200,免费,作品展示板块,PuzzleBento,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2014-08-23。Ludum Dare 官方 jam 平台，可在赛事期间免费提交游戏并放链接；非赛期也可维护开发者页。主要适合 PuzzleBento。
 Mastodon (mastodon.social),mastodon.social,https://mastodon.social/auth/sign_up,EN / US-Global,社交媒体,2016-03-08,200,免费,帖子正文 / 个人资料页,All,推荐-免费可用,注册页实测 200，域名为 2016 年老站。旗舰实例可能抽审新号，通过后资料页和嘟文可放链接；不要刷纯广告。
 Mataroa,mataroa.blog,https://mataroa.blog/,EN / US-Global,博客与内容,2020-05-30,200,免费,博客正文,All,推荐-免费可用,首页 200。官方写明 Free 含大部分功能（无自定义域名、不能邮件发帖），Premium 为 $9/年。可立即免费开博写产品介绍。
 Medium,medium.com,https://medium.com/,EN / US-Global,博客与内容,1998-05-27,403 (Cloudflare),免费,文章正文,All,推荐-免费可用,本次补查域名创建时间为 1998-05-27。发文可免费注册。
 Mix,mix.com,https://mix.com/,EN / US-Global,书签与资料页,1991-11-13,200,免费,书签页,All,推荐-免费可用,首页 200。官方博文（标明 2026-08-20 审阅）写明浏览和免费账号收藏/整理集合均免费；首页另有 Unlock 去广告文案，发链用免费收藏即可，不必付费。
+Neocities,neocities.org,https://neocities.org/,EN / US-Global,博客与内容,2013-05-24,200,免费,个人站点/主页,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2013-05-24。免费静态站点托管，可立刻做介绍页并外链五站。这是自建页而非编辑收录。
+OpenProcessing,openprocessing.org,https://openprocessing.org/,EN / US-Global,游戏社区,2008-04-24,200,免费,作品展示板块,PuzzleBento,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2008-04-24。创意编程/交互作品展示，可免费发布可玩 sketch 并链回官网，适合把 PuzzleBento 的解谜做成演示。
 Pearltrees,pearltrees.com,https://www.pearltrees.com/,EN / US-Global,书签与资料页,2008-07-24,200,免费,书签页,All,推荐-免费可用,首页 200，2008 年域名。服务条款表明可免费注册，付费档可选；公开收藏树能放站点链接，适合作为书签足迹，不要指望高编辑权重。
 Pinterest,pinterest.com,https://www.pinterest.com/,EN / US-Global,社交媒体,2009-11-26,200,免费,图文/Pin,"PuzzleBento, Chartseat",推荐-免费可用,本次补查域名创建时间为 2009-11-26。免费发图，适合座位图和解谜截图，Pin 链到落地页。
 Product Hunt,producthunt.com,https://www.producthunt.com/posts/new,EN / US-Global,目录站,2003-03-04,403 (Cloudflare),免费,产品发布页,All,推荐-免费可用,本次补查域名创建时间为 2003-03-04。官方 FAQ：提交发布免费，须用已验证个人账号，禁止买赞。
+Raindrop.io,raindrop.io,https://raindrop.io/,EN / US-Global,书签与资料页,2013-08-20,200,免费,书签页,All,推荐-免费可用,首页 HTTP 200，whois.com 显示注册于 2013-08-20。书签工具，免费档可做公开收藏并分享链接，作为资料页型足迹。
 SaaSHub,saashub.com,https://www.saashub.com/submit,EN / US-Global,目录站,2009-11-25,200,免费,目录条目,All,推荐-免费可用,本次补查域名创建时间为 2009-11-25。提交页写明 free marketing tool，建议用产品域名邮箱验证。
 SideProjectors,sideprojectors.com,https://www.sideprojectors.com/submit/type,EN / US-Global,目录站,2012-11-14,200,免费,作品展示板块,All,推荐-免费可用,本次补查域名创建时间为 2012-11-14。FAQ：Basic project submissions 免费。
+Speaker Deck,speakerdeck.com,https://speakerdeck.com/,EN / US-Global,博客与内容,2010-05-12,200,免费,作品展示板块,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2010-05-12。可免费上传演示文稿并在页面留链，适合做产品介绍幻灯片。
 Substack,substack.com,https://substack.com/,EN / US-Global,博客与内容,2010-04-27,200,免费,文章正文,All,推荐-免费可用,本次补查域名创建时间为 2010-04-27。免费开通通讯。
 Tumblr,tumblr.com,https://www.tumblr.com/register,EN / US-Global,社交媒体,2006-06-08,200,免费,博客正文 / 个人资料页,All,推荐-免费可用,注册页 200，域名为 2006 年。官方支持邮箱或 Google/Apple 免费开博，适合图文介绍小工具或解谜合集并放官网链接。
+Twitch,twitch.tv,https://www.twitch.tv/,EN / US-Global,社交媒体,2009-06-08,200,免费,频道简介 / 面板,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2009-06-08。可免费开频道，简介和面板可放链接，适合偶尔直播解谜或产品演示。
+Vimeo,vimeo.com,https://vimeo.com/,EN / US-Global,社交媒体,2004-12-15,200,免费,视频说明 / 个人资料页,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2004-12-15。免费档可上传演示视频并在简介放官网。
 Wakelet,wakelet.com,https://wakelet.com/site/pricing,EN / US-Global,书签与资料页,2010-12-20,200,免费,书签页 / 公开收藏,All,推荐-免费可用,定价页 200。官方 Starter 档免费：最多创建并发布 3 个收藏、250 条内容，足够放下五站介绍；教育场景常用，课堂座位表类内容更贴。
 WordPress.com,wordpress.com,https://wordpress.com/start,EN / US-Global,博客与内容,2000-03-03,200,免费,博客正文,All,推荐-免费可用,开通页 200，2000 年域名。有免费档博客可写教程/产品笔记并外链；自定义域名和去广告需付费，免费档已够用。
 X,x.com,https://x.com/,EN / US-Global,社交媒体,1993-04-02,200,免费,帖子正文 / 个人资料页,All,推荐-免费可用,本次补查域名创建时间为 1993-04-02。发帖免费，适合发布日分发，不当目录站。
 YouTube,youtube.com,https://www.youtube.com/,EN / US-Global,社交媒体,2005-02-15,200,免费,频道简介 / 视频说明,All,推荐-免费可用,首页 200，2005 年老域名。免费开频道即可在简介和视频说明放官网；适合座位表/发票/投票教程或解谜试玩录屏，不要只丢裸链。
 Amebaブログ,ameblo.jp,https://ameblo.jp/,JA / 日本,博客与内容,2004-07-30,200,免费,文章正文,All,推荐-免费可用,JPRS 注册于 2004-07-30，HTTP 200。日本大众向免费博客，适合用白话介绍工具或游戏；避免广告口吻和连续外链刷屏。
+Doorkeeper,doorkeeper.jp,https://www.doorkeeper.jp/,JA / 日本,论坛,2010-04-09,200,免费,活动页 / 个人资料页,All,推荐-免费可用,重试后首页 HTTP 200，标题为活动管理工具；首次探测曾返回 500，已复查恢复。whois.com 显示注册于 2010-04-09。日本技术活动平台，可免费创建活动或资料页并留链。
 FC2 Blog,fc2.com,https://blog.fc2.com/,JA / 日本,博客与内容,1999-05-20,200,免费,文章正文,All,推荐-免费可用,RDAP 注册于 1999-05-20，HTTP 200。日本常用免费博客，开站即可在文章中放官网链接。内容质量参差，写正规介绍即可，不必追逐互链圈。
+Jugem,jugem.jp,https://jugem.jp/,JA / 日本,博客与内容,2004-06-28,200,免费,博客正文,All,推荐-免费可用,首页 HTTP 200，JPRS/whois.com 显示注册于 2004-06-28。日本免费博客平台，注册后即可发文并在正文放官网链接。
 Livedoor Blog,livedoor.jp,https://blog.livedoor.com/,JA / 日本,博客与内容,2001-04-19,200,免费,文章正文,All,推荐-免费可用,JPRS 显示 livedoor.jp 注册于 2001-04-19。官方入口 https://blog.livedoor.com/ 返回 200；blog.livedoor.jp 在本机出现证书问题，建议用前者。免费博客，正文可放外链。
 note,note.com,https://note.com/,JA / 日本,博客与内容,1995-05-03,200,免费,文章正文,All,推荐-免费可用,RDAP 显示 note.com 注册于 1995-05-03（通用单词域名，早于日本 note 公司启用），HTTP 200。免费可发长文，覆盖开发者和更广泛读者；适合写产品故事，勿只贴链接。
 PLiCy,plicy.net,https://plicy.net/,JA / 日本,游戏社区,2012-04-04,200,免费,作品投稿页,PuzzleBento,推荐-免费可用,RDAP 注册于 2012-04-04，HTTP 200。官方说明投稿和游玩均免费，支持 HTML5 / ツクール / Unity 等，通常无审。作品主要在 PLiCy 站内游玩，适合作为分发入口；提交前确认作者页或介绍栏能否放回 puzzlebento.com 官网链接。
@@ -56,20 +77,37 @@ Mastodon.fr,mastodon.fr,https://mastodon.fr/auth/sign_up,FR / 法语区,社交�
 OverBlog,over-blog.com,https://connect.over-blog.com/fr/signup,FR / 法语区,博客与内容,2004-02-25,200,免费,博客正文,All,推荐-免费可用,注册页 200，2004 年域名。官方写明开博免费、托管包含在内，高级功能和盈利计划才收费。可立即用法语写产品介绍或教程并外链五站。
 Prise2Tete Forum,prise2tete.fr,https://www.prise2tete.fr/forum/,FR / 法语区,游戏社区,2006-08-07,200,免费,帖子正文,PuzzleBento,推荐-免费可用,论坛 200，AFNIC RDAP 注册于 2006-08-07。逻辑谜题论坛，2026-11 仍有新帖，并有 Jeux en ligne / Jeux de réflexion 板块，最适合用法语介绍 PuzzleBento，不要发无关工具站。
 MastodonDE,mastodon.de,https://mastodon.de/auth/sign_up,DE / 德语区,社交媒体,未知,200,免费,帖子正文 / 个人资料页,All,推荐-免费可用,注册页 200，标题为 Sign up，当前开放注册。DENIC 不提供注册年，故标未知。德语主流实例，资料页和嘟文可留链，须遵守实例规则，不要刷广告。
+Xing,xing.com,https://www.xing.com/signup?registration=1,DE / 德语区,社交媒体,1992-08-25,200,免费,个人资料页,All,推荐-免费可用,注册页 HTTP 200，RDAP 注册于 1992-08-25。德语区职业社交网络，可免费建立个人或公司资料页并放网站链接，类似 LinkedIn，适合五站在德语/欧洲职场曝光。
+Altervista,altervista.org,https://it.altervista.org/,IT / 意大利语区,博客与内容,2000-12-22,200,免费,博客正文,All,推荐-免费可用,首页 HTTP 200，RDAP 注册于 2000-12-22。意大利常用免费博客/建站平台，注册后即可写介绍并外链五站。建议用意大利语发布。
+indiexpo,indiexpo.net,https://www.indiexpo.net/,IT / 意大利语区,游戏社区,2015-11-22,200,免费,作品展示板块,PuzzleBento,推荐-免费可用,注册页与首页均 HTTP 200，RDAP 注册于 2015-11-22。意大利独立游戏平台，可免费注册并上传 HTML5/ZIP 在浏览器游玩，页面可放开发者链接。最适合 PuzzleBento，不要把工具站硬塞进去。
+Libero Blog,libero.it,https://blog.libero.it/,IT / 意大利语区,博客与内容,1999-06-03,200,免费,博客正文,All,推荐-免费可用,博客入口 HTTP 200，whois.com 显示 libero.it 注册于 1999-06-03。意大利 Libero 免费博客，可开博并用意大利语写介绍、在正文放官网链接。
+Mastodon.uno,mastodon.uno,https://mastodon.uno/auth/sign_up,IT / 意大利语区,社交媒体,2019-01-08,200,免费,帖子正文 / 个人资料页,All,推荐-免费可用,注册页 HTTP 200，标题为 Sign up - Mastodon Uno Social - Italia；实例 API 显示 registrations.enabled=true 且不需要管理员批准。Identity Digital RDAP 注册于 2019-01-08。意大利主流实例，资料页和嘟文可留链，须遵守实例规则，不要刷广告。
+Blogg.se,blogg.se,https://blogg.se/,SV / 瑞典,博客与内容,2004-07-20,200,免费,博客正文,All,推荐-免费可用,https://blogg.se/ 实测 HTTP 200，标题为「Blogg.se - platsen för din personliga blogg」；www 子域本次返回 500，建议用根域。whois.com 显示注册于 2004-07-20。瑞典免费博客平台，可开博并用瑞典语写介绍、正文放官网链接。
+SAPO Blogs,sapo.pt,https://www.sapo.pt/,PT / 葡萄牙,博客与内容,未知,200,免费,博客正文,All,推荐-免费可用,https://www.sapo.pt/ 实测 HTTP 200；blogs.sapo.pt 本次出现 SSL 异常，故入口改记门户首页，SAPO Blogs 为该门户下的免费博客产品。.pt WHOIS/RDAP 未返回创建日期，标未知，未编造年份。可用葡萄牙语开博并在正文留链，投放前再确认博客开通页。
+RocketPunch,rocketpunch.com,https://www.rocketpunch.com/,KO / 韩国,书签与资料页,2002-04-26,403 (Cloudflare),免费,公司/产品页,All,推荐-免费可用,脚本遇到 HTTP 403（防护），RDAP 注册于 2002-04-26。韩国创业/招聘平台仍然在线，可免费建立公司或产品页并放网站，对海外用户相对友好，适合作为韩国资料页型足迹。
 Velog,velog.io,https://velog.io/,KO / 韩国,博客与内容,2017-12-01,200,免费,博客正文,All,推荐-免费可用,首页 200，2017 年域名。开发者博客，可用 GitHub/Google/Facebook/邮箱登录，海外注册相对容易。应用韩语写开发或产品笔记并外链；这是自建博客而非编辑推荐。
 A to Z Teacher Stuff Forums,atozteacherstuff.com,https://forums.atozteacherstuff.com/,EN / US-Global,论坛,1999-01-04,200,免费,帖子正文 / 个人资料页,"Chartseat, OnlinePollMaker",可用-有门槛,论坛 200，1999 年域名。Teacher Time Out 在 2026-11-04 仍有讨论，但多数教学板块最近帖偏少（如 General Education 可见活动停在 2026-02）。只适合教师身份聊课堂座位或课堂投票，勿硬广。
 AlternativeTo,alternativeto.net,https://alternativeto.net/faq/,EN / US-Global,目录站,2008-01-18,403 (Cloudflare),免费,目录条目,All,可用-有门槛,本次补查域名创建时间为 2008-01-18。免费提交，队列可能很长；可选付费加速审核。应用须支持英语。
 BoardGameGeek,boardgamegeek.com,https://boardgamegeek.com/forums,EN / US-Global,游戏社区,2000-05-19,403 (Cloudflare),免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,论坛入口被 Cloudflare 拦截，但 2000 年老站仍在运营。可免费注册；这是桌游讨论社区，不是广告板，只适合在相关规则/解谜话题下交流，资料页可放网站。
+Construct Community,construct.net,https://www.construct.net/en/forum,EN / US-Global,游戏社区,1995-08-02,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,论坛 HTTP 200，RDAP 注册于 1995-08-02。Construct 引擎官方社区，仅当作品用该引擎制作时再发展示，不适合无关工具站。
 Crunchbase,crunchbase.com,https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile,EN / US-Global,书签与资料页,2007-05-17,403 (Cloudflare),免费,公司资料页,All,可用-有门槛,本次补查域名创建时间为 2007-05-17。免费注册用户完成社交验证后可添加公司 Profile；同一主体只需一个公司页。
+DaniWeb,daniweb.com,https://www.daniweb.com/,EN / US-Global,论坛,1998-09-16,403,免费,帖子正文 / 个人资料页,All,可用-有门槛,脚本遇到 HTTP 403（防护），RDAP 注册于 1998-09-16。英语编程问答/论坛仍然在线，可在相关技术讨论中分享实现经验，禁止纯广告。
 Digital Point Forums,digitalpoint.com,https://forums.digitalpoint.com/,EN / US-Global,论坛,1999-04-02,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛 200，1999 年域名，定位互联网营销与 SEO。内容质量参差，仍是真实用户论坛而非死站；发链需看版规，避免典型 SEO 灌水，以免被当作垃圾用户。
 Diigo,diigo.com,https://www.diigo.com/,EN / US-Global,书签与资料页,2004-12-22,200,免费,书签页,All,可用-有门槛,首页 200。官方注册页提供 Free 档（约 1000 条书签，含广告）；公开分享需在免费额度内设置，付费档另计。适合作为书签补充，不要批量灌链。
+Edutopia,edutopia.org,https://www.edutopia.org/,EN / US-Global,博客与内容,2002-05-08,200,免费,评论 / 社区,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 2002-05-08。教育媒体社区，适合课堂工具（Chartseat、OnlinePollMaker）的相关讨论或评论，不是自助目录。
 Fazier,fazier.com,https://fazier.com/submit,EN / US-Global,目录站,2020-09-20,200,免费,产品发布页,All,可用-有门槛,本次补查域名创建时间为 2020-09-20。Basic 免费，约 30 天内审核；免费档是否必须回链以提交时表单为准。
+Fosstodon,fosstodon.org,https://fosstodon.org/auth/sign_up,EN / US-Global,社交媒体,2017-07-30,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,实例 API 显示 registrations.enabled=false，并写明 invite only；注册页会落到登录。RDAP 注册于 2017-07-30，about/注册相关页可打开。FOSS 向 Mastodon 实例，仅在获得邀请后可用，新用户请改走开放实例。
 G2,g2.com,https://sell.g2.com/create-a-profile,EN / US-Global,目录站,1995-03-22,200,免费,产品资料页,"Chartseat, InvoiceNeat, OnlinePollMaker, TikTomato",可用-有门槛,本次补查域名创建时间为 1995-03-22。官方有 Free 档；更适合 B2B/团队工具，游戏合集不是典型对象。
 GameDev.net,gamedev.net,https://www.gamedev.net/forums/,EN / US-Global,游戏社区,1999-03-26,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,论坛首页 200，1999 年老域名。免费注册后可在相关开发/展示区介绍网页解谜，需遵守社区讨论规范，不要只丢下载/网址。
+Ghost,ghost.org,https://ghost.org/,EN / US-Global,博客与内容,2005-06-25,200,未知,博客正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2005-06-25。Ghost 开源可自建（自建并不自动产生第三方外链目录）；官方托管是否长期提供可用的免费档本次未确认，费用标未知，不进入优先提交表。
 Godot Forum,godotengine.org,https://forum.godotengine.org/,EN / US-Global,游戏社区,2008-07-02,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,论坛 200，官方引擎社区。仅当作品确实用 Godot（含 Web 导出）时再发展示或求反馈，否则不要去那里推 PuzzleBento。
+Hachyderm,hachyderm.io,https://hachyderm.io/auth/sign_up,EN / US-Global,社交媒体,2022-04-27,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,注册页 HTTP 200，标题为 Sign up；实例 API 显示开放注册但 approval_required 与 reason_required 均为 true。whois.com 显示注册于 2022-04-27。技术向实例，通过审核后资料页和嘟文可留链。
 Hacker News (Show HN),news.ycombinator.com,https://news.ycombinator.com/showhn.html,EN / US-Global,论坛,2005-03-20,200,免费,投稿/讨论,All,可用-有门槛,本次补查域名创建时间为 2005-03-20。Show HN 免费，禁止拉票；每次只介绍一个可立即试用的点。
 HackerNoon,hackernoon.com,https://hackernoon.com/p/publish/content,EN / US-Global,博客与内容,2016-04-03,200,免费,文章正文 / 作者页,All,可用-有门槛,投稿入口 200。免费提交技术/产品文章，但需通过编辑审核，且不是即时发链渠道；适合写造站、小工具或网页游戏开发经验，避免纯软文。
+Houzz,houzz.com,https://www.houzz.com/,EN / US-Global,论坛,2006-10-29,200,免费,资料页 / 讨论,Chartseat,可用-有门槛,首页 HTTP 200，RDAP 注册于 2006-10-29。家居装修社区，与婚礼场地布置或活动座位仅弱相关，不要当作常规渠道。
+Instagram,instagram.com,https://www.instagram.com/,EN / US-Global,社交媒体,2004-06-04,200,免费,个人资料页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2004-06-04。免费，但通常仅资料页一条链接，外链曝光有限，与 Threads 类似，作为保底资料页即可。
 Instructables,instructables.com,https://www.instructables.com/,EN / US-Global,博客与内容,2005-06-22,200,免费,教程正文,"Chartseat, InvoiceNeat, PuzzleBento",可用-有门槛,首页 200，2005 年域名。How-to 社区，适合发「如何排婚礼/教室座位」「如何做一份发票」等步骤教程并在文中引用自己的工具；禁止无步骤的广告贴。
+Kongregate,kongregate.com,https://www.kongregate.com/,EN / US-Global,游戏社区,2006-05-07,200,免费,作品展示板块,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2006-05-07。网页游戏门户，通常要平台托管而非纯外链回官网，上传条款需自行阅读后再决定是否投放 PuzzleBento。
 Lemmy (lemmy.world),lemmy.world,https://lemmy.world/,EN / US-Global,社交媒体,2023-05-31,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,脚本遇到 Cloudflare 403，但域名 2023 年注册且实例仍在运营。各社区版规不同，禁止纯广告；可当非 Reddit 的联邦论坛备选，先读目标社区规则再发。
 Lobste.rs,lobste.rs,https://lobste.rs/,EN / US-Global,论坛,2011-12-13,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,首页 200。rdap.org 对 .rs 无记录，回退塞尔维亚 RNIDS WHOIS：Registration date 13.12.2011。邀请制，对自我推广很敏感，有邀请后再投真正有讨论价值的帖，勿群发。
 Mastodon (gamedev.place),gamedev.place,https://mastodon.gamedev.place/auth/sign_up,EN / US-Global,社交媒体,2017-11-12,200,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,gamedev.place 只是说明页，实际实例在 mastodon.gamedev.place；注册页 200 且流程含 Our review，需管理员审核。更适合网页游戏/独立开发话题，不适合硬广工具站。
@@ -77,29 +115,66 @@ Peerlist Launchpad,peerlist.io,https://peerlist.io/launchpad,EN / US-Global,目�
 PeerPush,peerpush.com,https://peerpush.com/submit,EN / US-Global,目录站,2007-05-15,200,免费排队,目录条目,All,可用-有门槛,本次补查域名创建时间为 2007-05-15。有免费档，排在付费用户后面；另有付费即时上线。
 Puzzling Stack Exchange,stackexchange.com,https://puzzling.stackexchange.com/,EN / US-Global,游戏社区,2009-06-12,200,免费,个人资料页 / 回答正文,PuzzleBento,可用-有门槛,首页 200。禁止把问题写成产品广告；最稳妥是资料页填写网站，并在真正解题/出题时自然提及。不要用 PuzzleBento 当问题主体做推广。
 Quora,quora.com,https://www.quora.com/,EN / US-Global,论坛,2000-03-29,403 (Cloudflare),免费,回答正文 / 个人资料页,All,可用-有门槛,脚本遇到 Cloudflare 403，站点仍在运营，域名为 2000 年。免费提问与回答；禁止纯广告，只宜在婚礼座位、发票、在线投票、解谜等相关问题下写经验并自然带链接，资料页也可放网站。
+Ravelry,ravelry.com,https://www.ravelry.com/,EN / US-Global,论坛,2006-10-22,200,免费,个人资料页 / 帖子正文,Chartseat,可用-有门槛,首页 HTTP 200，RDAP 注册于 2006-10-22。手工艺社区，与五站主题交集有限，仅资料页或少数相关讨论可留链。
+Replit,replit.com,https://replit.com/,EN / US-Global,游戏社区,2011-09-02,200,免费,作品展示板块,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2011-09-02。可发布网页项目并留链，但免费档额度与公开规则变化较频，投放前再确认当前免费档是否够用。
+ResetEra,resetera.com,https://www.resetera.com/,EN / US-Global,游戏社区,2017-10-22,403 (Cloudflare),免费,帖子正文,PuzzleBento,可用-有门槛,脚本遇到 HTTP 403（防护），RDAP 注册于 2017-10-22。大型英语游戏论坛仍然在线，对自我推广通常较严，只适合相关游戏讨论。
+RPG Maker Forums,rpgmakerweb.com,https://forums.rpgmakerweb.com/,EN / US-Global,游戏社区,2010-06-10,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,论坛 HTTP 200，RDAP 注册于 2010-06-10。RPG Maker 社区，适合相关网页游戏分享，工具站勿发。
+Scoop.it,scoop.it,https://www.scoop.it/,EN / US-Global,书签与资料页,2007-09-11,200,未知,书签页,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2007-09-11。内容策展平台，公开页可见付费档宣传，免费档能否稳定公开发链未确认，费用标未知。
 SitePoint Community,sitepoint.com,https://www.sitepoint.com/community/,EN / US-Global,论坛,1999-10-04,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,社区首页 200，1999 年域名，2026-11 仍有讨论。适合谈 Web 开发与小工具实现，资料页和相关回答可带链接，不要发纯推广帖。
 Slashdot,slashdot.org,https://slashdot.org/submission,EN / US-Global,论坛,1997-10-05,200,免费,投稿/讨论,All,可用-有门槛,投稿页 200，1997 年老域名。故事需经编辑筛选，小工具日常更新很难上，仅在有真正新闻点时再投，不要当常规发链站。
 SlideShare,slideshare.net,https://www.slideshare.net/,EN / US-Global,博客与内容,2006-04-04,200 (Client Challenge),免费,作品展示板块,"Chartseat, InvoiceNeat, OnlinePollMaker, PuzzleBento",可用-有门槛,首页返回挑战页，但域名 2006 年且平台仍在。可上传座位表、发票、投票或解谜教程幻灯片并带官网；需账号，具体免费额度以登录后为准，勿写纯广告页。
+Spiceworks Community,spiceworks.com,https://community.spiceworks.com/,EN / US-Global,论坛,1998-02-26,403,免费,帖子正文,"InvoiceNeat, OnlinePollMaker, Chartseat",可用-有门槛,社区入口脚本遇到 HTTP 403（防护），RDAP 注册于 1998-02-26。IT 从业者社区仍然在线，适合小企业工具（发票、投票）的工作流讨论。
 Startup Stash,startupstash.com,https://startupstash.com/get-listed/,EN / US-Global,目录站,2014-09-04,200,免费,目录条目,All,可用-有门槛,本次补查域名创建时间为 2014-09-04。可申请免费 listing，可能要几周，不保证通过。
 StartupNation,startupnation.com,https://startupnation.com/contribute/,EN / US-Global,博客与内容,1999-02-21,200,免费,投稿文章 / 作者简介,"InvoiceNeat, OnlinePollMaker, Chartseat, TikTomato",可用-有门槛,投稿页 200，1999 年域名。这是媒体约稿而非开放论坛，需按 Contributor Style Guide 投稿，官方写明对反向链接有严格限制，可能只保留作者简介里的网站。
 Sudoku Players' Forum,enjoysudoku.com,http://forum.enjoysudoku.com/,EN / US-Global,游戏社区,2007-10-30,500（脚本直连失败）,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,本次 HTTPS/HTTP 直连分别出现 SSL 错误和 500，但公开索引仍能看到 2026-11-17 至 11-19 的新谜题帖（如 Steve Hodoku 11-18-2026），且存在 On the web 板块。只适合分享网页数独/解谜，不要群发广告。
+Teachers.net,teachers.net,https://teachers.net/,EN / US-Global,论坛,1996-03-17,200,免费,帖子正文,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 1996-03-17。英语教师论坛，可在相关教学讨论中分享课堂工具，避免广告贴。
 Threads,threads.net,https://www.threads.net/login,EN / US-Global,社交媒体,1997-05-28,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,登录页 200；threads.net 本身是 1997 年注册的老域名。通常需已有 Instagram 账号才能发帖，资料页和帖子可放链接，但外链权重与曝光取决于账号本身。
 TIGSource Forums,tigsource.com,https://forums.tigsource.com/index.php,EN / US-Global,游戏社区,2005-01-08,403 (Cloudflare),免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,脚本被 Cloudflare 403。公开索引显示仍有 DevLogs 等板块，Townhall（成品展示）可见活动较旧。按版规：开发中走 DevLogs，试玩走 Playtesting，成品走 Townhall，一款游戏一条线，禁止当广告板。
 Tildes,tildes.net,https://tildes.net/,EN / US-Global,论坛,2017-08-07,200,免费,帖子正文,All,可用-有门槛,首页 200，2017 年域名。非营利讨论站、邀请制；适合有邀请后参与相关讨论，不适合当目录站提交产品。
 Uneed,uneed.best,https://www.uneed.best/submit-a-tool,EN / US-Global,目录站,2020-04-24,200,免费排队,目录条目,All,可用-有门槛,本次补查域名创建时间为 2020-04-24。Join the line 免费，至少约 50 天后；另有付费插队。
+Unity Discussions,unity.com,https://discussions.unity.com/,EN / US-Global,游戏社区,1995-08-07,403,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,Discussions 入口脚本遇到 HTTP 403（防护），RDAP 显示 unity.com 注册于 1995-08-07。Unity 官方论坛仍在。仅当作品确实用 Unity Web 导出时再去 Showcase 分享，不要发无关工具站。
+Unreal Engine Forums,unrealengine.com,https://forums.unrealengine.com/,EN / US-Global,游戏社区,1998-07-01,200,免费,帖子正文,PuzzleBento,可用-有门槛,论坛 HTTP 200，RDAP 注册于 1998-07-01。虚幻引擎官方论坛，须与引擎或作品相关，不适合五站常规推广。
 Vocal Media,vocal.media,https://vocal.media/,EN / US-Global,博客与内容,2016-05-26,200,免费,文章正文,All,可用-有门槛,首页 200。官方说明免费即可发故事，但投稿会审核，垃圾和推销内容可能被拒；适合写使用教程或开发随笔，不要当分类目录提交。
+WeAreTeachers,weareteachers.com,https://www.weareteachers.com/,EN / US-Global,博客与内容,2006-03-09,200,免费,评论 / 社区,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 2006-03-09。教师内容社区，以编辑稿和评论为主，适合课堂工具的相关提及，不是自助目录。
 WebmasterWorld,webmasterworld.com,https://www.webmasterworld.com/recent-posts.htm,EN / US-Global,论坛,1999-12-11,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,Recent posts 页 200，1999 年域名，核验前后（2026-11-19/20）仍有新帖。站长讨论气氛专业，对推广较严，只适合谈运营经验，资料页留链，勿做广告。
+WeddingBee,weddingbee.com,https://www.weddingbee.com/,EN / US-Global,论坛,2005-05-23,403 (Cloudflare),免费,帖子正文,Chartseat,可用-有门槛,脚本遇到 HTTP 403（防护），RDAP 注册于 2005-05-23。英语婚礼博客/论坛仍然在线，适合 Chartseat 相关讨论，禁止硬广。
 WeddingWire Forums,weddingwire.com,https://www.weddingwire.com/wedding-forums,EN / US-Global,论坛,2002-07-24,200,免费,帖子正文 / 个人资料页,Chartseat,可用-有门槛,论坛页 200，2002 年域名，2026-11 仍可见婚礼讨论。商业招揽通常受限，只适合以新人/策划者身份分享座位表经验并自然提到工具，不要发商家广告帖。
+wikiHow,wikihow.com,https://www.wikihow.com/,EN / US-Global,博客与内容,2004-06-12,200,免费,教程正文,"Chartseat, InvoiceNeat, PuzzleBento, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 2004-06-12。How-to 平台可写步骤教程并引用自己的工具，但审核严格、对利益冲突要求高，通过率不保证。
+Hitched,hitched.co.uk,https://www.hitched.co.uk/,EN / UK,论坛,1997-07-01,403,未知,帖子正文 / 供应商页,Chartseat,可用-有门槛,脚本遇到 HTTP 403（防护），Nominet RDAP 显示注册于 1997-07-01。英国婚礼平台与讨论仍然在线。供应商展示可能收费，情侣讨论是否免费留链未完全确认，费用标未知。适合 Chartseat。
+TES,tes.com,https://www.tes.com/,EN / UK,论坛,1993-12-13,200,未知,资源页 / 论坛,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 1993-12-13。英国教师社区 TES，资源上传或讨论可能分层收费，免费发资源/讨论的边界本次未完全确认，费用标未知。适合 Chartseat、OnlinePollMaker。
 UK Business Forums,ukbusinessforums.co.uk,https://www.ukbusinessforums.co.uk/,EN / UK,论坛,2003-02-18,200 (Checking your browser),免费,帖子正文 / 个人资料页,"InvoiceNeat, OnlinePollMaker, Chartseat",可用-有门槛,首页可访问（先过浏览器检查），Nominet RDAP 注册于 2003-02-18。免费会员发链接需达到未公开的活跃门槛，禁止自我推广帖；发票/小企业话题可先正常交流，勿一进门就贴产品。
+BubHub,bubhub.com.au,https://www.bubhub.com.au/,EN / AU,论坛,未知,200,免费,帖子正文,Chartseat,可用-有门槛,重试后 HTTP 200，标题为 The Bub Hub。.au RDAP 无注册日期，标未知。澳大利亚育儿社区，规则与 Essential Baby 类似，只做相关讨论。
+EasyWeddings,easyweddings.com.au,https://easyweddings.com.au/,EN / AU,论坛,未知,200,未知,帖子正文 / 供应商页,Chartseat,可用-有门槛,首页 HTTP 200。.au RDAP 无注册日期，标未知。澳大利亚婚礼平台，供应商展示常有商业套餐，免费情侣讨论或资料页是否可留链未完全确认，费用标未知。适合 Chartseat。
+Essential Baby,essentialbaby.com.au,https://www.essentialbaby.com.au/,EN / AU,论坛,未知,200,免费,帖子正文,"Chartseat, OnlinePollMaker",可用-有门槛,本次出现证书异常（自签证书），忽略证书校验后 HTTP 200，标题显示为 Nine 旗下育儿内容。.au RDAP 无注册日期，标未知。澳大利亚育儿社区，仅在相关话题谨慎分享课堂/活动组织工具，不要做广告式发帖。
+FlyingSolo,flyingsolo.com.au,https://www.flyingsolo.com.au/,EN / AU,论坛,未知,403 (Cloudflare),免费,帖子正文,"InvoiceNeat, OnlinePollMaker, Chartseat",可用-有门槛,脚本遇到 HTTP 403（防护）。.au RDAP 无注册日期，标未知。澳大利亚自由职业/小企业社区，适合 InvoiceNeat 等用英语分享工作流，须先读清禁止硬广的规则。
+OzBargain,ozbargain.com.au,https://www.ozbargain.com.au/,EN / AU,论坛,未知,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200。.au RDAP 无注册日期，标未知。澳大利亚优惠社区，发帖规则严，通常禁止自推自己的产品，不要作为常规外链渠道，仅在真正有优惠信息时考虑。
+ProductReview.com.au,productreview.com.au,https://www.productreview.com.au/,EN / AU,目录站,未知,200,未知,产品页 / 评价,All,可用-有门槛,首页 HTTP 200。.au RDAP 无注册日期，标未知。澳大利亚产品评价目录，消费者评价免费，商家入驻是否免费未确认，费用标未知。
+Whirlpool,whirlpool.net.au,https://whirlpool.net.au/,EN / AU,论坛,未知,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,脚本遇到 HTTP 403（防护）。.au RDAP 不提供 registration 事件，创建时间标未知，未编造年份。澳大利亚著名宽带/科技论坛仍然在线，对广告和商业链接极严，只适合用英语做技术讨论，不要发产品贴。
+Geekzone,geekzone.co.nz,https://www.geekzone.co.nz/,EN / NZ,论坛,2002-04-08,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2002-04-08。新西兰科技论坛，须遵守反广告规则，用英语讨论。
+Trade Me Community,trademe.co.nz,https://www.trademe.co.nz/,EN / NZ,论坛,1999-01-05,406,未知,需核实社区入口,All,可用-有门槛,本次脚本返回 HTTP 406（防护），whois.com 显示注册于 1999-01-05。新西兰大型分类信息站仍然在线，公开社区发帖入口和免费留链方式未确认，费用标未知，不优先投放。
+Boards.ie,boards.ie,https://www.boards.ie/,EN / IE,论坛,1999-07-11,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,脚本遇到 HTTP 403（防护），whois.com 显示注册于 1999-07-11。爱尔兰最大综合论坛之一，站点仍在。须遵守版规，禁止硬广。
+HardwareZone,hardwarezone.com.sg,https://forums.hardwarezone.com.sg/,EN / SG,论坛,1999-03-17,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛 HTTP 200，RDAP 注册于 1999-03-17。新加坡著名硬件与综合论坛，英语讨论，对广告较严，只发相关帖。
+4Gamer,4gamer.net,https://www.4gamer.net/forum/main.html,JA / 日本,游戏社区,2000-07-26,200,免费,论坛帖子,PuzzleBento,可用-有门槛,论坛页 HTTP 200，RDAP 注册于 2000-07-26。日本游戏媒体论坛，须日语交流，推广受限，仅适合相关游戏讨论。
+ASCII.jp,ascii.jp,https://ascii.jp/,JA / 日本,博客与内容,2016-03-03,200,未知,需核实投稿,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2016-03-03。日本科技媒体，以编辑稿为主，不是自助目录。
+AUTOMATON,automaton-media.com,https://automaton-media.com/,JA / 日本,博客与内容,2018-11-06,200,未知,需核实投稿/评论,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2018-11-06。日本独立游戏向媒体，以编辑稿为主，公开投稿通道未确认。
 BOOTH,booth.pm,https://booth.pm/,JA / 日本,目录站,2013-10-30,200,免费,作品投稿页 / 资料页,PuzzleBento,可用-有门槛,nic.pm RDAP 注册于 2013-10-30。Python 探测曾返回 403，curl 跟随跳转后得到 HTTP 200。pixiv 体系的创意商品平台，可免费上架免费或付费作品并带说明链接，更适合有素材包、游戏或周边时使用。
 Ci-en,dlsite.com,https://ci-en.dlsite.com/,JA / 日本,社交媒体,2000-08-29,200,免费,资料页,PuzzleBento,可用-有门槛,RDAP 显示 dlsite.com 注册于 2000-08-29，Ci-en 子域 HTTP 200。DLsite 体系的创作者订阅/动态平台，可开免费主页并放官网。更适合持续更新游戏的作者，不是一次性目录提交。
+CodeZine,codezine.jp,https://codezine.jp/,JA / 日本,博客与内容,2004-12-10,403,未知,需核实投稿,All,可用-有门槛,脚本遇到 HTTP 403（防护），whois.com 显示注册于 2004-12-10。日本开发者媒体，或有投稿通道但本次未在公开页确认免费自助发表。
 connpass,connpass.com,https://connpass.com/,JA / 日本,书签与资料页,2011-05-30,202,免费,资料页,All,可用-有门槛,RDAP 注册于 2011-05-30。本机返回 HTTP 202（CloudFront 挑战页），站点本身为日本常用活动平台。适合办线上发布会或分享会时放活动页，不是日常目录站，不要为了外链虚构活动。
+Fantia,fantia.jp,https://fantia.jp/,JA / 日本,书签与资料页,2016-04-13,200,免费,创作者页,PuzzleBento,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2016-04-13。日本创作者订阅/展示平台，可开创作者页；部分能力偏向付费订阅，免费档可作为资料页，须遵守平台内容规则。
 Fedibird,fedibird.com,https://fedibird.com/,JA / 日本,社交媒体,2018-09-22,200,免费,帖子正文 / 资料页,All,可用-有门槛,RDAP 注册于 2018-09-22，HTTP 200 并进入 /about。日本常用 Mastodon 实例，简介和帖子可放链接，同样要避免广告式群发。
+Game*Spark,gamespark.jp,https://www.gamespark.jp/,JA / 日本,博客与内容,2009-12-01,200,未知,需核实投稿,PuzzleBento,可用-有门槛,首页 HTTP 200，JPRS/whois.com 显示注册于 2009-12-01。日本游戏新闻站，编辑内容为主，不是自助目录。
+Gihyo.jp,gihyo.jp,https://gihyo.jp/,JA / 日本,博客与内容,2016-09-05,200,未知,需核实投稿,All,可用-有门槛,首页 HTTP 200，JPRS WHOIS「登録年月日」为 2016-09-05。技术评论社开发者媒体，以编辑/约稿为主，自助投稿通道未确认。
+Inside Games,inside-games.jp,https://www.inside-games.jp/,JA / 日本,博客与内容,2007-04-05,200,未知,需核实投稿/评论,PuzzleBento,可用-有门槛,首页 HTTP 200，JPRS WHOIS「登録年月日」为 2007-04-05。日本游戏新闻站，编辑内容为主。
+ITmedia,itmedia.co.jp,https://www.itmedia.co.jp/,JA / 日本,博客与内容,2005-06-13,200,未知,需核实投稿,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2005-06-13。日本 IT 媒体集团站点，公开投稿通道未作为目录开放。
 Misskey.io,misskey.io,https://misskey.io/,JA / 日本,社交媒体,2019-04-13,200,免费,帖子正文 / 资料页,All,可用-有门槛,Identity Digital RDAP 注册于 2019-04-13，HTTP 200。日本主要 Misskey 实例，简介和帖子可放链接，但利用规约限制垃圾广告和擅自宣传，适合偶尔分享，不要群发。
 mixi,mixi.jp,https://mixi.jp/,JA / 日本,社交媒体,2003-12-19,200,免费,资料页 / 帖子正文,All,可用-有门槛,JPRS 注册于 2003-12-19，HTTP 200。日本老牌社交网，资料和社区可留链接，但活跃度已不如从前，只作补充，不要投入过多精力。
+mstdn.jp,mstdn.jp,https://mstdn.jp/auth/sign_up,JA / 日本,社交媒体,2017-04-12,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,about 页 HTTP 200；注册页本次遇到 Cloudflare 挑战。实例 API 显示 registrations.enabled=true 且 approval_required=true。whois.com 显示注册于 2017-04-12。日本 Mastodon 实例，需等待审核，通过后资料页和嘟文可留链。
 OKWave,okwave.jp,https://okwave.jp/,JA / 日本,论坛,2005-08-03,200,免费,帖子正文,All,可用-有门槛,JPRS 注册于 2005-08-03。核验当日 HTTP 200 但跳转到维护页 sorry.okwave.jp 的 mainte_20261119.html，需过几天再确认是否恢复。即便恢复，问答站也忌讳自问自答打广告，只适合认真回答时自然提及。
 Pawoo,pawoo.net,https://pawoo.net/,JA / 日本,社交媒体,2017-04-14,200,免费,帖子正文 / 资料页,PuzzleBento,可用-有门槛,RDAP 注册于 2017-04-14，HTTP 200。日本 Mastodon 实例，偏创作向，资料页和帖子可留链接，同样禁止垃圾宣传。更适合有插画/角色图的游戏介绍。
+Peatix,peatix.com,https://peatix.com/,JA / 日本,论坛,2010-12-16,200,免费,活动页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2010-12-16。活动报名平台，主办页可放网站；适合有线下/线上活动时使用，不是日常目录。
 pixiv,pixiv.net,https://www.pixiv.net/,JA / 日本,社交媒体,2007-07-16,403,免费,资料页,PuzzleBento,可用-有门槛,RDAP 注册于 2007-07-16。本机 HTTP 403（Cloudflare 反爬），站点仍在运营。资料页可放官网，但外链价值主要在个人资料而非作品页；更适合有原创角色图时使用，不要当纯 SEO 目录。
+SS Blog,ss-blog.jp,https://ss-blog.jp/,JA / 日本,博客与内容,2020-06-01,error,免费,博客正文,All,可用-有门槛,JPRS WHOIS「登録年月日」为 2020-06-01，状态 Active，注册者是 Seesaa（シーサー株式会社）。本次 HTTPS 探测出现 SSL 异常。它与已入库的 seesaa.jp 同属 Seesaa 博客体系，官方常用入口仍建议走 seesaa.jp；本域不按死站处理，但也不作为优先新渠道。
 Togetter,togetter.com,https://togetter.com/,JA / 日本,社交媒体,2009-09-26,200,免费,文章正文,All,可用-有门槛,RDAP 注册于 2009-09-26，HTTP 200。可把关于产品的公开讨论整理成专题页并带链接。适合已有社交讨论后再做，不适合当作第一波冷启动目录。
 unityroom,unityroom.com,https://unityroom.com/,JA / 日本,游戏社区,2014-01-22,200,免费,作品投稿页 / 资料页,PuzzleBento,可用-有门槛,RDAP 注册于 2014-01-22，HTTP 200。只接受 Unity 或 Godot（非 .NET）的 Web 导出，PuzzleBento 若不是这两套引擎则不能上架游戏包。用户资料可填主页 URL，适合有对应构建时再用。
 Vector,vector.co.jp,https://www.vector.co.jp/for_authors/upload/soft_reg.html,JA / 日本,目录站,1994-01-18,200,免费,作品投稿页,All,可用-有门槛,JPRS 注册于 1994-01-18，HTTP 200。老牌日本软件库，作者可免费登记作品，审核约 1–2 周。以 Windows 下载软件为主，网页游戏不是核心品类；工具站若有可下载版本更合适，登记页可带官网。
@@ -113,8 +188,10 @@ Vector,vector.co.jp,https://www.vector.co.jp/for_authors/upload/soft_reg.html,JA
 フリーゲーム100,freegame-100.com,https://freegame-100.com/link/,JA / 日本,目录站,2010-05-13,200,免费,书签页,PuzzleBento,可用-有门槛,RDAP 注册于 2010-05-13，HTTP 200。老式免费游戏链接集，页面在募集相互链接。可尝试交换，但属于传统互链目录，质量一般，只作为补充，不要当成主渠道。
 個人dev,kojin.dev,https://kojin.dev/,JA / 日本,目录站,2020-06-25,未知,免费,作品投稿页,All,可用-有门槛,Google Registry RDAP 注册于 2020-06-25，不是新域名。本机 HTTPS 握手失败，WebFetch 曾返回 504；公开检索仍能看到「个人开发应用告知/宣传」定位。提交前需再打开确认站点是否稳定。
 窓の杜,impress.co.jp,https://forest.watch.impress.co.jp/info/sakusya/sakusya1.html,JA / 日本,博客与内容,未知,200,免费,评测/作者页,All,可用-有门槛,JPRS 对 impress.co.jp 的「登録年月日」为空，仅有「接続年月日」2011-07-07，故创建时间记为未知；HTTP 200。官方说明软件库由编辑部选型后征得作者同意收录，不是开放自助提交。适合作为长期争取评测的渠道，不要群发。
+BabyHome,babyhome.com.tw,https://www.babyhome.com.tw/,ZH-TW / 台湾,论坛,2002-10-24,200,免费,帖子正文,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，TWNIC RDAP 注册于 2002-10-24。台湾亲子论坛，须用繁体中文在相关话题分享，避免广告口吻。适合 Chartseat、OnlinePollMaker。
 freegroup.org（免費資源網舊域）,freegroup.org,https://freegroup.org/,ZH-TW / 台湾,博客与内容,2006-08-13,200,免费,评测页,All,可用-有门槛,PIR RDAP 注册于 2006-08-13，HTTP 200 并 301/跳转到 https://free.com.tw/。这是免費資源網的旧域名，不必当作独立渠道再提交一次，发自荐请直接走 free.com.tw。
 Mobile01,mobile01.com,https://www.mobile01.com/topiclist.php?f=334,ZH-TW / 台湾,论坛,2003-02-25,403,免费,帖子正文,PuzzleBento,可用-有门槛,RDAP 注册于 2003-02-25。本机 HTTP 403，但公开检索能打开「网页游戏」板，且 2026 年仍有开发者发布免费网页游戏并附链接。规则同样忌硬广，发帖前用常规浏览器登录确认板规。
+Parenting 亲子天下,parenting.com.tw,https://www.parenting.com.tw/,ZH-TW / 台湾,博客与内容,2008-06-02,403 (Cloudflare),未知,评论 / 投稿,"Chartseat, OnlinePollMaker",可用-有门槛,脚本遇到 HTTP 403（防护），TWNIC RDAP 注册于 2008-06-02。台湾亲子天下媒体仍然在线，以编辑稿为主，公开投稿通道未确认。
 T客邦,techbang.com,https://www.techbang.com/,ZH-TW / 台湾,博客与内容,2005-07-12,200,免费,评测页,All,可用-有门槛,RDAP 注册于 2005-07-12，HTTP 200。台湾科技媒体，以编辑采写为主，没有面向独立开发者的自助目录。可尝试新闻稿/自荐，不保证刊登。
 免費資源網,free.com.tw,https://free.com.tw/about/,ZH-TW / 台湾,博客与内容,2002-08-30,200,免费,评测页,All,可用-有门槛,TWNIC RDAP 注册于 2002-08-30，HTTP 200。站长 Pseric 自 2006 年运营。关于页写明「免费自荐会视情况介绍」，付费合作另见商业合作页；联系 info@free.com.tw 或联络表单。适合工具站（发票、投票、座位表、小工具、解谜合集）逐个自荐，不保证刊登。
 小惡魔,xfastest.com,https://www.xfastest.com/,ZH-TW / 台湾,论坛,2006-08-03,200,免费,帖子正文,All,可用-有门槛,RDAP 注册于 2006-08-03，HTTP 200。台湾硬体/科技论坛兼评测站，可在合适子板讨论或分享，但硬广会被清理。更适合硬体周边，工具/网页游戏需选对版面并写成分享而非广告。
@@ -148,21 +225,82 @@ Golem.de Autorenplattform,golem.de,https://www.golem.de/specials/autorenplattfor
 gutefrage.net,gutefrage.net,https://www.gutefrage.net/registrieren,DE / 德语区,论坛,2006-01-30,403 (Cloudflare),免费,回答正文 / 个人资料页,All,可用-有门槛,脚本遇到 Cloudflare 403，注册入口仍可检索，RDAP 显示 2006 年域名。德语问答社区，只适合在婚礼座位、发票、在线投票等相关问题下写德语经验答，禁止纯广告。
 Heise Forum,heise.de,https://www.heise.de/forum/,DE / 德语区,论坛,未知,200（Friendly Guard 验证页）,免费,帖子正文 / 评论,All,可用-有门槛,入口返回验证页，站点本身仍在。DENIC 无注册年。老牌德语科技媒体评论/论坛，适合谈工具或技术，编辑与版规对自我推广较严。
 Informatik Aktuell,informatik-aktuell.de,https://www.informatik-aktuell.de/ueber-uns/autoren.html,DE / 德语区,博客与内容,未知,200,免费,投稿文章,All,可用-有门槛,杂志与作者介绍页可访问。DENIC 无注册年。开放获取 IT 专业媒体，未见完全自助投稿表，需联系编辑；只适合高质量德语技术文章，不是产品目录。
+janko.at,janko.at,https://www.janko.at/Raetsel/,DE / 德语区,游戏社区,未知,200,未知,目录/谜题页,PuzzleBento,可用-有门槛,谜题页 HTTP 200。nic.at WHOIS/RDAP 本次未返回创建日期，故标未知，未编造年份。奥地利著名逻辑谜题站，以编辑收录为主，本次未确认是否接受外部站点自助提交，费用标未知。高匹配但不要当作开放目录。
 Logic Masters Forum,logic-masters.de,https://forum.logic-masters.de/,DE / 德语区,游戏社区,未知,200,免费,帖子正文,PuzzleBento,可用-有门槛,论坛 200。DENIC RDAP/WHOIS 不提供注册日期，故标未知（第 1 批英语区已录同一论坛）。德语逻辑谜题社区，竞赛等板块也欢迎英文帖；只适合讨论/分享逻辑谜题，不要发工具站广告。 第 1 批英语区已录同一论坛，总库只保留一行，语区归德语区（部分板块欢迎英文）。
 Mastodon (chaos.social),chaos.social,https://chaos.social/auth/sign_up,DE / 德语区,社交媒体,2017-04-12,200/418,免费,帖子正文 / 个人资料页,All,可用-有门槛,首轮注册页返回登录标题，后续请求出现 418。该实例新注册通常关闭或仅限邀请，不适合当作开放注册渠道；已有账号才能用。
 Netzwelt,netzwelt.de,https://www.netzwelt.de/,DE / 德语区,目录站,未知,200,未知,需联系编辑,All,可用-有门槛,首页 200。德语科技评测/下载媒体仍在，但本次未找到面向普通用户的免费提交表。外链机会取决于编辑，不适合当作开放目录。DENIC 无注册年。
 PCGH Extreme,pcgameshardware.de,https://extreme.pcgameshardware.de/,DE / 德语区,论坛,未知,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,社区首页 200。DENIC 无注册年。PC Games Hardware 玩家论坛，适合硬件/游戏相关德语讨论，不要直接贴工具站广告。
 Spieleforum.de,spieleforum.de,https://www.spieleforum.de/,DE / 德语区,游戏社区,未知,200,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,论坛首页 200。DENIC 不公开注册年。综合游戏论坛仍可打开，但需用德语发与游戏相关的讨论，不宜当广告板；活跃度需发帖前再看板块最近回复。
+3DJuegos,3djuegos.com,https://www.3djuegos.com/,ES / 西班牙语区,游戏社区,2003-11-04,200,免费,帖子正文 / 评论,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2003-11-04。西语游戏媒体与社区，评论或论坛需西语且通常不接受纯投稿目录，适合 PuzzleBento 相关讨论而非硬广。
+ADSLZone,adslzone.net,https://foro.adslzone.net/,ES / 西班牙语区,论坛,2003-09-18,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛入口 HTTP 200，RDAP 注册于 2003-09-18。西班牙网络与科技论坛，2026 年仍活跃。只适合相关技术讨论，禁止广告帖。
+Bodas.net,bodas.net,https://www.bodas.net/,ES / 西班牙语区,论坛,2002-05-20,403,未知,帖子正文 / 个人资料页,Chartseat,可用-有门槛,脚本遇到 HTTP 403，RDAP 注册于 2002-05-20。西语区婚礼平台（与 WeddingWire 同系）。新人讨论或资料页或可留链，供应商展示常有商业套餐，本次未能确认完全免费的商家入驻通道，故标有门槛、费用未知。适合 Chartseat。
+Burbuja.info,burbuja.info,https://www.burbuja.info/,ES / 西班牙语区,论坛,2003-12-01,200,免费,帖子正文,"InvoiceNeat, OnlinePollMaker, Chartseat",可用-有门槛,首页 HTTP 200，RDAP 注册于 2003-12-01。西语经济/生活论坛，对广告通常较严，仅适合发票、投票等工具的真实使用经验分享。
+ElOtroLado,elotrolado.net,https://www.elotrolado.net/,ES / 西班牙语区,游戏社区,2000-02-05,200,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2000-02-05。西班牙老牌游戏论坛，2026 年仍在更新。须用西班牙语在相关板块讨论或完善资料页，禁止硬广，适合 PuzzleBento 相关分享。
+ForoCoches,forocoches.com,https://www.forocoches.com/,ES / 西班牙语区,论坛,2003-01-15,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2003-01-15。超大型西语综合论坛。注册入口常周期性关闭或设限，对自我推广很严，不要直接发产品贴；仅在相关讨论里谨慎提及。未能证实必须付费才能注册，故不标排除-付费。
+Foros del Web,forosdelweb.com,https://www.forosdelweb.com/,ES / 西班牙语区,论坛,2000-10-17,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2000-10-17。西班牙语 Web 开发论坛，适合用西语写工具站使用经验；须先参与讨论，避免纯推广贴。
+Hispasonic,hispasonic.com,https://www.hispasonic.com/,ES / 西班牙语区,论坛,2002-01-08,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2002-01-08。西语音频与创作社区。与五站主题交集有限，仅在相关创作讨论或资料页谨慎留链。
+Mediavida,mediavida.com,https://www.mediavida.com/foro/,ES / 西班牙语区,游戏社区,2004-05-02,429,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,论坛页返回 429（反爬），RDAP 注册于 2004-05-02。西班牙综合/游戏论坛，有开发相关讨论。须注册并用西班牙语发相关帖，不要灌广告。本机 429 不单独视为停服。
+Menéame,meneame.net,https://www.meneame.net/,ES / 西班牙语区,论坛,2005-11-30,403 (Cloudflare),免费,帖子正文,All,可用-有门槛,首页 HTTP 403（防护），RDAP 注册于 2005-11-30。西班牙新闻聚合，类似旧式挖新闻，用户可提交链接但禁止纯广告，需有可读内容并可能被社区投票。
+Minijuegos,minijuegos.com,https://www.minijuegos.com/,ES / 西班牙语区,目录站,2002-10-30,200,免费,平台托管,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2002-10-30。西语网页游戏门户。通常以平台托管试玩为主，不保证能外链回 puzzlebento.com，且可能有技术或分成要求，需读清上传条款后再决定。
+Rankia,rankia.com,https://www.rankia.com/,ES / 西班牙语区,论坛,2000-06-01,200,免费,帖子正文,"InvoiceNeat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 2000-06-01。西语金融理财社区，仅适合发票/投票等与理财工作流相关的经验帖，禁止无关推广。
+RedesZone,redeszone.net,https://www.redeszone.net/,ES / 西班牙语区,论坛,2010-09-29,200,免费,评论 / 需核实论坛,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2010-09-29。西语网络科技媒体/社区，以编辑内容为主，用户评论区或可留自然提及，不是自助目录。
+Softonic,softonic.com,https://en.softonic.com/,ES / 西班牙语区,目录站,2000-01-28,412,未知,软件条目,All,可用-有门槛,本次脚本返回 HTTP 412（防护），RDAP 注册于 2000-01-28。西班牙起家的软件目录，站点仍在。网页工具是否可自助提交、是否免费均未在公开页确认，故费用标未知，不进入优先提交表。
+Todoexpertos,todoexpertos.com,https://www.todoexpertos.com/,ES / 西班牙语区,论坛,2000-04-08,200,免费,回答正文 / 个人资料页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2000-04-08。西语问答社区，可在相关问题下用西语作答并在资料页留链，不要把回答写成纯广告。
+Xataka,xataka.com,https://www.xataka.com/,ES / 西班牙语区,博客与内容,2004-07-26,200,未知,评论 / 需核实投稿,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2004-07-26。西语科技媒体，以编辑稿为主，公开投稿通道未确认，评论区不是稳定外链渠道。
+Everyeye,everyeye.it,https://www.everyeye.it/,IT / 意大利语区,游戏社区,2001-02-16,200,免费,评论 / 论坛,PuzzleBento,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2001-02-16。意大利游戏媒体，以编辑和评论为主，不是自助目录，仅可在相关评论或社区谨慎提及。
+GameLoop.it,gameloop.it,https://forum.gameloop.it/,IT / 意大利语区,游戏社区,未知,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,论坛与首页 HTTP 200。NIC.it / RDAP 本次未返回创建日期，故标未知，未编造年份。意大利游戏开发社区，有项目展示区，适合 PuzzleBento 用意大利语介绍作品。
+Hardware Upgrade,hwupgrade.it,https://www.hwupgrade.it/forum/,IT / 意大利语区,论坛,1998-11-03,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛入口 HTTP 403（防护），whois.com 显示注册于 1998-11-03。意大利硬件与科技论坛。须意大利语讨论，禁止硬广。
+HTML.it Forum,html.it,https://forum.html.it/,IT / 意大利语区,论坛,1998-08-05,403,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛入口 HTTP 403（防护），whois.com 显示注册于 1998-08-05。意大利语 Web 开发论坛仍然在线。须用意大利语参与讨论，适合工具站使用经验，不要发纯广告帖。
+IlSoftware.it,ilsoftware.it,https://www.ilsoftware.it/,IT / 意大利语区,目录站,2000-12-04,200,未知,软件条目 / 需核实提交,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2000-12-04。意大利软件与教程站，是否接受网页工具自助提交未确认，费用标未知。
+Italia Browser Game,forumfree.it,https://italiabrowsergame.forumfree.it/,IT / 意大利语区,游戏社区,2003-11-13,200,免费,帖子正文,PuzzleBento,可用-有门槛,社区页 HTTP 200，whois.com 显示 forumfree.it 注册于 2003-11-13。本行对应 Italia Browser Game（https://italiabrowsergame.forumfree.it/），有介绍站点板块，2026 年仍可见新帖，也有较旧子板。须用意大利语介绍网页游戏，不要群发工具站。
+Matrimonio.com,matrimonio.com,https://www.matrimonio.com/,IT / 意大利语区,论坛,1998-01-19,403,未知,帖子正文 / 个人资料页,Chartseat,可用-有门槛,脚本 HTTP 403，RDAP 注册于 1998-01-19。意大利语婚礼平台（与 Bodas.net 同系）。讨论区或资料页或可留链，供应商套餐是否免费未确认，费用标未知。适合 Chartseat。
+Multiplayer.it,multiplayer.it,https://multiplayer.it/forum/,IT / 意大利语区,游戏社区,1999-02-03,200,免费,帖子正文,PuzzleBento,可用-有门槛,页面 HTTP 200，whois.com 显示注册于 1999-02-03。意大利游戏媒体论坛，适合用意大利语讨论网页游戏，不适合无关工具站硬广。
+SpazioGames,spaziogames.it,https://www.spaziogames.it/,IT / 意大利语区,游戏社区,2000-05-29,200,免费,评论 / 论坛,PuzzleBento,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2000-05-29。意大利游戏媒体社区，同样以编辑内容为主，适合相关讨论而非投稿目录。
+Tom's Hardware Italia,tomshw.it,https://www.tomshw.it/,IT / 意大利语区,论坛,2002-11-26,200,免费,评论 / 论坛,All,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2002-11-26。意大利科技媒体，用户投稿通道未作为目录开放，仅评论或论坛可谨慎留自然提及。
+Bright,bright.nl,https://www.bright.nl/,NL / 荷兰语区,博客与内容,1997-09-26,200,未知,评论,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 1997-09-26。荷兰科技媒体，同样以编辑内容为主，不是自助目录。
+Computable,computable.nl,https://www.computable.nl/,NL / 荷兰语区,博客与内容,1997-04-17,200,未知,评论 / 需核实投稿,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 1997-04-17。荷兰 IT 专业媒体，以编辑稿为主，公开投稿通道未确认。
+FOK!,fok.nl,https://forum.fok.nl/,NL / 荷兰语区,论坛,2003-10-20,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛 HTTP 200，RDAP 注册于 2003-10-20。大型荷兰综合论坛，2026-11 仍有大量新帖。须荷兰语交流，禁止硬广。
+Hardware.info,hardware.info,https://nl.hardware.info/,NL / 荷兰语区,论坛,2001-07-31,200,免费,帖子正文 / 评论,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2001-07-31。荷兰硬件评测与社区，以硬件讨论为主，工具站仅在相关话题谨慎提及。
+Higherlevel,higherlevel.nl,https://www.higherlevel.nl/,NL / 荷兰语区,论坛,2002-04-10,200,免费,帖子正文 / 个人资料页,"InvoiceNeat, OnlinePollMaker, Chartseat",可用-有门槛,首页 HTTP 200，RDAP 注册于 2002-04-10。荷兰创业者/中小企业论坛，近年仍有发票、获客等讨论。禁止硬广，适合 InvoiceNeat、OnlinePollMaker、Chartseat 用荷兰语分享工作流。
+Mastodon.nl,mastodon.nl,https://mastodon.nl/auth/sign_up,NL / 荷兰语区,社交媒体,2013-09-10,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,注册页 HTTP 200，标题为 Sign up；实例 API 显示 registrations.enabled=true，但 approval_required 与 reason_required 均为 true，需填写理由并等待审核。RDAP 注册于 2013-09-10。荷兰语实例，通过后资料页和嘟文可留链。
+Scholieren.com,scholieren.com,https://www.scholieren.com/,NL / 荷兰语区,论坛,1998-07-24,200,免费,帖子正文,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 1998-07-24。荷兰学生社区。课堂投票或座位表仅在真正相关的讨论里用荷兰语分享，避免向未成年人板块做广告式发帖。
+Startpagina,startpagina.nl,https://www.startpagina.nl/,NL / 荷兰语区,目录站,1998-09-15,200,未知,目录条目,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 1998-09-15。荷兰老牌导航站。本次未在公开页确认是否仍开放免费申请收录，故费用标未知，不进入优先提交表。
+Tweakers Gathering,tweakers.net,https://gathering.tweakers.net/,NL / 荷兰语区,论坛,1999-02-04,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,Gathering 入口 HTTP 200，RDAP 注册于 1999-02-04。荷兰最大科技社区之一，2026-11 仍非常活跃。须用荷兰语讨论，对广告和推广帖很严，只适合真实使用经验。
+Familjeliv,familjeliv.se,https://www.familjeliv.se/,SV / 瑞典,论坛,2006-06-28,200,免费,帖子正文,"Chartseat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2006-06-28。瑞典家庭生活论坛，婚礼/学校话题可能与 Chartseat、OnlinePollMaker 相关，须瑞典语并避免广告口吻。
+Flashback,flashback.org,https://www.flashback.org/,SV / 瑞典,论坛,1997-06-16,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 1997-06-16。瑞典最大论坛之一，对广告和商业链接很严，须用瑞典语讨论，不要发产品贴。
+FZ.se,fz.se,https://www.fz.se/,SV / 瑞典,游戏社区,2006-08-22,200,免费,帖子正文 / 评论,PuzzleBento,可用-有门槛,首页 HTTP 200，whois.com 显示注册于 2006-08-22。瑞典游戏社区 FZ/Fragbite，适合用瑞典语讨论网页游戏，不适合无关工具站。
+Svenska Spelutvecklingssällskapet,svenskspelutveckling.se,https://www.svenskspelutveckling.se/,SV / 瑞典,游戏社区,未知,error,未知,社区/Discord,PuzzleBento,可用-有门槛,本次 HTTPS 出现 SSL 异常、HTTP 回退 500，IIS RDAP/WHOIS 也未返回创建日期，一律标未知，未编造年份。公开资料称瑞典游戏开发协会主阵地在 Discord，网站探测不稳定，暂不优先投放，恢复访问后再复查。
+Sweclockers,sweclockers.com,https://www.sweclockers.com/forum,SV / 瑞典,论坛,1999-12-21,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,论坛 HTTP 200，RDAP 注册于 1999-12-21。瑞典硬件与科技论坛，须瑞典语，禁止硬广。
+Swedroid,swedroid.se,https://swedroid.se/forum/,SV / 瑞典,论坛,2009-05-11,200,免费,帖子正文,All,可用-有门槛,论坛 HTTP 200，whois.com 显示注册于 2009-05-11。瑞典 Android/科技论坛，主题较窄，仅在相关讨论谨慎留链。
+Spiludvikling.dk,spiludvikling.dk,https://spiludvikling.dk/,DA / 丹麦,游戏社区,未知,200,免费,作品展示板块 / 帖子正文,PuzzleBento,可用-有门槛,首页 HTTP 200。Punktum/DK Hostmaster 本次未返回创建日期，故标未知，未编造年份。丹麦游戏开发论坛，2026-11 仍有 Showcase 新帖，适合 PuzzleBento 用丹麦语或英语介绍作品，不要群发工具站。
+Diskusjon.no,diskusjon.no,https://www.diskusjon.no/,NO / 挪威,论坛,2022-12-08,403 (Cloudflare),免费,帖子正文 / 个人资料页,All,可用-有门槛,脚本遇到 HTTP 403（防护），RDAP 注册于 2022-12-08（早于 2024，不按新域名排除）。挪威综合科技论坛，须挪威语讨论，禁止硬广。
+Kvinneguiden,kvinneguiden.no,https://www.kvinneguiden.no/,NO / 挪威,论坛,2012-02-21,200,免费,帖子正文,Chartseat,可用-有门槛,首页 HTTP 200，RDAP 注册于 2012-02-21。挪威女性/生活论坛，婚礼话题可能相关，须挪威语，禁止硬广。
+SpillNorge,spillnorge.no,https://www.spillnorge.no/,NO / 挪威,游戏社区,2023-06-18,200,免费,作品展示板块,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2023-06-18（早于 2024）。挪威游戏社区，可添加游戏但公开说明优先挪威作品，外链规则需在注册后确认，不作为第一批必交项。
+Tek.no,tek.no,https://www.tek.no/,NO / 挪威,论坛,2017-08-29,200,未知,评论 / 论坛,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2017-08-29。挪威科技媒体与讨论，编辑内容为主，用户发链能力有限。
+Suomi24,suomi24.fi,https://www.suomi24.fi/,FI / 芬兰,论坛,2008-09-23,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2008-09-23。芬兰大型综合论坛，须芬兰语，对广告较严。
+Vauva.fi,vauva.fi,https://www.vauva.fi/,FI / 芬兰,论坛,2007-09-14,200,免费,帖子正文,Chartseat,可用-有门槛,首页 HTTP 200，RDAP 注册于 2007-09-14。芬兰家庭/育儿论坛，仅适合与家庭活动、座位安排相关的自然讨论。
+TugaTech,tugatech.com.pt,https://www.tugatech.com.pt/,PT / 葡萄牙,论坛,未知,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200。.pt WHOIS/RDAP 未返回创建日期，标未知。葡萄牙科技论坛，须葡萄牙语讨论，禁止硬广。
+Arca.live,arca.live,https://arca.live/,KO / 韩国,论坛,2020-07-30,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2020-07-30。韩国频道式社区，实名与发链规则需注册后确认，海外使用门槛较高。
+Blind,teamblind.com,https://www.teamblind.com/,KO / 韩国,论坛,2013-05-01,200,免费,帖子正文,"InvoiceNeat, OnlinePollMaker",可用-有门槛,首页 HTTP 200，RDAP 注册于 2013-05-01。职场匿名社区，通常需公司邮箱认证才能发帖，适合 InvoiceNeat 等工作流讨论，不适合普通产品广告。
 Brunch,brunch.co.kr,https://brunch.co.kr/,KO / 韩国,博客与内容,2005-07-29,200,免费,文章正文,All,可用-有门槛,首页 200，域名 2005 年。Kakao 写作平台，需先申请成为作家，不是即时发文；会员结算等还可能要求韩国手机和账户实名。只适合有能力过审的韩语长文，不适合当目录站。
 Clien,clien.net,https://www.clien.net/service/auth/join,KO / 韩国,论坛,2001-10-26,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,注册页 200，明确写「一般会员需 14 岁以上本人认证」；企业会员还要另申「直接宣传板」并等候批准。海外用户没有韩国身份认证很难注册，不适合作为第一批可立即发链的渠道。
+Daum,daum.net,https://www.daum.net/,KO / 韩国,博客与内容,1996-03-05,200,免费,博客/Cafe,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 1996-03-05。Kakao 旗下门户，Cafe/博客可能需韩国账号或手机验证，海外用户容易卡住，不要当作第一批。
 Disquiet,disquiet.io,https://disquiet.io/,KO / 韩国,目录站,2021-02-11,200,免费,产品发布页 / 帖子正文,All,可用-有门槛,首页 200，RDAP 注册于 2021-02-11。韩国产品发布社区，检索称可用邮箱或 Google 注册，未见强制韩国手机号；但需用韩语介绍自己做的产品，并经过审核，不能刷无关链接。
+FMKorea,fmkorea.com,https://www.fmkorea.com/,KO / 韩国,论坛,2001-03-06,430,免费,帖子正文,All,可用-有门槛,本次返回 HTTP 430，标题为「에펨코리아 보안 시스템」（安全防护页），不单独视为停服。RDAP 注册于 2001-03-06。韩国综合社区，发链和海外注册门槛较高，不作为第一批。
+GameMeca,gamemeca.com,https://www.gamemeca.com/,KO / 韩国,游戏社区,2000-03-19,200,未知,评论,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2000-03-19。韩国游戏媒体，以编辑评论为主。
 GeekNews,hada.io,https://news.hada.io/start,KO / 韩国,论坛,2019-05-22,200,免费,帖子正文 / Show,All,可用-有门槛,入门页 200，RDAP 注册于 2019-05-22。官方写明阅读无需注册，发帖/评论/投票需加入；可在 Show 介绍自己做的服务或开源项目，新账号部分功能会被限制一段时间。须用韩语，禁止反复刷同一项目。未见强制实名。
+Instiz,instiz.net,https://www.instiz.net/,KO / 韩国,论坛,2009-08-03,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2009-08-03。韩国娱乐/综合社区，海外用户常遇到实名或手机验证，发链环境一般。
 Inven,inven.co.kr,https://www.inven.co.kr/,KO / 韩国,游戏社区,2004-10-06,200,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,首页 200，2004 年域名。官方曾说明可用 Naver/Kakao 认证代替直接手机认证，但这两类账号本身对海外用户仍常有门槛。适合韩语游戏讨论，不适合硬广工具站。
 Naver Blog,naver.com,https://nid.naver.com/account/signup/term,KO / 韩国,博客与内容,1997-09-12,200（注册页）/ 500（blog.naver.com 脚本失败）,免费,博客正文,All,可用-有门槛,Naver 注册页 200 且文案含本人认证/实名；blog.naver.com 本次脚本返回 500，但平台本身仍在。海外用户通常必须有韩国手机号或 i-PIN 才能完成通信实名，没有韩国身份几乎无法新开博客。
 OKKY,okky.kr,https://okky.kr/signup,KO / 韩国,论坛,2014-09-29,200,免费,帖子正文 / 个人资料页,All,可用-有门槛,注册页 200，RDAP 显示 2014 年域名。韩国开发者社区，有单独的推广板块；发促销/产品介绍通常比普通讨论更严，须用韩语并先读版规，适合技术向分享而非硬广。
 Ppomppu,ppomppu.co.kr,https://www.ppomppu.co.kr/,KO / 韩国,论坛,2005-11-13,403,免费,帖子正文,All,可用-有门槛,脚本 403，站点仍在，RDAP 显示 2005 年域名。公开资料称社交登录后还要用 Toss 认证书、i-PIN 或手机认证才能转成正式会员，海外基本需要韩国身份。发链环境也偏严。
 Ruliweb,ruliweb.com,https://www.ruliweb.com/,KO / 韩国,游戏社区,2000-04-10,200,免费,帖子正文 / 个人资料页,PuzzleBento,可用-有门槛,首页 200，2000 年域名。综合/游戏社区，公开资料提到普通注册或 Naver/Apple 登录，但海外用户仍常遇到韩国手机认证。发链须用韩语并走相关游戏讨论，广告帖容易被删。
+TheQoo,theqoo.net,https://theqoo.net/,KO / 韩国,论坛,2012-11-29,200,免费,帖子正文,All,可用-有门槛,首页 HTTP 200，RDAP 注册于 2012-11-29。韩国综合论坛。海外注册与实名要求需在注册流程中确认，发链须用韩语并遵守版规，不要当作第一批。
+ThisIsGame,thisisgame.com,https://www.thisisgame.com/,KO / 韩国,游戏社区,2004-04-01,200,未知,评论 / 论坛,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2004-04-01。韩国游戏媒体，以编辑和评论为主，不是自助游戏目录。
 Tistory,tistory.com,https://www.tistory.com/,KO / 韩国,博客与内容,2005-10-01,200,免费,博客正文,All,可用-有门槛,首页 200，2005 年域名。须用 Kakao 账号登录开博；新建 Kakao 账号常要邮箱或电话验证，海外用户可能卡住。开博后可免费写韩语文章并留链。
+Todayhumor,todayhumor.co.kr,https://www.todayhumor.co.kr/,KO / 韩国,论坛,1999-10-20,403 (Cloudflare),免费,帖子正文,All,可用-有门槛,脚本遇到 HTTP 403（防护），KRNIC RDAP 显示注册于 1999-10-20。韩国幽默/综合论坛仍然在线，通常有实名门槛，不优先投放。
+Tumblbug,tumblbug.com,https://tumblbug.com/,KO / 韩国,目录站,2011-01-24,200,未知,项目页,PuzzleBento,可用-有门槛,首页 HTTP 200，RDAP 注册于 2011-01-24。韩国文创/游戏众筹，用法与 Wadiz 类似，非日常目录，费用标未知。
+Wadiz,wadiz.kr,https://www.wadiz.kr/,KO / 韩国,目录站,2022-08-26,403,未知,项目页,All,可用-有门槛,脚本遇到 HTTP 403 Access Denied。KRNIC RDAP 的 registration 事件为 2022-08-26（早于 2024）。韩国众筹平台，适合有正式活动时上线，不是日常发链目录，佣金/收费未记录，费用标未知。
 All Daily Puzzles,alldailypuzzles.com,https://alldailypuzzles.com/submit/,EN / US-Global,目录站,2026-11-13,200,免费,目录条目,PuzzleBento,排除-新域名/低流量,本次补查域名创建时间为 2026-11-13。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：Listing is free，但仅接受有每日轮换的游戏。
 Best Digital Launch,bestdigitallaunch.com,https://bestdigitallaunch.com/submit,EN / US-Global,目录站,2026-09-21,200,免费,产品发布页,All,排除-新域名/低流量,本次补查域名创建时间为 2026-09-21。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：免费档需挂徽章并填创始人资料；另有 $5 付费档。
 Edgepedia,edgepedia.org,https://www.edgepedia.org/,EN / US-Global,目录站,2026-09-15,200,未知,百科条目,PuzzleBento,排除-新域名/低流量,本次补查域名创建时间为 2026-09-15。属于 2024 年及之后注册的新域名，按规则从可提交清单降级，暂不作为优先投放。官方提交页本次 HTTP 200，既有调研仍显示存在免费通道或相关页面，但需等域名变老后再复查。其他原说明：有竞品引用，但条目自写，没有开放投稿入口。
@@ -180,6 +318,7 @@ izanami,izanami.dev,https://izanami.dev/,JA / 日本,目录站,2024-05-30,200,�
 Puzzlebyrinth（パズルラビリンス）,puzzlebyrinth.com,https://puzzlebyrinth.com/community,JA / 日本,博客与内容,2025-01-22,200,免费,评测页,PuzzleBento,排除-新域名/低流量,RDAP 注册于 2025-01-22，不足两年，按新域名标准暂不列入投放。站点 HTTP 200，宣称免费接收浏览器解谜投稿并由编辑写多语言评测、可链回游戏页，2027 年后可再复查。
 個人開発.com,kojin-kaihatsu.com,https://kojin-kaihatsu.com/,JA / 日本,目录站,2026-06-03,200,免费,作品投稿页,All,排除-新域名/低流量,RDAP 注册于 2026-06-03，距核验日不足半年，按新域名标准不列入投放清单。站点本身 HTTP 200 且在展示个人开发作品，以后域名变老可再复查。
 造遊所 GameMint,gamemint.tw,https://gamemint.tw/submit,ZH-TW / 台湾,游戏社区,2026-08-29,200,免费,作品投稿页,PuzzleBento,排除-新域名/低流量,TWNIC RDAP 注册于 2026-08-29，域名非常新，按标准暂不投放。站点 HTTP 200，提交页写明免注册、不抽成、不绑独家，接受纯前端 HTML5 ZIP。以后域名变老可再评估；当前若投稿也多半是站内游玩而非外链。
+Underskog,underskog.no,https://underskog.no/,NO / 挪威,社交媒体,2025-04-15,200,免费,帖子正文,All,排除-新域名/低流量,RDAP 显示域名注册于 2025-04-15，首页 HTTP 200。Underskog 虽是挪威老牌社区，但当前注册域名落在 2024 年之后，按规则标排除-新域名/低流量，暂不作为优先投放，等域名变老后再复查。
 PLAYINIT,playinit.net,https://playinit.net/guides/game-registration,KO / 韩国,目录站,2026-03-09,200,免费,作品展示板块,PuzzleBento,排除-新域名/低流量,游戏注册指南页 200，可用邮箱或 Google/Kakao/Discord 登录并上传网页游戏，但 RDAP 显示域名 2026-03-09 才注册，按本库规则作新域名排除，仅作记录备查。
 여울게임터 (Yeoul Game),yeoulgame.com,https://yeoulgame.com/,KO / 韩国,目录站,2026-09-13,200,免费,作品展示板块,PuzzleBento,排除-新域名/低流量,首页 200，可上传 HTML 或填写游戏网址，2026-11 仍有更新，但 RDAP 显示域名 2026-09-13 才注册，按规则作新域名排除，暂不列入可执行清单。
 BetaList,betalist.com,https://betalist.com/,EN / US-Global,目录站,2007-01-14,200,付费,产品发布页,All,排除-付费,本次补查域名创建时间为 2007-01-14。既有目录说明：未能作为已确认免费通道列入提交表，需以官方现价为准。
@@ -213,8 +352,10 @@ Folkd,folkd.com,https://www.folkd.com/,EN / US-Global,书签与资料页,2005-11
 Slant,slant.co,https://www.slant.co/,EN / US-Global,目录站,2010-07-24,526,未知,目录条目,All,排除-垃圾站/死站,本次补查域名创建时间为 2010-07-24。注册日期来自 CentralNic WHOIS（whois.com 原文 Creation Date 2010-07-24）。本次首页 HTTP 526（SSL 证书无效），维持排除。 上次请求返回 526，暂视为不可用。
 The Knot Forums,theknot.com,https://forums.theknot.com/discussion/1094673/goodbye-to-the-knot-forums,EN / US-Global,论坛,1996-06-25,403 (Cloudflare),免费,帖子正文,Chartseat,排除-垃圾站/死站,官方告别帖宣布论坛自 2026-11-03 只读，并将于 2026-12-01 下线。域名虽老，但作为发帖渠道已经关闭，不要再投入时间。
 教えて!goo,goo.ne.jp,https://oshiete.goo.ne.jp/,JA / 日本,论坛,2004-06-15,未知,免费,帖子正文,All,排除-垃圾站/死站,JPRS 显示 goo.ne.jp 注册于 2004-06-15。本机 HTTPS 握手失败，HTTP 访问返回 500。公开检索可见 goo 帮助中心 2025-09-17 更新的「教えて!goo 服务终了」公告，已不能再发帖，无需再试。
+Xuite,xuite.net,https://blog.xuite.net/,ZH-TW / 台湾,博客与内容,2004-12-13,error,免费,博客正文,All,排除-垃圾站/死站,RDAP 显示 xuite.net 注册于 2004-12-13，但本次 HTTPS 探测 SSL 失败。公开报道写明 Yahoo 奇摩「Xuite 隨意窩」已于 2023-08-31 终止服务并删除资料，不再作为可提交渠道。
 伊莉討論區,eyny.com,https://www.eyny.com/,ZH-TW / 台湾,论坛,2003-08-29,403,免费,帖子正文,All,排除-垃圾站/死站,RDAP 注册于 2003-08-29。本机 HTTP 403，公开检索显示论坛仍在运转。长期以资源区和广告、付费会员争议闻名，页面质量低，外链价值差且有垃圾站风险，不建议投放。部分功能还需付费会员。
 卡提諾論壇,ck101.com,https://ck101.com/,ZH-TW / 台湾,论坛,2004-12-30,未知,免费,帖子正文,All,排除-垃圾站/死站,RDAP 注册于 2004-12-30。本机 HTTPS 出现异常，curl 可见 302。与伊莉类似，广告和资源区质量低，不建议作为正规外链渠道。另有 ck101.tw（2022-01-05 注册）探测失败，也不单独投放。
 卡提諾論壇（ck101.tw）,ck101.tw,https://ck101.tw/,ZH-TW / 台湾,论坛,2022-01-05,未知,免费,帖子正文,All,排除-垃圾站/死站,TWNIC RDAP 注册于 2022-01-05。本机 TLS 失败，未能确认该镜像/新域是否稳定可用。即便可访问，也与 ck101.com 同属质量较差的论坛体系，不建议投放。
 Gamekult,gamekult.com,https://www.gamekult.com/,FR / 法语区,游戏社区,2000-10-05,200,免费,已无用户发帖渠道,PuzzleBento,排除-垃圾站/死站,媒体首页 200，域名 2000 年仍在运营，但社区页 /communaute.html 返回 410 Gone，论坛入口 404。已无普通用户发帖或提交游戏的渠道，不要再投入。
 Freewarepage,freewarepage.de,http://www.freewarepage.de/anmeldung.shtml,DE / 德语区,目录站,未知,500,未知,软件/工具条目,"InvoiceNeat, OnlinePollMaker, Chartseat, PuzzleBento",排除-垃圾站/死站,登记页与首页 HTTP 均返回 500，本次无法打开。DENIC 无注册年。在恢复访问前不要再提交。
+Bruiloftsite Trouwforum,bruiloftsite.nl,http://www.bruiloftsite.nl/forum/,NL / 荷兰语区,论坛,2004-04-29,500,未知,帖子正文,Chartseat,排除-垃圾站/死站,RDAP 显示 bruiloftsite.nl 注册于 2004-04-29。原论坛入口 http://www.bruiloftsite.nl/forum/ 返回 HTTP 500；https 首页证书不匹配，忽略证书后页面正文仅有 “is functioning normally”，已不是可用的婚礼论坛，按死站排除。

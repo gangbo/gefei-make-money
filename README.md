@@ -53,13 +53,13 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 ├── 04-validation/        实验索引、脚本、样本与复盘
 ├── projects/             已有产品、经营数据和口述记录
 ├── operations/           运营经验、推广与历史外链社区榜单
-├── backlinks/            2026-11-20 已核实多语种外链总库、排除避坑表与提交进度
+├── backlinks/            2026-11-23 已核实多语种外链总库、排除避坑表与提交进度
 └── grow-seo-traffic/     SEO 专项原始数据，保留固定路径
 ```
 
 ## 文档索引
 
-按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）→ 已核实多语种外链总库（11-20，当前可执行）。
+按时间和主题读：SEO 工具需求（11-05，历史快照）→ 已否决方向（11-08 深筛与重筛）→ 小游戏方向（11-08 机制研究与 11-12 网页热度快照，当前）→ 游戏开发工具与引擎笔记（11-10、11-11）→ 已核实多语种外链总库（11-23，当前可执行，360 站）。
 
 ### 1. SEO 工具需求（2026-11-05，历史快照，未经复核）
 
@@ -121,12 +121,13 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 | 文档 | 内容 |
 | --- | --- |
 | [backlinks/README.md](docs/backlinks/README.md) | 多语种外链总库入口：统计、导航、冷启动顺序与避坑。 |
-| [site-pool.csv](docs/backlinks/site-pool.csv) | 去重后的完整总记录库（219 站，UTF-8 CSV）。 |
+| [site-pool.csv](docs/backlinks/site-pool.csv) | 去重后的完整总记录库（360 站，UTF-8 CSV）。 |
 | [excluded-log.md](docs/backlinks/excluded-log.md) | 已排除站点避坑表（新域名、付费、审核过严、死站）。 |
 | [free-directories.md](docs/backlinks/free-directories.md) | 仍保留的英语免费目录与内容页（已同步 2024+ 新域名降级）。 |
-| [en-forums-social.md](docs/backlinks/en-forums-social.md) | 英语区论坛、社媒、博客与垂直社区。 |
+| [en-forums-social.md](docs/backlinks/en-forums-social.md) | 英语区论坛、社媒、博客与垂直社区（含澳新爱新）。 |
 | [ja-tw-channels.md](docs/backlinks/ja-tw-channels.md) | 日语区 + 台湾／香港繁体渠道。 |
 | [fr-de-ko-channels.md](docs/backlinks/fr-de-ko-channels.md) | 法语、德语、韩语区渠道。 |
+| [es-it-nl-nordic-channels.md](docs/backlinks/es-it-nl-nordic-channels.md) | 西语、意大利、荷兰、北欧与葡萄牙语区渠道。 |
 | [puzzlebento-competitors.md](docs/backlinks/puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道。 |
 | [submission-tracker.md](docs/backlinks/submission-tracker.md) | 五个站点 × 高优渠道的勾选进度表。 |
 

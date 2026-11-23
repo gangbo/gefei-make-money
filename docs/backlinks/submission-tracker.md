@@ -1,6 +1,6 @@
 # 免费外链提交进度
 
-核验日期：2026-11-20（America/New_York）。渠道与条件见 [free-directories.md](free-directories.md)、各语区清单和 [site-pool.csv](site-pool.csv)。已排除项见 [excluded-log.md](excluded-log.md)，不要把它们补回本表。
+核验日期：2026-11-23（America/New_York）。第 3 批已把少量新的「推荐-免费可用」渠道补入下表。渠道与条件见 [free-directories.md](free-directories.md)、各语区清单和 [site-pool.csv](site-pool.csv)。已排除项见 [excluded-log.md](excluded-log.md)，不要把它们补回本表。
 
 图例：
 
@@ -149,6 +149,28 @@ Velog 为「推荐-免费可用」。Disquiet、GeekNews 为「可用-有门槛�
 | GeekNews | [入门](https://news.hada.io/start) | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 ---
+
+
+## 第 3 批高优补充（推荐-免费可用）
+
+只补少量立刻能用的新渠道。西语/荷兰/北欧大型论坛多为有门槛，不进入本表。完整清单见 [es-it-nl-nordic-channels.md](es-it-nl-nordic-channels.md) 和 [en-forums-social.md](en-forums-social.md)。
+
+| 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
+| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| indiexpo | [indiexpo.net](https://www.indiexpo.net/) | [ ] | - | - | - | - |
+| Altervista | [it.altervista.org](https://it.altervista.org/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Mastodon.uno | [注册](https://mastodon.uno/auth/sign_up) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Libero Blog | [blog.libero.it](https://blog.libero.it/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Blogg.se | [blogg.se](https://blogg.se/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Neocities | [neocities.org](https://neocities.org/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| CodePen | [codepen.io](https://codepen.io/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| OpenProcessing | [openprocessing.org](https://openprocessing.org/) | [ ] | - | - | - | - |
+| Lexaloffle | [lexaloffle.com](https://www.lexaloffle.com/) | [ ] | - | - | - | - |
+| Xing | [注册](https://www.xing.com/signup?registration=1) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Jugem | [jugem.jp](https://jugem.jp/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| RocketPunch | [rocketpunch.com](https://www.rocketpunch.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+Xing 为德语区职业资料页，Jugem 为日语博客，RocketPunch 为韩国产品/公司页。发帖请用对应语言。
 
 ## 提交时请自行补记（可选）
 
