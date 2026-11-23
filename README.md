@@ -129,6 +129,8 @@ docs/                     2026-09 至 2026-10 选品资料库，以及 2026-11 �
 | [fr-de-ko-channels.md](docs/backlinks/fr-de-ko-channels.md) | 法语、德语、韩语区渠道。 |
 | [es-it-nl-nordic-channels.md](docs/backlinks/es-it-nl-nordic-channels.md) | 西语、意大利、荷兰/比利时、北欧、葡语与奥地利/瑞士渠道。 |
 | [puzzlebento-competitors.md](docs/backlinks/puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道。 |
+| [submission-priority.md](docs/backlinks/submission-priority.md) | 可用渠道的 P0 / P1 / P2 投稿优先级。 |
+| [submission-copy.md](docs/backlinks/submission-copy.md) | 五个站点的可复用投稿文案与论坛模板。 |
 | [submission-tracker.md](docs/backlinks/submission-tracker.md) | 五个站点 × 高优渠道的勾选进度表。 |
 
 ## 从哪里开始（docs/ 资料库）
