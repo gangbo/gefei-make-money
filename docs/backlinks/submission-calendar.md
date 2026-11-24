@@ -26,6 +26,7 @@
 每个平台的实际投稿结果（含注册受阻、发帖受阻）记录在 [submission-log.md](submission-log.md)。
 
 - 第 1 天：2026-11-23 晚提前完成，4 个上线（itch.io、Game Jolt、Carrd、Ko-fi），About.me 注册受阻（只支持 Facebook/Google 注册）。之后每天做下一个未完成的日历天，整体提前一天。
+- 第 2 天：2026-11-24 完成，2 个上线（indiexpo 游戏页 nofollow、Linktree 无 nofollow），Patreon 发布受阻（发布要填法定姓名和居住国家），フリーゲーム夢現 访问受阻（我电脑上打不开网站），Blogger 注册受阻（新建 Google 账号要手机扫码验证）。
 
 ## 怎么用
 
