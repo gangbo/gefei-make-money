@@ -13,7 +13,7 @@
 - **链接属性（dofollow / nofollow）一律写「未知」**，本次未逐条打开 robots/HTML 核对外链 `rel`，不编造。
 - 权威度只使用「域名创建时间 + 是否为长期存在的官方平台/协会/老论坛」这类已核实信号，不编造 DR 或流量。
 - 先读版规再发。同一套简介不要在一天内向大量目录粘贴。Product Hunt 与 Peerlist 不要订在同一天。Show HN 不要拉票。
-- 五个目标站的可复用文案见 [submission-copy.md](submission-copy.md)。勾选进度仍用 [submission-tracker.md](submission-tracker.md)。
+- 五个目标站的可复用文案见 [submission-copy.md](submission-copy.md)。若当前只推广 PuzzleBento，执行日程见 [submission-calendar.md](submission-calendar.md)（28 天全部只排 puzzlebento.com）。勾选进度仍用 [submission-tracker.md](submission-tracker.md)。
 
 目标站简称：PuzzleBento、ChartSeat、Online Poll Maker、InvoiceNeat、TikTomato。
 

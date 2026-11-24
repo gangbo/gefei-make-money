@@ -69,6 +69,7 @@
 | [puzzlebento-competitors.md](puzzlebento-competitors.md) | PuzzleBento 的 12 个小型独立竞品，以及反查出的可复用渠道（部分平台已因新域名降级） |
 | [submission-priority.md](submission-priority.md) | 全库可用渠道的 P0 / P1 / P2 投稿优先级 |
 | [submission-copy.md](submission-copy.md) | 五个站点的可复用投稿文案与论坛自我介绍模板 |
+| [submission-calendar.md](submission-calendar.md) | PuzzleBento 专属 28 天投稿日历（每天 2 大 + 3 小，只排 puzzlebento.com） |
 | [submission-tracker.md](submission-tracker.md) | 五站点 × 高优渠道的勾选进度表 |
 
 历史参考（2026-09-04 社区榜单，**费用与链接属性当时未经目标站独立核验**，且含大量 AI 导航，不能当成本目录的提交清单）：
@@ -78,7 +79,7 @@
 
 ## 建议的冷启动顺序
 
-不要一天把所有渠道交完。同一套产品说明可以复用，但短描述按站点改写，锚文本用品牌名或自然短语，不要全部精确匹配关键词。**先看域名年龄和状态标签，再动手。** 具体先交哪些站，以及可复用文案，见 [submission-priority.md](submission-priority.md) 和 [submission-copy.md](submission-copy.md)。
+不要一天把所有渠道交完。同一套产品说明可以复用，但短描述按站点改写，锚文本用品牌名或自然短语，不要全部精确匹配关键词。**先看域名年龄和状态标签，再动手。** 若只推广 PuzzleBento，按 [submission-calendar.md](submission-calendar.md) 的 28 天日程执行（只排 puzzlebento.com）。渠道优先级和文案见 [submission-priority.md](submission-priority.md)、[submission-copy.md](submission-copy.md)。
 
 **第 1 周：先交老域名免费目录和资料页，每天 2–4 个。**
 
