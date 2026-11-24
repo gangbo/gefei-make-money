@@ -25,6 +25,8 @@
 
 每个平台的实际投稿结果（含注册受阻、发帖受阻）记录在 [submission-log.md](submission-log.md)。
 
+- 第 1 天：2026-11-23 晚提前完成，4 个上线（itch.io、Game Jolt、Carrd、Ko-fi），About.me 注册受阻（只支持 Facebook/Google 注册）。之后每天做下一个未完成的日历天，整体提前一天。
+
 ## 怎么用
 
 - **大站**：游戏投稿/展示平台、大型游戏论坛或媒体、以及 YouTube / GitHub / Product Hunt / Show HN 这类高曝光入口。
