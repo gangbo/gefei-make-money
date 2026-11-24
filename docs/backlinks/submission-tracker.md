@@ -159,7 +159,7 @@ Velog 为「推荐-免费可用」。Disquiet、GeekNews 为「可用-有门槛�
 
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
-| indiexpo | [indiexpo.net](https://www.indiexpo.net/) | [ ] | - | - | - | - |
+| indiexpo | [indiexpo.net](https://www.indiexpo.net/) | [x] | - | - | - | - |
 | Altervista | [it.altervista.org](https://it.altervista.org/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Mastodon.uno | [注册](https://mastodon.uno/auth/sign_up) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Libero Blog | [blog.libero.it](https://blog.libero.it/) | [ ] | [ ] | [ ] | [ ] | [ ] |
