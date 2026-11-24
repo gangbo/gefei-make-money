@@ -19,7 +19,7 @@ PuzzleBento 每次投稿的详细记录见 [submission-log.md](submission-log.md
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
 | itch.io | [HTML5 文档](https://itch.io/docs/creators/html5) | [x] | - | - | - | - |
-| Game Jolt | [新增游戏](https://gamejolt.com/dashboard/games/add) | [ ] | - | - | - | - |
+| Game Jolt | [新增游戏](https://gamejolt.com/dashboard/games/add) | [x] | - | - | - | - |
 
 Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles 已因 2024+ 新域名从本表撤出。Foundplay／GameHub 若以后升回，仍建议按单款游戏交 2–3 个最完整的页面，不要只交首页。
 
