@@ -1,5 +1,7 @@
 # 免费外链提交进度
 
+PuzzleBento 每次投稿的详细记录见 [submission-log.md](submission-log.md)。
+
 核验日期：2026-11-23（America/New_York）。第 3 批已把少量新的「推荐-免费可用」渠道补入下表。渠道与条件见 [free-directories.md](free-directories.md)、各语区清单和 [site-pool.csv](site-pool.csv)。若只推广 PuzzleBento，按 [submission-calendar.md](submission-calendar.md) 执行（28 天只排 puzzlebento.com，不排另外四站）。投稿顺序见 [submission-priority.md](submission-priority.md)，可复用文案见 [submission-copy.md](submission-copy.md)。已排除项见 [excluded-log.md](excluded-log.md)，不要把它们补回本表。
 
 图例：
@@ -16,7 +18,7 @@
 
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
-| itch.io | [HTML5 文档](https://itch.io/docs/creators/html5) | [ ] | - | - | - | - |
+| itch.io | [HTML5 文档](https://itch.io/docs/creators/html5) | [x] | - | - | - | - |
 | Game Jolt | [新增游戏](https://gamejolt.com/dashboard/games/add) | [ ] | - | - | - | - |
 
 Puzzle Hub、Foundplay、IgnLab GameHub、I Love Web Games、SlowDen、All Daily Puzzles 已因 2024+ 新域名从本表撤出。Foundplay／GameHub 若以后升回，仍建议按单款游戏交 2–3 个最完整的页面，不要只交首页。

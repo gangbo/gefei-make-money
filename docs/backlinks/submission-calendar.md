@@ -21,6 +21,10 @@
 - 全部游戏 URL 均来自 [sitemap.xml](https://puzzlebento.com/sitemap.xml)，并已逐条 GET 确认 HTTP 200。未编造地址，也未编造搜索量；热度仅根据 2026 年公开盘点是否常点名该玩法，判断不了的标「热度未知」。
 - 文案列指向 submission-copy.md 里对应游戏的英文 / 日文 / 繁中短描述。感恩节找词排在日历前几天的博客（2026 年感恩节为 11 月 26 日，纽约时间）；圣诞节找词排在后半段。
 
+## 投稿进度
+
+每个平台的实际投稿结果（含注册受阻、发帖受阻）记录在 [submission-log.md](submission-log.md)。
+
 ## 怎么用
 
 - **大站**：游戏投稿/展示平台、大型游戏论坛或媒体、以及 YouTube / GitHub / Product Hunt / Show HN 这类高曝光入口。
