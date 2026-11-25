@@ -71,7 +71,7 @@ Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室�
 
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
-| Bluesky | [bsky.app](https://bsky.app/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Bluesky | [bsky.app](https://bsky.app/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Mastodon (mastodon.social) | [注册](https://mastodon.social/auth/sign_up) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Tumblr | [注册](https://www.tumblr.com/register) | [x] | [ ] | [ ] | [ ] | [ ] |
 | YouTube | [youtube.com](https://www.youtube.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
