@@ -77,7 +77,7 @@ Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室�
 | YouTube | [youtube.com](https://www.youtube.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Ko-fi | [ko-fi.com](https://ko-fi.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Blogger | [blogger.com](https://www.blogger.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| WordPress.com | [开通](https://wordpress.com/start) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| WordPress.com | [开通](https://wordpress.com/start) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Bear Blog | [bearblog.dev](https://bearblog.dev/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | HTML5 Game Devs Forum | [html5gamedevs.com](https://www.html5gamedevs.com/) | [x] | - | - | - | - |
 
@@ -90,7 +90,7 @@ Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室�
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
 | フリーゲーム夢現 | [投稿](https://freegame-mugen.jp/publish/) | [ ] | - | - | - | - |
-| PLiCy | [plicy.net](https://plicy.net/) | [x] | - | - | 发帖受阻 | 只能上传游戏文件，不能填外部链接 |
+| PLiCy | [plicy.net](https://plicy.net/) | [x] | - | - | - | - |
 | Qiita | [qiita.com](https://qiita.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Zenn | [zenn.dev](https://zenn.dev/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | note | [note.com](https://note.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
