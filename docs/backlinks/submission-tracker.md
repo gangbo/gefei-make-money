@@ -79,7 +79,7 @@ Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室�
 | Blogger | [blogger.com](https://www.blogger.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | WordPress.com | [开通](https://wordpress.com/start) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Bear Blog | [bearblog.dev](https://bearblog.dev/) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| HTML5 Game Devs Forum | [html5gamedevs.com](https://www.html5gamedevs.com/) | [ ] | - | - | - | - |
+| HTML5 Game Devs Forum | [html5gamedevs.com](https://www.html5gamedevs.com/) | [x] | - | - | - | - |
 
 ---
 
