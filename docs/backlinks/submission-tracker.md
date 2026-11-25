@@ -73,7 +73,7 @@ Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室�
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
 | Bluesky | [bsky.app](https://bsky.app/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Mastodon (mastodon.social) | [注册](https://mastodon.social/auth/sign_up) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| Tumblr | [注册](https://www.tumblr.com/register) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Tumblr | [注册](https://www.tumblr.com/register) | [x] | [ ] | [ ] | [ ] | [ ] |
 | YouTube | [youtube.com](https://www.youtube.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Ko-fi | [ko-fi.com](https://ko-fi.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Blogger | [blogger.com](https://www.blogger.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
