@@ -53,7 +53,7 @@ G2 更适合能讲成软件／团队工具的站点；PuzzleBento 是游戏合�
 | Indie Hackers | [产品区](https://www.indiehackers.com/products) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | DEV Community | [写文章](https://dev.to/new) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Hashnode | [引导](https://hashnode.com/onboard) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| Medium | [medium.com](https://medium.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Medium | [medium.com](https://medium.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Pinterest | [pinterest.com](https://www.pinterest.com/) | [ ] | [ ] | - | - | - |
 | LinkedIn | [linkedin.com](https://www.linkedin.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Substack | [substack.com](https://substack.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
