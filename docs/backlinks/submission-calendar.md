@@ -28,6 +28,7 @@
 - 第 1 天：2026-11-23 晚提前完成，4 个上线（itch.io、Game Jolt、Carrd、Ko-fi），About.me 注册受阻（只支持 Facebook/Google 注册）。之后每天做下一个未完成的日历天，整体提前一天。
 - 第 2 天：2026-11-24 完成，2 个上线（indiexpo 游戏页 nofollow、Linktree 无 nofollow），Patreon 发布受阻（发布要填法定姓名和居住国家），フリーゲーム夢現 访问受阻（我电脑上打不开网站），Blogger 注册受阻（新建 Google 账号要手机扫码验证）。
 - 第 3 天：2026-11-25 完成，3 个上线（WordPress.com 博客文章 dofollow、Tumblr 帖子无 nofollow、Bluesky 帖子无 nofollow），HTML5 Game Devs Forum 展示帖待版主审核（nofollow），PLiCy 发帖受阻（只能上传游戏文件，不能填外部链接）。
+- 第 4 天：2026-11-26 完成，3 个上线（GitHub 公开仓库 gangbo/puzzlebento README nofollow、Mastodon 帖子 nofollow、Medium 文章 nofollow），DEV Community 注册受阻（不接受 grokbot.com 邮箱），YouTube 注册受阻（需要 Google 账号，新建要手机扫码验证）。
 
 ## 怎么用
 
