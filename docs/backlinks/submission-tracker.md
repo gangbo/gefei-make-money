@@ -58,7 +58,7 @@ G2 更适合能讲成软件／团队工具的站点；PuzzleBento 是游戏合�
 | LinkedIn | [linkedin.com](https://www.linkedin.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Substack | [substack.com](https://substack.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | X | [x.com](https://x.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| GitHub Profile／README | [github.com](https://github.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| GitHub Profile／README | [github.com](https://github.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Crunchbase 公司页 | [创建说明](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 Pinterest 最适合有明确视觉场景的站（解谜截图、婚礼／教室座位图）。Crunchbase 同一运营主体只需创建一个公司页，五个域名列在该页即可，不必重复建档。
