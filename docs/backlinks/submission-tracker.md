@@ -56,7 +56,7 @@ G2 更适合能讲成软件／团队工具的站点；PuzzleBento 是游戏合�
 | Medium | [medium.com](https://medium.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Pinterest | [pinterest.com](https://www.pinterest.com/) | [ ] | [ ] | - | - | - |
 | LinkedIn | [linkedin.com](https://www.linkedin.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| Substack | [substack.com](https://substack.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Substack | [substack.com](https://substack.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | X | [x.com](https://x.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | GitHub Profile／README | [github.com](https://github.com/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Crunchbase 公司页 | [创建说明](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | [ ] | [ ] | [ ] | [ ] | [ ] |
