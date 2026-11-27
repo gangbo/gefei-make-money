@@ -164,7 +164,7 @@ Velog 为「推荐-免费可用」。Disquiet、GeekNews 为「可用-有门槛�
 | Mastodon.uno | [注册](https://mastodon.uno/auth/sign_up) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Libero Blog | [blog.libero.it](https://blog.libero.it/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | Blogg.se | [blogg.se](https://blogg.se/) | [ ] | [ ] | [ ] | [ ] | [ ] |
-| Neocities | [neocities.org](https://neocities.org/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Neocities | [neocities.org](https://neocities.org/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | CodePen | [codepen.io](https://codepen.io/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | OpenProcessing | [openprocessing.org](https://openprocessing.org/) | [ ] | - | - | - | - |
 | Lexaloffle | [lexaloffle.com](https://www.lexaloffle.com/) | [ ] | - | - | - | - |
