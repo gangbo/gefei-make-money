@@ -182,6 +182,7 @@ Xing 为德语区职业资料页，Jugem 为日语博客，RocketPunch 为韩国
 | 渠道 | 入口 | puzzlebento.com | chartseat.com | onlinepollmaker.com | invoiceneat.com | tiktomato.com |
 | --- | --- | :---: | :---: | :---: | :---: | :---: |
 | HackMD | [hackmd.io](https://hackmd.io/) | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Notion Sites | [notion.so](https://www.notion.so/) | [x] | [ ] | [ ] | [ ] | [ ] |
 | Glitch | [glitch.com](https://glitch.com/) | [ ] | [ ] | [ ] | [ ] | [ ] |
 | js13kGames | [js13kgames.com](https://js13kgames.com/) | [ ] | - | - | - | - |
 | IndieDevs.ch | [indiedevs.ch](https://www.indiedevs.ch/) | [ ] | - | - | - | - |
