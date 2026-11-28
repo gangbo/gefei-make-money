@@ -30,6 +30,7 @@
 - 第 3 天：2026-11-25 完成，3 个上线（WordPress.com 博客文章 dofollow、Tumblr 帖子无 nofollow、Bluesky 帖子无 nofollow），HTML5 Game Devs Forum 展示帖待版主审核（nofollow），PLiCy 发帖受阻（只能上传游戏文件，不能填外部链接）。
 - 第 4 天：2026-11-26 完成，3 个上线（GitHub 公开仓库 gangbo/puzzlebento README nofollow、Mastodon 帖子 nofollow、Medium 文章 nofollow），DEV Community 注册受阻（不接受 grokbot.com 邮箱），YouTube 注册受阻（需要 Google 账号，新建要手机扫码验证）。
 - 第 5 天：2026-11-27 完成，2 个上线（Neocities 个人页 dofollow、Substack 文章公开页无 rel），Hashnode 注册受阻（邮箱魔法链接发送失败 "Failed to send magic link"），Product Hunt 注册受阻（只能用第三方账号登录，没有邮箱注册），Lexaloffle 发帖受阻（论坛只收 PICO-8 等自家主机作品，HTML5 扫雷属于离题，未注册未发）。
+- 第 6 天：2026-11-28 进行中。1 个上线（Notion 公开页，rel 未知），Dreamwidth 跳过（注册条款明写禁止用账号做外链和 SEO），Glitch 跳过（2025-07-08 起已停止项目托管，网站只剩博客）。Indie Hackers 和 Steam Community 需要设密码，待下次有人在场时注册。
 
 ## 怎么用
 
